@@ -25,7 +25,7 @@ public class ControlliStampa {
             case LOCALDISTANCE ->
                     algo = new LocalDistance();
 
-            default -> System.err.println("Algoritmo non gestito");
+            default -> throw new IllegalArgumentException("Algoritmo non gestito");
         }
         return algo;
     }

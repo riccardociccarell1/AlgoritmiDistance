@@ -49,7 +49,7 @@ public class StampaAlgoritmo {
                 esegui(stringaToListaCaratteri(primastringa), stringaToListaCaratteri(secondastringa));
             }
         } else {
-            System.err.println("Stringhe di diversa tipologia");
+            throw new IllegalArgumentException("Stringhe di diversa tipologia");
         }
     }
 
@@ -62,7 +62,7 @@ public class StampaAlgoritmo {
             this.algoritmo = controlloAlgoritmo(algoritmo);
             esegui(primacoppia, secondacoppia);
         } else {
-            System.err.println("coppie di diversa tipologia");
+            throw new IllegalArgumentException("coppie di diversa tipologia");
         }
     }
 

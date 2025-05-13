@@ -11,6 +11,11 @@ import java.util.List;
 public class InputTrasformation {
 
     public static List<Character> stringaToListaCaratteri(String sequenza) {
+        for (char c : sequenza.toCharArray()) {
+            if (!Character.isLetter(c) && !carattereSpeciale(c)) {
+                throw new IllegalArgumentException("Errore: la stringa contiene caratteri non alfabetici.");
+            }
+        }
         List<Character> caratteri = new ArrayList<>();
         for (char c : sequenza.toCharArray()) {
             caratteri.add(c);
@@ -18,11 +23,28 @@ public class InputTrasformation {
         return caratteri;
     }
 
+    public static boolean carattereSpeciale(char c) {
+        return c == '[' || c == '{' || c == '(' || c == '.'
+                || c == ']' || c == '}' || c == ')';
+    }
+
+
+
     public static List<Integer> stringaToListaInteri(String sequenza) {
-        List<Integer> numeri = new ArrayList<>();
-        for (int c : sequenza.toCharArray()) {
-            numeri.add(c);
+        // Controlla se ogni carattere della stringa è un numero tra '0' e '9'
+        for (char c : sequenza.toCharArray()) {
+            // Controlla se il carattere non è tra '0' e '9'
+            if (c < '0' || c > '9') {
+                throw new IllegalArgumentException("Errore: la stringa contiene caratteri non numerici.");
+            }
         }
+
+        // Crea la lista di numeri
+        List<Integer> numeri = new ArrayList<>();
+        for (char c : sequenza.toCharArray()) {
+            numeri.add(Character.getNumericValue(c)); // Aggiunge il valore numerico del carattere
+        }
+
         return numeri;
     }
 
@@ -32,7 +54,7 @@ public class InputTrasformation {
     public static List<Coppie> CreaListaCoppie(String primastringa, String secondastringa, TipologiaCoppie tipologia)
     {
         if(primastringa.length() != secondastringa.length()){
-            throw new RuntimeException("LE STRINGHE NON HANNO LUNGHEZZA UGUALE");
+            throw new IllegalArgumentException("LE STRINGHE NON HANNO LUNGHEZZA UGUALE");
         }
         List<?>  primalista = null;
         List<?>  secondalista = null;
@@ -54,7 +76,7 @@ public class InputTrasformation {
             primalista = stringaToListaInteri(primastringa);
             secondalista = stringaToListaCaratteri(secondastringa);
         }
-        else{System.err.println("coppia non supportata");}
+        else{ throw new IllegalArgumentException("coppia non supportata");}
         for(int i = 0; i < primastringa.length(); i++){
             Coppie newcoppia = new Coppie(primalista.get(i),secondalista.get(i));
             coppielist.add(newcoppia);
@@ -71,5 +93,13 @@ public class InputTrasformation {
 
 
 }
+
+
+
+
+
+
+
+
 
 
