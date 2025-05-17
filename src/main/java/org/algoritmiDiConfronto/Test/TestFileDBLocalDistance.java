@@ -41,7 +41,9 @@ public class TestFileDBLocalDistance {
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]", TipologiaCoppie.COPPIE_CARATTERI);
 
 
-        stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALDISTANCE);
+
+
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALDISTANCE);
 
 //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALDISTANCE);
 

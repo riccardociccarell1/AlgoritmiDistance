@@ -4,7 +4,7 @@ package org.algoritmiDiConfronto.algoritmi;
 import java.util.List;
 
 
-public class LocalDistance extends AlgoritmoBaseGenerics {
+public class LocalComparison extends AlgoritmoBaseGenerics {
 
 
     /**
@@ -60,7 +60,7 @@ public class LocalDistance extends AlgoritmoBaseGenerics {
 
     @Override
     public String significatoUltimoElemento() {
-        return "LA LOCAL DISTANCE CORRISPONDE A:";
+        return "LA LOCALCOMPARISON CORRISPONDE A:";
     }
 
     @Override

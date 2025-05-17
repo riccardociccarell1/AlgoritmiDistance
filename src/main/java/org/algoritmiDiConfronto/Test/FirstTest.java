@@ -14,10 +14,10 @@ public class FirstTest {
                 TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
 
         stampaAlgoritmo.eseguiAlgoritmoSuListe("ALBERO", "LABBRO",
-                TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALDISTANCE);
+                TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
 
         stampaAlgoritmo.eseguiAlgoritmoSuListe("ALTERO", "TALALTRA",
-                TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALDISTANCE);
+                TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
     }

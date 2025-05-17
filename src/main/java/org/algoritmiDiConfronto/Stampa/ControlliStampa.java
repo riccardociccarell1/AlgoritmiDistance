@@ -3,8 +3,8 @@ package org.algoritmiDiConfronto.Stampa;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 import org.algoritmiDiConfronto.algoritmi.AlgoritmoBaseGenerics;
 import org.algoritmiDiConfronto.algoritmi.EditDistance;
-import org.algoritmiDiConfronto.algoritmi.GlobalDistance;
-import org.algoritmiDiConfronto.algoritmi.LocalDistance;
+import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
+import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 
 public class ControlliStampa {
@@ -19,11 +19,11 @@ public class ControlliStampa {
             case EDITDISTANCE ->
                     algo = new EditDistance();
 
-            case GLOBALDISTANCE ->
-                    algo = new GlobalDistance();
+            case GLOBALCOMPARISON ->
+                    algo = new GlobalComparison();
 
-            case LOCALDISTANCE ->
-                    algo = new LocalDistance();
+            case LOCALCOMPARISON ->
+                    algo = new LocalComparison();
 
             default -> throw new IllegalArgumentException("Algoritmo non gestito");
         }

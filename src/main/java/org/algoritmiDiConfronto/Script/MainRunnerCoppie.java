@@ -31,8 +31,8 @@ public class MainRunnerCoppie {
 
         TipologiaAlgoritmi tipoalgoritmi = null;
         if (tipologiaAlgoritmo.equals("1")) {tipoalgoritmi = TipologiaAlgoritmi.EDITDISTANCE;}
-        else if (tipologiaAlgoritmo.equals("2")) {tipoalgoritmi = TipologiaAlgoritmi.GLOBALDISTANCE;}
-        else  {tipoalgoritmi = TipologiaAlgoritmi.LOCALDISTANCE;}
+        else if (tipologiaAlgoritmo.equals("2")) {tipoalgoritmi = TipologiaAlgoritmi.GLOBALCOMPARISON;}
+        else  {tipoalgoritmi = TipologiaAlgoritmi.LOCALCOMPARISON;}
 
         AlgoritmoBaseGenerics algoritmoScelto = controlloAlgoritmo(tipoalgoritmi);
 

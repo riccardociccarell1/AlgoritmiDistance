@@ -3,7 +3,7 @@ package org.algoritmiDiConfronto.algoritmi;
 import java.util.List;
 
 
-public class GlobalDistance extends AlgoritmoBaseGenerics {
+public class GlobalComparison extends AlgoritmoBaseGenerics {
 
 
     @Override
@@ -18,7 +18,7 @@ public class GlobalDistance extends AlgoritmoBaseGenerics {
 
     @Override
     public String significatoUltimoElemento() {
-        return "LA GLOBAL DISTANCE CORRISPONDE A:";
+        return "LA GLOBALCOMPARISON CORRISPONDE A:";
     }
 
     @Override

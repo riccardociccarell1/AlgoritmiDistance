@@ -26,8 +26,8 @@ public class MainRunner {
 
         TipologiaAlgoritmi tipoalgoritmi;
         if (algoritmo.equals("1")) {tipoalgoritmi = TipologiaAlgoritmi.EDITDISTANCE;}
-        else if (algoritmo.equals("2")) {tipoalgoritmi = TipologiaAlgoritmi.GLOBALDISTANCE;}
-        else  {tipoalgoritmi = TipologiaAlgoritmi.LOCALDISTANCE;}
+        else if (algoritmo.equals("2")) {tipoalgoritmi = TipologiaAlgoritmi.GLOBALCOMPARISON;}
+        else  {tipoalgoritmi = TipologiaAlgoritmi.LOCALCOMPARISON;}
 
         AlgoritmoBaseGenerics algoritmoScelto = controlloAlgoritmo(tipoalgoritmi);
 

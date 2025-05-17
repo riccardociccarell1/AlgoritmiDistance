@@ -27,8 +27,8 @@ const ask = (question) => new Promise((res) => rl.question(question, res));
             "4: COPPIE_CARATTERE_INTERO\n");
         const tipologiaAlgoritmo = await ask("Inserisci il numero dell'algoritmo:\n" +
             "1: EDITDISTANCE\n" +
-            "2: GLOBALDISTANCE\n" +
-            "3: LOCALDISTANCE\n");
+            "2: GLOBALCOMPARISON\n" +
+            "3: LOCALCOMPARISON\n");
         const filename = await ask("Nome file CSV di output (senza estensione): ");
         rl.close();
 
