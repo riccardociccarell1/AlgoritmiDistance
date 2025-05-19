@@ -8,7 +8,7 @@ public class GlobalComparison extends AlgoritmoBaseGenerics {
 
     @Override
     public String stampaTesto() {
-        return "GLOBAL DISTANCE";
+        return "GLOBAL COMPARISON";
     }
 
     @Override

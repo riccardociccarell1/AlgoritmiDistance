@@ -50,7 +50,7 @@ public class LocalComparison extends AlgoritmoBaseGenerics {
 
     @Override
     public String stampaTesto() {
-        return "LOCAL DISTANCE  ";
+        return "LOCAL COMPARISON  ";
     }
 
     @Override

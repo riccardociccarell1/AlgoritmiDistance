@@ -45,7 +45,7 @@ public class StampaAlgoritmo {
 
             if (tprimalista.equals(TipologiaSingoliElementi.INTEGER)) {
                 esegui(stringaToListaInteri(primastringa), stringaToListaInteri(secondastringa));
-            } else {
+            } else if (tprimalista.equals(TipologiaSingoliElementi.CHARACTER)) {
                 esegui(stringaToListaCaratteri(primastringa), stringaToListaCaratteri(secondastringa));
             }
         } else {

@@ -31,18 +31,14 @@ public class InputTrasformation {
 
 
     public static List<Integer> stringaToListaInteri(String sequenza) {
-        // Controlla se ogni carattere della stringa è un numero tra '0' e '9'
         for (char c : sequenza.toCharArray()) {
-            // Controlla se il carattere non è tra '0' e '9'
             if (c < '0' || c > '9') {
                 throw new IllegalArgumentException("Errore: la stringa contiene caratteri non numerici.");
             }
         }
-
-        // Crea la lista di numeri
         List<Integer> numeri = new ArrayList<>();
         for (char c : sequenza.toCharArray()) {
-            numeri.add(Character.getNumericValue(c)); // Aggiunge il valore numerico del carattere
+            numeri.add(Character.getNumericValue(c));
         }
 
         return numeri;
