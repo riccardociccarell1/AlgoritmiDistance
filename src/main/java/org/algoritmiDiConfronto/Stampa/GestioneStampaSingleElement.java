@@ -1,6 +1,11 @@
 package org.algoritmiDiConfronto.Stampa;
 
+import org.algoritmiDiConfronto.algoritmi.AlgoritmoBaseGenerics;
+import org.algoritmiDiConfronto.algoritmi.LocalComparison;
+
 import java.util.List;
+
+import static org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi.LOCALCOMPARISON;
 
 public class GestioneStampaSingleElement implements GestioneStampa{
     @Override
@@ -16,6 +21,13 @@ public class GestioneStampaSingleElement implements GestioneStampa{
 
         System.out.print("    ");         // Spazio iniziale per allineare la riga 0
         System.out.printf("%4s","0");
+        for (int j = 1; j <= m; j++) {
+            System.out.printf("%4s",j);
+        }
+        System.out.println();
+        System.out.println();
+        System.out.print("    ");         // Spazio iniziale per allineare la riga 0
+        System.out.printf("%4s","0");
         for (int j = 0; j < m; j++) {
             System.out.printf("%4s",Y.get(j));
         }
@@ -26,7 +38,7 @@ public class GestioneStampaSingleElement implements GestioneStampa{
             if (i == 0) {
                 System.out.printf("%4s","0");
             } else {
-                System.out.printf("%4s",X.get(i - 1) );
+                System.out.printf("%4s",(i+".")+X.get(i - 1) );
             }
 
             for (int j = 0; j <= m; j++) {
@@ -42,10 +54,25 @@ public class GestioneStampaSingleElement implements GestioneStampa{
     }
 
     @Override
-    public void stampaUltimoElemento(List<List<Integer>> M) {
-        int ultimariga = M.size() - 1;
-        int ultimacolonna = M.get(ultimariga).size() - 1;
-        System.out.println(M.get(ultimariga).get(ultimacolonna));
+    public void stampaUltimoElemento(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
+        if (algo instanceof LocalComparison) {
+            int indicey = 0;
+            int indicex = 0;
+            int max = 0;
+            for (List<Integer> riga : M) {
+                for (int j = 0; j < riga.size(); j++) {
+                    if (riga.get(j) >= max) {
+                        max = riga.get(j);
+                        indicey = j;
+                        indicex = M.indexOf(riga);
+                    }
+                }
+            }
+            System.out.println("x:" + indicex + ", y:" + indicey + ", valore=" + max);
+        }
+        else System.out.println("x:" + M.indexOf(M.getLast()) +
+                ", y:" + (M.get(M.size() - 1).size() - 1) +
+                ", valore=" + M.getLast().getLast());
     }
 
     @Override

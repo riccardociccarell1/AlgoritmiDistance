@@ -27,7 +27,7 @@ public class StampaAlgoritmo {
 
         stampatore.stampaMatrice(X, Y, M);
         stampatore.stampaSignificatoUltimoElemento(algoritmo.significatoUltimoElemento());
-        stampatore.stampaUltimoElemento(M);
+        stampatore.stampaUltimoElemento(M,algoritmo);
 
         List<List<String>> allineamento = algoritmo.calcolaAllineamento(X, Y, M);
         stampatore.stampaAllineamento(allineamento.get(0), allineamento.get(1));
