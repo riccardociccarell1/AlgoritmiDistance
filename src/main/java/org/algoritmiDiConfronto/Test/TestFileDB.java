@@ -48,14 +48,14 @@ TestFileDB {
         //EDITDISTANCE=1
         //GLOBALCOMPARISON=46
         //LOCALCOMPARISON=46
-        stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2K95, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //2. DB1YMO - DB2M8K
         //EDITDISTANCE=25
         //GLOBALCOMPARISON=1
-        //LOCALCOMPARISON=4
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -63,7 +63,7 @@ TestFileDB {
         //3. DB1YMO - DB4PLX
         //EDITDISTANCE=48
         //GLOBALCOMPARISON=-18
-        //LOCALCOMPARISON=5
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -71,7 +71,7 @@ TestFileDB {
         //4. DB1YMO - hTER
         //EDITDISTANCE=112
         //GLOBALCOMPARISON=10
-        //LOCALCOMPARISON=10
+        //LOCALCOMPARISON=29
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -79,7 +79,7 @@ TestFileDB {
         //5. DB1YMO - MALAT1completionof4PLX
         //EDITDISTANCE=64
         //GLOBALCOMPARISON=-33
-        //LOCALCOMPARISON=5
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -87,7 +87,7 @@ TestFileDB {
         //6. DB1YMO - PAN1
         //EDITDISTANCE=38
         //GLOBALCOMPARISON=-14
-        //LOCALCOMPARISON=3
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -95,7 +95,7 @@ TestFileDB {
         //7. DB1YMO -PAN2
         //EDITDISTANCE=38
         //GLOBALCOMPARISON=-14
-        //LOCALCOMPARISON=1
+        //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB1YMO, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -103,7 +103,7 @@ TestFileDB {
         //8. DB2K95 - DB2M8K
         //EDITDISTANCE=25
         //GLOBALCOMPARISON=1
-        //LOCALCOMPARISON=3
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB2M8K, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -111,7 +111,7 @@ TestFileDB {
         //9. DB2K95 - DB4PLX
         //EDITDISTANCE=48
         //GLOBALCOMPARISON=-18
-        //LOCALCOMPARISON=5
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -119,7 +119,7 @@ TestFileDB {
         //10. DB2K95 - hTER
         //EDITDISTANCE=111
         //GLOBALCOMPARISON=-63
-        //LOCALCOMPARISON=12
+        //LOCALCOMPARISON=29
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -127,7 +127,7 @@ TestFileDB {
         //11. DB2K95 - MALAT1completionof4PLX
         //EDITDISTANCE=64
         //GLOBALCOMPARISON=-33
-        //LOCALCOMPARISON=5
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -135,7 +135,7 @@ TestFileDB {
         //12. DB2K95 - PAN1
         //EDITDISTANCE=39
         //GLOBALCOMPARISON=-15
-        //LOCALCOMPARISON=2
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -143,7 +143,7 @@ TestFileDB {
         //13. DB2K95 - PAN2
         //EDITDISTANCE=39
         //GLOBALCOMPARISON=-15
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2K95, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -151,7 +151,7 @@ TestFileDB {
         //14. DB2M8K - DB4PLX
         //EDITDISTANCE=52
         //GLOBALCOMPARISON=-27
-        //LOCALCOMPARISON=3
+        //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, DB4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -159,7 +159,7 @@ TestFileDB {
         //15. DB2M8K - hTER
         //EDITDISTANCE=122
         //GLOBALCOMPARISON=-85
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -167,7 +167,7 @@ TestFileDB {
         //16. DB2M8K - MALAT1completionof4PLX
         //EDITDISTANCE=66
         //GLOBALCOMPARISON=-38
-        //LOCALCOMPARISON=3
+        //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -175,7 +175,7 @@ TestFileDB {
         //17. DB2M8K - PAN1
         //EDITDISTANCE=42
         //GLOBALCOMPARISON=-22
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -183,7 +183,7 @@ TestFileDB {
         //18. DB2M8K - PAN2
         //EDITDISTANCE=39
         //GLOBALCOMPARISON=-19
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB2M8K, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -191,7 +191,7 @@ TestFileDB {
         //19. DB4PLX - hTER
         //EDITDISTANCE=112
         //GLOBALCOMPARISON=-65
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, hTER, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -199,7 +199,7 @@ TestFileDB {
         //20. DB4PLX - MALAT1completionof4PLX
         //EDITDISTANCE=22
         //GLOBALCOMPARISON=51
-        //LOCALCOMPARISON=50
+        //LOCALCOMPARISON=51
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -207,7 +207,7 @@ TestFileDB {
         //21. DB4PLX - PAN1
         //EDITDISTANCE=36
         //GLOBALCOMPARISON=5
-        //LOCALCOMPARISON=10
+        //LOCALCOMPARISON=14
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -215,7 +215,7 @@ TestFileDB {
         //22. DB4PLX - PAN2
         //EDITDISTANCE=42
         //GLOBALCOMPARISON=-7
-        //LOCALCOMPARISON=4
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(DB4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -223,7 +223,7 @@ TestFileDB {
         //23. hTER  - MALAT1completionof4PLX
         //EDITDISTANCE=111
         //GLOBALCOMPARISON=-61
-        //LOCALCOMPARISON=1
+        //LOCALCOMPARISON=10
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, MALAT1completionof4PLX, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -231,7 +231,7 @@ TestFileDB {
         //24. hTER  - PAN1
         //EDITDISTANCE=121
         //GLOBALCOMPARISON=-83
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -239,7 +239,7 @@ TestFileDB {
         //25. hTER  - PAN2
         //EDITDISTANCE=126
         //GLOBALCOMPARISON=-92
-        //LOCALCOMPARISON=0
+        //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(hTER, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -247,7 +247,7 @@ TestFileDB {
         //26.MALAT1completionof4PLX   - PAN1
         //EDITDISTANCE=51
         //GLOBALCOMPARISON=-9
-        //LOCALCOMPARISON=8
+        //LOCALCOMPARISON=13
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -255,7 +255,7 @@ TestFileDB {
         //27. MALAT1completionof4PLX   - PAN2
         //EDITDISTANCE=58
         //GLOBALCOMPARISON=-23
-        //LOCALCOMPARISON=4
+        //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(MALAT1completionof4PLX, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
@@ -263,7 +263,7 @@ TestFileDB {
         //28. PAN1   - PAN2
         //EDITDISTANCE=22
         //GLOBALCOMPARISON=14
-        //LOCALCOMPARISON=17
+        //LOCALCOMPARISON=20
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(PAN1, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(PAN1, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(PAN1, PAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
