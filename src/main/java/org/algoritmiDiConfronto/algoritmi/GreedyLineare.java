@@ -5,7 +5,7 @@ import java.util.List;
 
 public class GreedyLineare {
 
-    public static boolean Sottosequenza(List<?> seq, List<?> subseq) {
+    public  boolean Sottosequenza(List<?> seq, List<?> subseq) {
         int j = 0;
 
         for (int i = 0; i < seq.size(); i++) {
@@ -20,6 +20,7 @@ public class GreedyLineare {
 
         return false;
     }
+
 
     public void eseguiGreedyLineare(List<?> seq, List<?> subseq) {
         if (Sottosequenza(seq, subseq)) {

@@ -1,0 +1,47 @@
+package org.algoritmiDiConfronto;
+
+import org.algoritmiDiConfronto.algoritmi.GreedyLineare;
+
+import java.io.*;
+import java.util.List;
+
+import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaCaratteri;
+
+public class CSVSearch {
+    public static void main(String[] args) {
+        GreedyLineare gl = new GreedyLineare();
+        String inputFile = "src/main/resources/MolecolePerRicerca/phyloRNA_SRP_SRPdb.csv";
+        String outputFile = "phyloRNA_SRP_SRPdb_OUTPUT_CORE_PLUS.csv";
+
+        try (
+                BufferedReader reader = new BufferedReader(new FileReader(inputFile));
+                PrintWriter writer = new PrintWriter(new FileWriter(outputFile))
+        ) {
+            String line;
+            boolean isFirstLine = true;
+
+            while ((line = reader.readLine()) != null) {
+                String[] columns = line.split(",");
+
+                if (isFirstLine) {
+                    writer.println(line);
+                    isFirstLine = false;
+                    continue;
+                }
+
+                    String lengthStr = columns[10].trim();
+                    List<Character> core = stringaToListaCaratteri("((()()(()()))(()()))()()");
+                    List<Character> corefile = stringaToListaCaratteri(lengthStr);
+                    if (gl.Sottosequenza(corefile,core)) {
+                        writer.println(line);
+
+                }
+            }
+
+            System.out.println("File salvato con successo in: " + outputFile);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}

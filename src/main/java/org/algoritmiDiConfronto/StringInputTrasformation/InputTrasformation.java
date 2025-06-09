@@ -25,7 +25,7 @@ public class InputTrasformation {
 
     public static boolean carattereSpeciale(char c) {
         return c == '[' || c == '{' || c == '(' || c == '.'
-                || c == ']' || c == '}' || c == ')';
+                || c == ']' || c == '}' || c == ')' || c == '<' || c == '>';
     }
 
 

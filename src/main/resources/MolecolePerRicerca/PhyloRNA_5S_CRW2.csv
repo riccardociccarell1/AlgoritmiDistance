@@ -1,0 +1,309 @@
+﻿Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference
+Archaeoglobus fulgidus DSM 4304,AE001101,124,40,42,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_1,--
+Desulfurococcus mobilis,X07545,133,39,48,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_2,--
+Aeropyrum pernix,AP000060,137,39,50,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_3,--
+Halococcus morrhuae,X72588,120,42,40,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_4,--
+Halococcus morrhuae,J01865,123,45,40,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_5,--
+Haloferax mediterranei,X14441,123,45,40,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_6,--
+Haloarcula marismortui,AF034620,122,46,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_7,--
+Halobacterium salinarum,M10691,121,45,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_8,--
+Halobacterium salinarum,X03407,123,45,40,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_9,--
+Halorubrum saccharovorum,L27162,123,41,42,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_10,--
+Haloferax volcanii,X02127,122,46,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_11,--
+Methanosarcina barkeri,M36188,130,44,44,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_12,--
+Methanothermus fervidus,M26976,124,40,43,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_A_13,--
+Methanobacterium formicicum,X62859,126,40,44,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_A_14,--
+Methanocaldococcus jannaschii,U67537,120,40,41,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_A_15,--
+Methanocaldococcus jannaschii,U67518,120,40,41,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_A_16,--
+Methanothermobacter thermautotrophicus,M36186,128,40,45,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_A_17,--
+Methanothermococcus thermolithotrophicus,M34911,120,40,41,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_A_18,--
+Methanolobus tindarius,M34910,128,42,44,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_19,--
+Methanosarcina vacuolata,X62864,127,45,42,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_20,--
+Natrialba magadii,X72495,125,49,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_A_21,--
+Pyrobaculum aerophilum,AE009942,131,41,46,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_22,--
+Pyrodictium occultum,M21086,130,38,47,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_23,--
+Pyrococcus woesei,X15329,124,40,43,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_24,--
+Sulfolobus acidocaldarius,V01286,126,40,44,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_25,--
+Sulfolobus solfataricus,Y08257,126,40,44,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_26,--
+Sulfolobus sp.,X05870,126,40,44,No,0,5S,0,(()()),((((()))((())))),--,No,CRW2,--,CRW2_5S_A_27,--
+Thermoplasma acidophilum,X02709,123,41,42,No,0,5S,0,(()()),(((()))((()))),--,No,CRW2,--,CRW2_5S_A_28,--
+Thermococcus celer,X07692,127,43,43,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_A_29,--
+Alcaligenes faecalis,X05517,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_30,--
+Acidithiobacillus ferrooxidans,M11715,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_31,--
+Acidithiobacillus ferrooxidans,M11542,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_32,--
+Arthrobacter globiformis,--,123,45,39,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_33,--
+Arthrobacter globiformis,--,122,44,39,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_34,--
+Actinomadura madurae,D13615,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_35,--
+Arthrobacter oxydans,X08000,122,44,40,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_36,--
+Acidithiobacillus thiooxidans,M11541,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_37,--
+Agrobacterium tumefaciens,--,120,42,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_38,--
+Azotobacter vinelandii,X01555,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_39,--
+Beggiatoa alba,M35565,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_40,--
+Campylobacter jejuni,AL139076,121,45,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_41,--
+Bacillus subtilis,--,118,42,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_42,--
+Bacteroides fragilis,--,110,44,33,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_43,--
+Deinococcus radiodurans,AE002087,124,44,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_44,--
+Deinococcus radiodurans,AE002057,124,44,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_45,--
+Delftia acidovorans,--,117,41,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_46,--
+Chlorobium limicola,--,115,43,37,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_47,--
+Escherichia coli,V00336,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_48,--
+Empedobacter brevis,M33888,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_49,--
+Deinococcus radiodurans,AE001887,124,44,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_50,--
+Fusobacterium mortiferum,--,117,41,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_51,--
+Ectothiorhodospira shaposhnikovii,X05053,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_52,--
+Escherichia coli,V00336,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_53,--
+Geobacillus stearothermophilus,AJ251080,117,41,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_54,--
+Geobacillus stearothermophilus,M10816,119,43,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_55,--
+Grimontia hollisae,X16193,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_56,--
+Haemophilus influenzae,U32688,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_57,--
+Halorhodospira halophila,X05052,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_58,--
+Geobacillus stearothermophilus,M25591,117,41,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_59,--
+Geobacillus stearothermophilus,M24839,119,43,39,No,0,5S,0,(()()),(((((()))))(())),--,No,CRW2,--,CRW2_5S_B_60,--
+Listonella pelagia,X02251,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_61,--
+Listonella anguillarum,X00932,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_62,--
+Mycoplasma hyopneumoniae,-,107,41,33,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_63,--
+Mycoplasma genitalium,U39694,118,46,37,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_64,--
+Mycoplasma capricolum,V00646,107,41,34,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_65,--
+Mycobacterium bovis,-,117,43,37,No,0,5S,0,(()()),(((((())))(()))),--,No,CRW2,--,CRW2_5S_B_66,--
+Pseudomonas aeruginosa,X06694,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_67,--
+Pseudomonas aeruginosa,K02353,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_68,--
+Mycoplasma pneumoniae,-,108,40,34,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_69,--
+Micrococcus luteus,-,120,42,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_70,--
+Planctomyces brasiliensis,-,113,39,37,No,0,5S,0,(()()),(((()))(())),--,No,CRW2,--,CRW2_5S_B_71,--
+Photobacterium angustum,X02256,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_72,--
+Pseudonocardia hydrocarbonoxydans,Z50058,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_73,--
+Pseudomonas fluorescens,X01557,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_74,--
+Photobacterium damselae subsp. damselae,X02252,120,40,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_75,--
+Pseudomonas stutzeri,U65012,121,41,41,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_B_76,--
+Pseudomonas stutzeri,-,119,41,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_77,--
+Plesiomonas shigelloides,X02264,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_78,--
+Photobacterium sp.,X02022,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_79,--
+Proteus vulgaris,X02039,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_80,--
+Staphylococcus aureus,-,118,44,37,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_81,--
+Shewanella colwelliana,X15180,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_82,--
+Rhodobacter capsulatus,-,119,43,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_83,--
+Shewanella hanedai,X15181,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_84,--
+Spiroplasma melliferum,-,109,45,32,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_85,--
+Sporosarcina pasteurii,-,119,43,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_86,--
+Shewanella putrefaciens,X02250,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_87,--
+Salmonella typhimurium,L14816,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_88,--
+Salmonella typhimurium LT2,AE008706,122,42,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_89,--
+Salmonella typhimurium LT2,AE008820,122,42,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_90,--
+Salmonella typhimurium LT2,AE008881,120,40,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_91,--
+Salmonella typhimurium LT2,AE008886,122,42,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_92,--
+Salmonella typhimurium LT2,AE008893,121,41,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_93,--
+Salmonella typhimurium LT2,AE008895,122,42,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_94,--
+Synechococcus sp. PCC 6301,-,121,43,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_95,--
+Thermus aquaticus,-,123,43,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_96,--
+Thiobacillus ferrooxidans,-,120,40,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_97,--
+Thiothrix nivea,M35563,122,42,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_98,--
+Thermus thermophilus,X01554,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_99,--
+Thermus thermophilus,K01305,122,40,42,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_100,--
+Thermus sp.,-,121,43,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_101,--
+Thermus thermophilus,-,121,43,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_102,--
+Ureaplasma urealyticum,-,104,40,32,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_103,--
+Thiothrix sp.,M35564,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_104,--
+Vibrio fischeri,X02253,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_105,--
+Vibrio diazotrophicus,X02243,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_106,--
+Vibrio cincinnatiensis,X02248,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_107,--
+Vibrio alginolyticus,X02241,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_108,--
+Vibrio gazogenes,X02245,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_109,--
+Vibrio fluvialis,X02237,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_110,--
+Vibrio harveyi,X02242,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_111,--
+Vibrio harveyi,X02030,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_112,--
+Vibrio logei,X02254,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_113,--
+Vibrio mediterranei,X15179,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_114,--
+Vibrio metschnikovii,X02246,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_115,--
+Vibrio mimicus,X02238,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_116,--
+Vibrio natriegens,X02236,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_117,--
+Vibrio nereis,X03701,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_118,--
+Vibrio ordalii,X06687,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_119,--
+Vibrio parahaemolyticus,X02235,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_120,--
+Vibrio proteolyticus,X02247,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_121,--
+Vibrio tubiashii,X06688,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_122,--
+Vibrio vulnificus,X00930,120,40,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_123,--
+Vibrio sp.,M16533,121,41,41,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_B_124,--
+Chlamydomonas reinhardii,-,121,45,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_E_125,--
+Euglena gracilis,-,118,40,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_E_126,--
+Marchantia polymorpha,-,119,41,39,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_E_127,--
+Zea mays,-,121,41,40,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_E_128,--
+Asellus aquaticus,AJ238321,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_129,--
+Aurelia aurita,X00991,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_130,--
+Aurelia aurita,K00759,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_131,--
+Acanthamoeba castellanii,V00003,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_132,--
+Acheta domesticus,M16074,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_133,--
+Actinia equina,X05233,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_134,--
+Ascobolus immersus,X99087,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_135,--
+Acyrthosiphon magnoliae,X01518,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_136,--
+Amoebidium parasiticum,M36306,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_137,--
+Asterina pectinifera,X01003,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_138,--
+Antheraea pernyi,X13035,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_139,--
+Artemia salina,Y00128,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_140,--
+Acheilognathus tabira,AB015591,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_141,--
+Asterias vulgaris,X00992,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_142,--
+Branchiostoma belcheri,X13034,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_143,--
+Blepharisma japonicum,J01851,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_144,--
+Brassica napus,X05060,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_145,--
+Bugula neritina,X06834,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_146,--
+Brachionus plicatilis,X06100,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_147,--
+Blastocladiella simplex,X01543,118,44,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_148,--
+Bos taurus,X57170,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_149,--
+Bresslaua vorax,K02343,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_150,--
+Beta vulgaris,X05059,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_151,--
+Candida albicans,X00868,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_152,--
+Cyprinus carpio,AB015590,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_153,--
+Crypthecodinium cohnii,M25115,122,48,38,No,0,5S,0,(()()),((((())))(((())))),--,No,CRW2,--,CRW2_5S_E_154,--
+Cerastoderma edule,AJ132196,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_155,--
+Caenorhabditis elegans,X06102,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_156,--
+Caenorhabditis elegans,Z82085,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_157,--
+Crithidia fasciculata,V00149,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_158,--
+Christiansenia pallida,M58383,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_159,--
+Cyanophora paradoxa,M33029,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_160,--
+Cryptomonas paramecium,X06839,124,50,38,No,0,5S,0,(()()),((((())))(((())))),--,No,CRW2,--,CRW2_5S_E_161,--
+Chrysaora quinquecirrha,K02348,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_162,--
+Chlamydomonas reinhardtii,X02706,122,46,39,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_E_163,--
+Cycas revoluta,M10434,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_164,--
+Calliphora vicina,X01129,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_165,--
+Dictyostelium discoideum,X67782,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_166,--
+Dugesia japonica,X01551,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_167,--
+Drosophila mauritiana,X87874,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_168,--
+Drosophila melanogaster,M25016,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_169,--
+Drosophila melanogaster,X06938,135,61,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_170,--
+Diatoma tenue,D00058,118,44,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_171,--
+Enchytraeus albidus,X03911,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_172,--
+Equisetum arvense,X00377,120,46,38,No,0,5S,0,(()()),(((((())))((())))),--,No,CRW2,--,CRW2_5S_E_173,--
+Euplotes eurystomus,X13718,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_174,--
+Emplectonema gracile,X00021,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_175,--
+Euglena gracilis,X02031,119,45,38,No,0,5S,0,(()()),((((())))(())),--,No,CRW2,--,CRW2_5S_E_176,--
+Euglena gracilis,X01484,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_177,--
+Ephedra kokanica,X06996,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_178,--
+Exobasidium vaccinii,X00069,118,44,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_179,--
+Euplotes woodruffi,K02347,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_180,--
+Funaria hygrometrica,X80212,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_181,--
+Filobasidiella neoformans,L14753,118,44,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_182,--
+Gossypium arboreum,U31855,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_183,--
+Ginkgo biloba,M10433,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_184,--
+Gracilaria compressa,X00999,121,47,38,No,0,5S,0,(()()),(((((()))))((()))),--,No,CRW2,--,CRW2_5S_E_185,--
+Gnetum gnemon,X06995,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_186,--
+Globodera pallida,L28955,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_187,--
+Gastrotheca riobambae,M74438,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_188,--
+Halichondria japonica,V00475,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_189,--
+Haliclona oculata,X01536,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_190,--
+Hyphodontia paradoxa,X73890,118,44,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_191,--
+Harpalus rufipes,X83208,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_192,--
+Hymeniacidon sanguinea,X01535,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_193,--
+Homo sapiens,Z75742,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_194,--
+Homo sapiens,V00589,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_195,--
+Homo sapiens,X71802,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_196,--
+Homo sapiens,X51545,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_197,--
+Homo sapiens,X71797,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_198,--
+Homo sapiens,X71800,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_199,--
+Hemicentrotus sp.,X01004,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_200,--
+Iguana iguana,M10817,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_201,--
+Illex illecebrosus,X00993,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_202,--
+Kabatiella microsticta,M58387,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_203,--
+Larix decidua,AJ010579,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_204,--
+Lentinula edodes,AB030581,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_205,--
+Lineus geniculatus,X00020,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_206,--
+Lethenteron japonicum,D00076,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_207,--
+Lupinus luteus,Z93433,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_208,--
+Linum usitatissimum,X01531,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_209,--
+Mesocricetus auratus,J00063,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_210,--
+Mortierella formosensis,M36312,120,44,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_211,--
+Misgurnus fossilis,V00647,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_212,--
+Metasequoia glyptostroboides,M10432,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_213,--
+Mus musculus,X71804,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_214,--
+Micropterus salmoides,L49397,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_215,--
+Nemopsis dofleini,K02350,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_216,--
+Notophthalmus viridescens,X06097,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_217,--
+Onchocerca cervicalis,U13678,131,57,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_218,--
+Oncorhynchus mykiss,J01861,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_219,--
+Oryza sativa,M18171,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_220,--
+Oryza sativa,M18170,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_221,--
+Octopus vulgaris,X06835,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_222,--
+Perinereis brevicirris,X00996,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_223,--
+Pneumocystis carinii,M28193,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_224,--
+Proasellus coxalis,Y14281,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_225,--
+Pseudocentrotus depressus,X04307,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_226,--
+Plasmodium falciparum,AF239766,119,47,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_227,--
+Phascolopsis gouldii,X00994,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_228,--
+Petunia x hybrida,X07930,120,46,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_229,--
+Petunia x hybrida,X07929,120,46,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_230,--
+Physarum polycephalum,X02036,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_231,--
+Pinus radiata,Z33604,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_232,--
+Planocera reticulata,X01550,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_233,--
+Porphyra tenera,X05540,121,47,38,No,0,5S,0,(()()),(((((()))))((()))),--,No,CRW2,--,CRW2_5S_E_234,--
+Paramecium tetraurelia,J01872,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_235,--
+Plagiomnium trichomanes,X01619,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_236,--
+Phaseolus vulgaris,X06843,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_237,--
+Pleurodeles waltl,X16851,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_238,--
+Phytomonas sp. isolate Alp1,AF243335,130,56,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_239,--
+Quercus petraea,AJ242949,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_240,--
+Rattus norvegicus,X83746,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_241,--
+Rattus norvegicus,X83747,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_242,--
+Rattus norvegicus,X83748,121,47,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_243,--
+Schizochytrium aggregatum,X06104,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_244,--
+Scyliorhinus canicula,M24954,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_245,--
+Saccharomyces cerevisiae,X67579,118,44,38,No,0,5S,0,(()()),(((()))(())),--,No,CRW2,--,CRW2_5S_E_246,--
+Samia cynthia ricini x Bombyx mori,X13037,120,46,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_247,--
+Saccoglossus kowalevskii,X06836,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_248,--
+Sepia officinalis,X05234,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_249,--
+Stichopus oshimae,X01002,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_250,--
+Schizosaccharomyces pombe,K00570,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_251,--
+Schizosaccharomyces pombe,K00569,119,45,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_252,--
+Spirogyra sp.,M10438,120,44,39,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_253,--
+Triticum aestivum,X06094,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_254,--
+Trypanoplasma borreli,L08173,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_255,--
+Trypanosoma brucei,-,120,46,37,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_256,--
+Trypanosoma cruzi,M59502,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_257,--
+Triticum monococcum,X66383,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_258,--
+Tetrahymena thermophila,X00475,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_259,--
+Tetrahymena thermophila,J01893,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_260,--
+Urechis unicinctus,X00998,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_261,--
+Xenopus laevis,X05089,120,46,38,No,0,5S,0,(()()),((((())))((()))),--,No,CRW2,--,CRW2_5S_E_262,--
+Reclinomonas americana,U59762,115,41,38,No,0,5S,0,(()()),(((()))(())),--,No,CRW2,--,CRW2_5S_E_263,--
+Zea mays,-,122,50,36,No,0,5S,0,(()()),(((()))(())),--,No,CRW2,--,CRW2_5S_E_264,--
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
