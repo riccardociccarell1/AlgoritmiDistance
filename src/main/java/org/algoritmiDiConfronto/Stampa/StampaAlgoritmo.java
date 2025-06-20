@@ -1,5 +1,6 @@
 package org.algoritmiDiConfronto.Stampa;
 
+import org.algoritmiDiConfronto.Bond.Bond;
 import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
@@ -64,6 +65,12 @@ public class StampaAlgoritmo {
         } else {
             throw new IllegalArgumentException("coppie di diversa tipologia");
         }
+    }
+
+    public void eseguiAlgoritmoSuBond(List<Bond> primaLista, List<Bond> secondaLista, TipologiaAlgoritmi algoritmo) {
+        stampatore = new GestioneStampaBond();
+        this.algoritmo = controlloAlgoritmo(algoritmo);
+        esegui(primaLista, secondaLista);
     }
 
 

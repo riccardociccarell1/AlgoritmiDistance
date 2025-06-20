@@ -11,6 +11,12 @@ public class Coppie{
         this.secondoelemento = secondoelemento;
     }
 
+    public Object getPrimoelemento() {
+        return primoelemento;
+    }
+    public Object getSecondoelemento() {
+        return secondoelemento;
+    }
 
     @Override
     public String toString() {

@@ -71,7 +71,7 @@ public class LocalComparison extends AlgoritmoBaseGenerics {
     @Override
     public int pesoCaratteri(Object elemento1, Object elemento2) {
         if(elemento1.equals(elemento2))return 1;
-        return -100;
+        return -1;
     }
 
     @Override
