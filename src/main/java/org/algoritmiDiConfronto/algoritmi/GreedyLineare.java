@@ -5,20 +5,17 @@ import java.util.List;
 
 public class GreedyLineare {
 
-    public  boolean Sottosequenza(List<?> seq, List<?> subseq) {
-        int j = 0;
+    public boolean Sottosequenza(List<?> seq, List<?> subseq) {
+        int i = 0, j = 0;
 
-        for (int i = 0; i < seq.size(); i++) {
-            if (!seq.get(i).equals(subseq.get(j))) {return false;}
-            if (j < subseq.size() && seq.get(i).equals(subseq.get(j))) {
+        while (i < seq.size() && j < subseq.size()) {
+            if (seq.get(i).equals(subseq.get(j))) {
                 j++;
             }
-            if (j == subseq.size()) {
-                return true;
-            }
+            i++;
         }
 
-        return false;
+        return j == subseq.size(); // Se ho trovato tutti gli elementi di subseq in seq
     }
 
 

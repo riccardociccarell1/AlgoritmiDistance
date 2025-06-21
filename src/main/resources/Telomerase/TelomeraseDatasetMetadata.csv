@@ -1,0 +1,22 @@
+Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference
+Homo sapiens,1na2,30,14,16,No,0,Telomerase,0,(),(()),,Yes,PDB,https://www.rcsb.org/structure/1na2,PDB_Telomerase_1,--
+Homo sapiens,1q75,15,5,10,No,0,Telomerase,0,(),(),,Yes,PDB,https://www.rcsb.org/structure/1q75,PDB_Telomerase_2,--
+Homo sapiens,1ymo,47,17,30,Yes,1,Telomerase,1,([)],([)],([)],Yes,PDB,https://www.rcsb.org/structure/1ymo,PDB_Telomerase_3,--
+Tetrahymena thermophila,2fey,43,17,26,No,0,Telomerase,0,(),(((()))),,Yes,PDB,https://www.rcsb.org/structure/2fey,PDB_Telomerase_4,--
+Homo sapiens,2k95,48,18,30,Yes,1,Telomerase,1,([)],([[)]],([)],Yes,PDB,https://www.rcsb.org/structure/2k95,PDB_Telomerase_5,--
+Oryzias latipes,2mhi,53,13,40,No,0,Telomerase,0,(()()),(((())(()))),,Yes,PDB,https://www.rcsb.org/structure/2mhi,PDB_Telomerase_6,--
+Homo sapiens,2qh2,24,6,18,No,0,Telomerase,0,(),(()),,Yes,PDB,https://www.rcsb.org/structure/2qh2,PDB_Telomerase_7,--
+Tetrahymena thermophila,5kmz,31,7,24,Yes,2,Telomerase,2,([{[)]]},([{[)]]},([{[)]]},Yes,PDB,https://www.rcsb.org/structure/5kmz,PDB_Telomerase_8,--
+Oryzias latipes,5kqe,36,10,26,No,0,Telomerase,0,(),((())),,Yes,PDB,https://www.rcsb.org/structure/5kqe,PDB_Telomerase_9,--
+Tetrahymena thermophila,7lma,156,88,68,Yes,1,Telomerase,1,(()([)])(),(((()))([[)]])((((())))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7lma,PDB_Telomerase_10,--
+Tetrahymena thermophila,7lmb,151,77,74,Yes,1,Telomerase,1,(()([)])(),((())([[)]])(((()))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7lmb,PDB_Telomerase_11,--
+Homo sapiens,7qxa,253,135,118,Yes,1,Telomerase,1,(([)])(()()),(((((((((([[[))))))))]]]))(((((((())))))())),(([)]),Yes,PDB,https://www.rcsb.org/structure/7qxa,PDB_Telomerase_12,--
+Homo sapiens,7qxb,256,128,128,Yes,1,Telomerase,1,(([)])(()()),(((((((([[[))))))]]]))(((((((()))))()))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7qxb,PDB_Telomerase_13,--
+Homo sapiens,7trd,217,101,116,Yes,1,Telomerase,1,(([)])(()()),((((((((([[[))))))))]]])(((((()))))(())),(([)]),Yes,PDB,https://www.rcsb.org/structure/7trd,PDB_Telomerase_14,--
+Homo sapiens,7tre,217,103,114,Yes,1,Telomerase,1,(([)])(()()),((((((((([[))))))))]])(((((()))))(())),(([)]),Yes,PDB,https://www.rcsb.org/structure/7tre,PDB_Telomerase_15,--
+Homo sapiens,7trf,217,99,118,Yes,1,Telomerase,1,(([)])(()()),(((((((([[[)))))))]]])(((((()))))(())),(([)]),Yes,PDB,https://www.rcsb.org/structure/7trf,PDB_Telomerase_16,--
+Tetrahymena thermophila,7uy5,156,92,64,Yes,1,Telomerase,1,(()([)])(),((())(([[))]])((((())))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7uy5,PDB_Telomerase_17,--
+Tetrahymena thermophila,7uy6,156,94,62,Yes,1,Telomerase,1,(()([)])(),((())(([[))]])(((((()))))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7uy6,PDB_Telomerase_18,--
+Homo sapiens,7v9a,146,86,60,No,0,Telomerase,0,()()()(),(())(())((()))((((())))),,Yes,PDB,https://www.rcsb.org/structure/7v9a,PDB_Telomerase_19,--
+Homo sapiens,7v99,243,119,124,Yes,1,Telomerase,1,(([)])(()()),(((((((([[)))))))]])(((((((()))))()))),(([)]),Yes,PDB,https://www.rcsb.org/structure/7v99,PDB_Telomerase_20,--
+Tetrahymena thermophila,8gap,159,85,74,Yes,2,Telomerase,2,(()([{[)]]})(),(((())([{[)]]}))(((()))),(([{[)]]}),Yes,PDB,https://www.rcsb.org/structure/8gap,PDB_Telomerase_21,--
