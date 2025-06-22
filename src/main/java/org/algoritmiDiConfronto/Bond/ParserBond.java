@@ -70,7 +70,7 @@ public class ParserBond {
 
 
 
-    public static List<Bond> pareBondParentesi(String struttura){
+    public static List<Bond> parseBondParentesi(String struttura){
         List<Bond> bonds = new ArrayList<Bond>();
 
         Stack<Integer> parentesiRotonde = new Stack<>();

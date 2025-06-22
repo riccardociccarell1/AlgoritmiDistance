@@ -1,16 +1,12 @@
 package org.algoritmiDiConfronto.Bond;
 
-import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
-import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
 
-import java.util.ArrayList;
 import java.util.List;
 
-import static org.algoritmiDiConfronto.Bond.ParserBond.pareBondParentesi;
+import static org.algoritmiDiConfronto.Bond.ParserBond.parseBondParentesi;
 import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
-import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.CreaListaCoppie;
 
 public class TestBond {
     public static void main(String[] args) {
@@ -41,7 +37,8 @@ public class TestBond {
         List<Bond> PAN2 = parseBond("GGGUUUUUUCCUUCGAAAGAAGGUUUUUAUCCCUGCCUUCGGGCAAAAAAAA",
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
 
-        List<Bond>   Tetrahymenathermophila = pareBondParentesi("(((())))");
+        List<Bond>   Tetrahymenathermophila = parseBondParentesi("(((())))");
+        List<Bond>   b = parseBondParentesi("(((())(())))");
 
 
 
@@ -271,13 +268,16 @@ public class TestBond {
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(Tetrahymenathermophila, b,  TipologiaAlgoritmi.LOCALCOMPARISON);
+
+
 
 //
 //        for (Bond b : DB1YMO) {
 //            System.out.println(b.toString());
 //        }
 
-//        for (Bond b : Tetrahymenathermophila) {
+//        for (Bond d : Tetrahymenathermophila) {
 //            System.out.println(b.toString());
 //       }
 
