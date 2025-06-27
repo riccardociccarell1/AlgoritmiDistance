@@ -1,0 +1,960 @@
+﻿Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference
+--,BF909563.ct,280,108,172,No,0,SRP,0,()()(()()()),()()((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF909563.ct,SRPdb_SRP_1,--
+Mycoplasma capricolum,CP000123.ct,98,42,56,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000123.ct,SRPdb_SRP_2,--
+Enterococcus faecalis,AE016830.ct,93,41,52,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016830.ct,SRPdb_SRP_3,--
+--,AP006840.ct,105,49,56,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006840.ct,SRPdb_SRP_4,--
+--,AY781790.ct,139,115,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781790.ct,SRPdb_SRP_5,--
+--,SKAA0027M04.b1.ct,449,177,272,No,0,SRP,0,()((()()()(()()()))()),()(((((())(())()((((((((((())))(())((())))))))))))((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSKAA0027M04.b1.ct,SRPdb_SRP_6,--
+--,BA000019.ct,102,46,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000019.ct,SRPdb_SRP_7,--
+Treponema denticola,AE017226.ct,100,62,38,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017226.ct,SRPdb_SRP_8,--
+Mycoplasma gallisepticum,AE015450.ct,83,39,44,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015450.ct,SRPdb_SRP_9,--
+Erwinia carotovora,BX950851.ct,30,16,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX950851.ct,SRPdb_SRP_10,--
+Wigglesworthia glossinidia,BA000021.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000021.ct,SRPdb_SRP_11,--
+--,CP000660.ct,244,140,104,No,0,SRP,0,(()())(()()),(()())((((()))((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000660.ct,SRPdb_SRP_12,--
+Haemophilus influenzae,L42023.ct,32,18,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlL42023.ct,SRPdb_SRP_13,--
+--,AJ236705.ct,268,112,156,No,0,SRP,0,()()(()()()),()()((((((((((((()()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ236705.ct,SRPdb_SRP_14,--
+--,AU014035.ct,186,92,94,No,0,SRP,0,(()()()),((((((((((()))))()(((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAU014035.ct,SRPdb_SRP_15,--
+--,CR854846.ct,297,101,196,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR854846.ct,SRPdb_SRP_16,--
+Burkholderia pseudomallei,CP000570.ct,79,35,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000570.ct,SRPdb_SRP_17,--
+Prochlorococcus marinus,AE017126.ct,51,27,24,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017126.ct,SRPdb_SRP_18,--
+--,GSP-7240.ct,300,98,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7240.ct,SRPdb_SRP_19,--
+--,Z29103.ct,304,102,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29103.ct,SRPdb_SRP_20,--
+Francisella tularensis,CP000803.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000803.ct,SRPdb_SRP_21,--
+--,DD001104.ct,105,37,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDD001104.ct,SRPdb_SRP_22,--
+--,AC099934.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC099934.ct,SRPdb_SRP_23,--
+--,CF602412.ct,303,109,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCF602412.ct,SRPdb_SRP_24,--
+Photorhabdus luminescens,BX571872.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX571872.ct,SRPdb_SRP_25,--
+Streptococcus pyogenes,CP000017.ct,98,46,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000017.ct,SRPdb_SRP_26,--
+--,X01037.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX01037.ct,SRPdb_SRP_27,--
+--,CK700970.ct,303,109,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCK700970.ct,SRPdb_SRP_28,--
+--,U18916.ct,429,189,240,No,0,SRP,0,()()(()())()(()()()),()((()))((()()))(((())))(((((((((((()))))(())((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU18916.ct,SRPdb_SRP_29,--
+Deinococcus radiodurans,AE000513.ct,106,38,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000513.ct,SRPdb_SRP_30,--
+Colwellia psychrerythraea,CP000083.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000083.ct,SRPdb_SRP_31,--
+--,GSP-51541.ct,161,73,88,No,0,SRP,0,(()()()),(((((((((()))()(((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-51541.ct,SRPdb_SRP_32,--
+--,X72228.ct,306,116,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX72228.ct,SRPdb_SRP_33,--
+--,M20264.ct,256,94,162,No,0,SRP,0,()(()()()),()((((((((((((((((((()))))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM20264.ct,SRPdb_SRP_34,--
+--,GSP-7260.ct,301,101,200,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7260.ct,SRPdb_SRP_35,--
+--,GSP-306901.ct,280,138,142,No,0,SRP,0,()(()(()()())),()((((((((((())((((((((((()))))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-306901.ct,SRPdb_SRP_36,--
+--,GSP-370355.ct,271,87,184,No,0,SRP,0,(()())(()()()),(()(()))(((((((((((()))()(((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-370355.ct,SRPdb_SRP_37,--
+--,DR037645.ct,251,89,162,No,0,SRP,0,(()()()),(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDR037645.ct,SRPdb_SRP_38,--
+--,DC048894.ct,278,108,170,No,0,SRP,0,()(()()()),()(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDC048894.ct,SRPdb_SRP_39,--
+--,Z29107.ct,301,101,200,No,0,SRP,0,()()(()()()),()()((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29107.ct,SRPdb_SRP_40,--
+--,BN000251.ct,509,177,332,No,0,SRP,0,()((()(()())(()(()()())()))()),()((((((()))(()())(((((((())))(((((((((((()))))(())((())))))))))((()))))))))())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBN000251.ct,SRPdb_SRP_41,--
+Legionella pneumophila,CR628336.ct,98,34,64,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR628336.ct,SRPdb_SRP_42,--
+Francisella tularensis,AJ749949.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ749949.ct,SRPdb_SRP_43,--
+Desulfotalea psychrophila,CR522870.ct,86,46,40,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR522870.ct,SRPdb_SRP_44,--
+--,AX492782.ct,90,38,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAX492782.ct,SRPdb_SRP_45,--
+--,AE017228.ct,88,66,22,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017228.ct,SRPdb_SRP_46,--
+--,AY948606.ct,300,102,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY948606.ct,SRPdb_SRP_47,--
+Mycoplasma mycoides,BX293980.ct,96,40,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX293980.ct,SRPdb_SRP_48,--
+--,M80262.ct,273,79,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM80262.ct,SRPdb_SRP_49,--
+--,AL627266.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL627266.ct,SRPdb_SRP_50,--
+--,AF269831.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF269831.ct,SRPdb_SRP_51,--
+Xanthomonas campestris,CP000050.ct,112,42,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000050.ct,SRPdb_SRP_52,--
+Brucella ovis,CP000708.ct,103,39,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000708.ct,SRPdb_SRP_53,--
+Lactobacillus casei,CP000423.ct,79,49,30,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000423.ct,SRPdb_SRP_54,--
+Lactobacillus acidophilus,CP000033.ct,101,53,48,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000033.ct,SRPdb_SRP_55,--
+--,U15684.ct,279,107,172,No,0,SRP,0,((()())()),(((((((()))(())))(((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU15684.ct,SRPdb_SRP_56,--
+--,X52144.ct,271,89,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX52144.ct,SRPdb_SRP_57,--
+Streptococcus pyogenes,CP000056.ct,98,46,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000056.ct,SRPdb_SRP_58,--
+Chlamydia muridarum,AE002160.ct,106,52,54,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002160.ct,SRPdb_SRP_59,--
+Legionella pneumophila,CR628337.ct,118,48,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR628337.ct,SRPdb_SRP_60,--
+Synechococcus elongatus,AP008231.ct,102,34,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008231.ct,SRPdb_SRP_61,--
+--,GSP-306902.ct,274,156,118,No,0,SRP,0,()(()(()())),()((((((()))((((((((((((())))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-306902.ct,SRPdb_SRP_62,--
+Prochlorococcus marinus,CP000554.ct,81,33,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000554.ct,SRPdb_SRP_63,--
+--,AC146941.ct,297,119,178,No,0,SRP,0,()()(()()()),(())()(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC146941.ct,SRPdb_SRP_64,--
+--,GSP-5145.ct,288,154,134,No,0,SRP,0,()(()(()()())),()((((((((((())((((((((((()))))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5145.ct,SRPdb_SRP_65,--
+--,AL023596.ct,103,55,48,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL023596.ct,SRPdb_SRP_66,--
+--,AP008934.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008934.ct,SRPdb_SRP_67,--
+--,D11422.ct,268,100,168,No,0,SRP,0,((()())()),((((()))(()))((((((((((((((((((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11422.ct,SRPdb_SRP_68,--
+--,AE004581.ct,114,36,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004581.ct,SRPdb_SRP_69,--
+--,CP000702.ct,117,61,56,No,0,SRP,0,(),(((((((((((()))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000702.ct,SRPdb_SRP_70,--
+Francisella tularensis,CP000437.ct,103,31,72,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000437.ct,SRPdb_SRP_71,--
+--,GSP-325569.ct,289,137,152,No,0,SRP,0,()(()(()()())),()(((((((((((((((())))((((((((((((()))))()((())))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-325569.ct,SRPdb_SRP_72,--
+--,AF069442.ct,306,104,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF069442.ct,SRPdb_SRP_73,--
+--,X17240.ct,318,106,212,No,0,SRP,0,((()())(()())),((()())((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX17240.ct,SRPdb_SRP_74,--
+--,AL445063.ct,317,125,192,No,0,SRP,0,((()())(()())),(((()()))((((((((((((((((((((()))))((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL445063.ct,SRPdb_SRP_75,--
+Streptococcus mutans,AF132127.ct,73,25,48,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF132127.ct,SRPdb_SRP_76,--
+Ralstonia eutropha,CP000090.ct,106,40,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000090.ct,SRPdb_SRP_77,--
+--,CR380957.ct,504,256,248,No,0,SRP,0,()(()(()())(()(()()()))),()(((((((((()))))((((((())))(()))))((((((()))))((((((((((((())))))(((())))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR380957.ct,SRPdb_SRP_78,--
+Tropheryma whipplei,AE014184.ct,89,35,54,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014184.ct,SRPdb_SRP_79,--
+--,GSP-184922.ct,170,68,102,No,0,SRP,0,(()()),(((((((((()))(((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-184922.ct,SRPdb_SRP_80,--
+--,AE014122.ct,118,48,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014122.ct,SRPdb_SRP_81,--
+Mycobacterium avium,AE016958.ct,88,68,20,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016958.ct,SRPdb_SRP_82,--
+Shewanella species,CP000469.ct,101,51,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000469.ct,SRPdb_SRP_83,--
+--,BA000033.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000033.ct,SRPdb_SRP_84,--
+--,BE941271.ct,272,110,162,No,0,SRP,0,()(()()()),()(((((((((((((((((((())))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBE941271.ct,SRPdb_SRP_85,--
+Escherichia coli,AE014075.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014075.ct,SRPdb_SRP_86,--
+--,L43967.ct,101,57,44,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlL43967.ct,SRPdb_SRP_87,--
+Legionella pneumophila,CP000675.ct,113,31,82,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000675.ct,SRPdb_SRP_88,--
+--,AE016879.ct,269,99,170,No,0,SRP,0,((()())()),((((()))())((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016879.ct,SRPdb_SRP_89,--
+--,AE012554.ct,114,44,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE012554.ct,SRPdb_SRP_90,--
+--,BW103661.ct,277,115,162,No,0,SRP,0,()(()()()),()(((((((((((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW103661.ct,SRPdb_SRP_91,--
+Francisella tularensis,AM286280.ct,99,35,64,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM286280.ct,SRPdb_SRP_92,--
+Campylobacter jejuni,CP000025.ct,91,37,54,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000025.ct,SRPdb_SRP_93,--
+Mycoplasma mobile,AE017308.ct,91,45,46,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017308.ct,SRPdb_SRP_94,--
+--,AJ550804.ct,533,213,320,No,0,SRP,0,()((()(()())(()(()()())))()()),()(((((((()))((()()))(((()))((((((((((()))))()((())))))))))))()(())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ550804.ct,SRPdb_SRP_95,--
+--,M14852.ct,136,112,24,No,0,SRP,0,(()()),((())()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM14852.ct,SRPdb_SRP_96,--
+--,AM263198.ct,30,16,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM263198.ct,SRPdb_SRP_97,--
+--,CP000016.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000016.ct,SRPdb_SRP_98,--
+--,AE001439.ct,101,33,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001439.ct,SRPdb_SRP_99,--
+--,CA718249.ct,240,92,148,No,0,SRP,0,(()()()),((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCA718249.ct,SRPdb_SRP_100,--
+--,AE001298.ct,102,52,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001298.ct,SRPdb_SRP_101,--
+--,GSP-7230.ct,297,97,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7230.ct,SRPdb_SRP_102,--
+--,AY722732.ct,130,106,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722732.ct,SRPdb_SRP_103,--
+--,AE017165.ct,100,38,62,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017165.ct,SRPdb_SRP_104,--
+Chromobacterium violaceum,AE016825.ct,102,34,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016825.ct,SRPdb_SRP_105,--
+Cyanidium caldarium,AF022186.ct,90,36,54,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF022186.ct,SRPdb_SRP_106,--
+--,CP000510.ct,114,48,66,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000510.ct,SRPdb_SRP_107,--
+Streptococcus thermophilus,CP000024.ct,77,31,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000024.ct,SRPdb_SRP_108,--
+--,AC126244.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC126244.ct,SRPdb_SRP_109,--
+--,D11414.ct,270,92,178,No,0,SRP,0,((()())()),((((()))(()))((((((((((((((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11414.ct,SRPdb_SRP_110,--
+--,CP000726.ct,244,102,142,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000726.ct,SRPdb_SRP_111,--
+Shewanella oneidensis,AE014299.ct,114,58,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014299.ct,SRPdb_SRP_112,--
+--,BQ167677.ct,242,98,144,No,0,SRP,0,(()()()),(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBQ167677.ct,SRPdb_SRP_113,--
+--,CP000560.ct,30,16,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000560.ct,SRPdb_SRP_114,--
+--,GSP-109376.ct,312,120,192,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((((())))()((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-109376.ct,SRPdb_SRP_115,--
+--,CP000609.ct,218,144,74,No,0,SRP,0,(()())()(),(()())((()))((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000609.ct,SRPdb_SRP_116,--
+--,GSP-344612.ct,278,106,172,No,0,SRP,0,()(()(()()())),(())((((((((((()((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-344612.ct,SRPdb_SRP_117,--
+--,CN181544.ct,78,52,26,No,0,SRP,0,()(),()((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN181544.ct,SRPdb_SRP_118,--
+Escherichia coli,BA000007.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000007.ct,SRPdb_SRP_119,--
+--,CP000513.ct,107,65,42,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000513.ct,SRPdb_SRP_120,--
+--,Z30973.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ30973.ct,SRPdb_SRP_121,--
+--,BF908693.ct,280,108,172,No,0,SRP,0,()()(()()()),()()((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF908693.ct,SRPdb_SRP_122,--
+--,AE010299.ct,316,122,194,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((((()))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE010299.ct,SRPdb_SRP_123,--
+--,CP000489.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000489.ct,SRPdb_SRP_124,--
+--,GSP-237561.ct,260,86,174,No,0,SRP,0,()(()()()),()((((((((((((((((((()))))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-237561.ct,SRPdb_SRP_125,--
+--,BM490490.ct,290,104,186,No,0,SRP,0,(()())(()()()),((())())((((((((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBM490490.ct,SRPdb_SRP_126,--
+--,AA923995.ct,290,108,182,No,0,SRP,0,()(()()()),()(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAA923995.ct,SRPdb_SRP_127,--
+Chlamydophila caviae,AE015925.ct,115,59,56,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015925.ct,SRPdb_SRP_128,--
+--,DW714923.ct,307,111,196,No,0,SRP,0,(()())(()()),(((())()))((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDW714923.ct,SRPdb_SRP_129,--
+Salmonella enterica,AE017220.ct,116,60,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017220.ct,SRPdb_SRP_130,--
+--,BN000249.ct,525,181,344,No,0,SRP,0,()((()(()())(()(()()())()))()()),()(((((((()))((()()))(((((((())))((((((((((()))))(())((()))))))))((()))))))))()()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBN000249.ct,SRPdb_SRP_131,--
+Geobacter metallireducens,CP000148.ct,91,39,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000148.ct,SRPdb_SRP_132,--
+Streptococcus pyogenes,CP000259.ct,73,33,40,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000259.ct,SRPdb_SRP_133,--
+--,AE000044.ct,77,33,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000044.ct,SRPdb_SRP_134,--
+--,GSP-9361.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9361.ct,SRPdb_SRP_135,--
+--,AE016842.ct,116,60,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016842.ct,SRPdb_SRP_136,--
+--,CP000721.ct,232,108,124,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000721.ct,SRPdb_SRP_137,--
+Pseudomonas stutzeri,CP000304.ct,118,42,76,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000304.ct,SRPdb_SRP_138,--
+--,GSP-9483.ct,302,102,200,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9483.ct,SRPdb_SRP_139,--
+--,AE017225.ct,269,109,160,No,0,SRP,0,((()())()),((((()))())((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017225.ct,SRPdb_SRP_140,--
+--,CN241909.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN241909.ct,SRPdb_SRP_141,--
+--,AM286415.ct,114,44,70,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM286415.ct,SRPdb_SRP_142,--
+--,GSP-164328.ct,314,114,200,No,0,SRP,0,(()())(()()()),(()(()))(((((((((((((((((())))()((((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-164328.ct,SRPdb_SRP_143,--
+Neisseria gonorrhoeae,AE004969.ct,92,30,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004969.ct,SRPdb_SRP_144,--
+Corynebacterium glutamicum,AP009044.ct,52,38,14,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP009044.ct,SRPdb_SRP_145,--
+--,BA000023.ct,308,94,214,No,0,SRP,0,((()())(()())),(((()())(((((((((((((())(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000023.ct,SRPdb_SRP_146,--
+--,X15523.ct,268,90,178,No,0,SRP,0,((()())()),((((()))())((((((((((((((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX15523.ct,SRPdb_SRP_147,--
+Dechloromonas aromatica,CP000089.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000089.ct,SRPdb_SRP_148,--
+--,X01055.ct,297,101,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX01055.ct,SRPdb_SRP_149,--
+--,D14472.ct,275,105,170,No,0,SRP,0,((()())()),(((((()))(())))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD14472.ct,SRPdb_SRP_150,--
+Vibrio vulnificus,BA000037.ct,94,40,54,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000037.ct,SRPdb_SRP_151,--
+--,AC091616.ct,298,98,200,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC091616.ct,SRPdb_SRP_152,--
+--,BD439871.ct,97,37,60,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBD439871.ct,SRPdb_SRP_153,--
+--,CP000232.ct,67,39,28,No,0,SRP,0,(()()),(((()))()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000232.ct,SRPdb_SRP_154,--
+Haemophilus ducreyil,U32175.ct,100,32,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU32175.ct,SRPdb_SRP_155,--
+--,DC223613.ct,293,111,182,No,0,SRP,0,()(()()()),((()))((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDC223613.ct,SRPdb_SRP_156,--
+Gracilaria tenuistipitata,AY673996.ct,108,48,60,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY673996.ct,SRPdb_SRP_157,--
+--,Z99259.ct,256,94,162,No,0,SRP,0,()(()()()),()((((((((((((((((((()))))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ99259.ct,SRPdb_SRP_158,--
+--,AE009624.ct,106,42,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009624.ct,SRPdb_SRP_159,--
+Streptococcus pyogenes,CP000261.ct,73,33,40,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000261.ct,SRPdb_SRP_160,--
+--,AE014017.ct,118,48,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014017.ct,SRPdb_SRP_161,--
+Bordetella pertussis,BX640415.ct,96,28,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX640415.ct,SRPdb_SRP_162,--
+--,BD010626.ct,99,35,64,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBD010626.ct,SRPdb_SRP_163,--
+--,AE006305.ct,77,31,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE006305.ct,SRPdb_SRP_164,--
+--,CJ679223.ct,272,126,146,No,0,SRP,0,()(()()()),()((((((((((((((((()))))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCJ679223.ct,SRPdb_SRP_165,--
+--,AP007255.ct,58,38,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP007255.ct,SRPdb_SRP_166,--
+Yersinia pestis,AL590842.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL590842.ct,SRPdb_SRP_167,--
+--,GSP-31273.ct,312,104,208,No,0,SRP,0,(()())(()()()),(()(((()))))(((((((((((((((())))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-31273.ct,SRPdb_SRP_168,--
+Helicobacter acinonychis,AM260522.ct,99,39,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM260522.ct,SRPdb_SRP_169,--
+--,CP000352.ct,111,45,66,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000352.ct,SRPdb_SRP_170,--
+Desulfovibrio vulgaris,CP000527.ct,82,32,50,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000527.ct,SRPdb_SRP_171,--
+--,AE000524.ct,113,33,80,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000524.ct,SRPdb_SRP_172,--
+--,D11420.ct,272,96,176,No,0,SRP,0,((()())()),(((((())))(()))((((((((((((((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11420.ct,SRPdb_SRP_173,--
+Burkholderia species,CP000151.ct,99,31,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000151.ct,SRPdb_SRP_174,--
+--,X17238.ct,315,119,196,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((((()))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX17238.ct,SRPdb_SRP_175,--
+--,GSP-79327.ct,298,104,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-79327.ct,SRPdb_SRP_176,--
+--,BW223536.ct,279,103,176,No,0,SRP,0,()(()()()),()((((((((((((((((()))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW223536.ct,SRPdb_SRP_177,--
+--,GSP-6279.ct,301,105,196,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6279.ct,SRPdb_SRP_178,--
+--,AJ699381.ct,278,112,166,No,0,SRP,0,(()())(()()()),((())(((()))))(((((((((((((()))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ699381.ct,SRPdb_SRP_179,--
+--,AE001187.ct,98,38,60,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001187.ct,SRPdb_SRP_180,--
+--,U32795.ct,113,31,82,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU32795.ct,SRPdb_SRP_181,--
+--,AE016807.ct,96,42,54,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016807.ct,SRPdb_SRP_182,--
+--,GSP-6282.ct,301,97,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6282.ct,SRPdb_SRP_183,--
+--,X55111.ct,306,104,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX55111.ct,SRPdb_SRP_184,--
+--,AL162755.ct,92,32,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL162755.ct,SRPdb_SRP_185,--
+Propionibacterium acnes,AE017283.ct,89,35,54,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017283.ct,SRPdb_SRP_186,--
+--,DW714804.ct,302,102,200,No,0,SRP,0,(()())(()()),((()()))((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDW714804.ct,SRPdb_SRP_187,--
+--,GSP-333668.ct,280,116,164,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-333668.ct,SRPdb_SRP_188,--
+--,BE594178.ct,305,129,176,No,0,SRP,0,()()(()(()()())),()()((((((((((()((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBE594178.ct,SRPdb_SRP_189,--
+--,GSP-9544.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9544.ct,SRPdb_SRP_190,--
+Rickettsia typhi,AE017197.ct,98,54,44,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017197.ct,SRPdb_SRP_191,--
+--,AE002056.ct,100,58,42,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002056.ct,SRPdb_SRP_192,--
+--,AM502223.ct,279,101,178,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM502223.ct,SRPdb_SRP_193,--
+--,GSP-402676.ct,257,91,166,No,0,SRP,0,()(()()()),()(((((((((((((())))()((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-402676.ct,SRPdb_SRP_194,--
+--,GSP-6334.ct,306,116,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6334.ct,SRPdb_SRP_195,--
+--,AY781792.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781792.ct,SRPdb_SRP_196,--
+Klebsiella pneumoniae,CP000647.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000647.ct,SRPdb_SRP_197,--
+Vibrio harveyi,CP000789.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000789.ct,SRPdb_SRP_198,--
+--,EE411418.ct,306,112,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE411418.ct,SRPdb_SRP_199,--
+--,AY722713.ct,137,107,30,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722713.ct,SRPdb_SRP_200,--
+--,SDB-109565.ct,66,42,24,No,0,SRP,0,(()()),((())()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-109565.ct,SRPdb_SRP_201,--
+Haemophilus somnus,CP000436.ct,101,41,60,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000436.ct,SRPdb_SRP_202,--
+--,AY781791.ct,139,115,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781791.ct,SRPdb_SRP_203,--
+Rhodopseudomonas palustris,CP000463.ct,105,45,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000463.ct,SRPdb_SRP_204,--
+--,AE008717.ct,116,60,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008717.ct,SRPdb_SRP_205,--
+--,AJ236703.ct,268,116,152,No,0,SRP,0,()()(()()()),()()((((((((((((()()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ236703.ct,SRPdb_SRP_206,--
+Mycobacterium bovis,BX248347.ct,59,45,14,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX248347.ct,SRPdb_SRP_207,--
+--,BF908765.ct,280,108,172,No,0,SRP,0,()()(()()()),()()((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF908765.ct,SRPdb_SRP_208,--
+--,GSP-370354.ct,274,100,174,No,0,SRP,0,(()())(()()()),((())())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-370354.ct,SRPdb_SRP_209,--
+Mycobacterium tuberculosis,AE000516.ct,86,48,38,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000516.ct,SRPdb_SRP_210,--
+--,AP006716.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006716.ct,SRPdb_SRP_211,--
+--,GSP-6282.ct,293,111,182,No,0,SRP,0,()()(()()()),()()((((((((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6282.ct,SRPdb_SRP_212,--
+--,DQ285765.ct,290,102,188,No,0,SRP,0,(()())(()()()),((())())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDQ285765.ct,SRPdb_SRP_213,--
+--,BE424647.ct,223,113,110,No,0,SRP,0,(()()()),((((((((((()))()((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBE424647.ct,SRPdb_SRP_214,--
+--,CP000143.ct,41,21,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000143.ct,SRPdb_SRP_215,--
+--,GSP-7668.ct,301,99,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7668.ct,SRPdb_SRP_216,--
+Corynebacterium jeikeium,CR931997.ct,91,41,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR931997.ct,SRPdb_SRP_217,--
+--,AL627171.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL627171.ct,SRPdb_SRP_218,--
+--,AC025951.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC025951.ct,SRPdb_SRP_219,--
+--,AY722728.ct,137,113,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722728.ct,SRPdb_SRP_220,--
+--,BX572093.ct,100,44,56,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX572093.ct,SRPdb_SRP_221,--
+--,AY781795.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781795.ct,SRPdb_SRP_222,--
+Yersinia pseudotuberculosis,BX936398.ct,103,45,58,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX936398.ct,SRPdb_SRP_223,--
+--,CP000384.ct,88,68,20,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000384.ct,SRPdb_SRP_224,--
+Xylella fastidiosa,AE009442.ct,103,41,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009442.ct,SRPdb_SRP_225,--
+--,CJ572413.ct,272,126,146,No,0,SRP,0,()(()()()),()((((((((((((((((()))))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCJ572413.ct,SRPdb_SRP_226,--
+Mycobacterium species,CP000518.ct,53,39,14,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000518.ct,SRPdb_SRP_227,--
+--,CP000716.ct,38,20,18,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000716.ct,SRPdb_SRP_228,--
+--,AL139074.ct,36,22,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL139074.ct,SRPdb_SRP_229,--
+--,BX321857.ct,96,36,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX321857.ct,SRPdb_SRP_230,--
+Yersinia pestis,CP000305.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000305.ct,SRPdb_SRP_231,--
+--,EE409827.ct,308,112,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE409827.ct,SRPdb_SRP_232,--
+--,AJ550801.ct,524,178,346,No,0,SRP,0,()((()(()())(()(()()())()))()()),()(((((((()))(()())(((((((())))((((((((((()))))(())((()))))))))((()))))))))()()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ550801.ct,SRPdb_SRP_233,--
+--,CP000141.ct,36,20,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000141.ct,SRPdb_SRP_234,--
+--,M32222.ct,310,92,218,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((((()))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM32222.ct,SRPdb_SRP_235,--
+--,X02067.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX02067.ct,SRPdb_SRP_236,--
+--,AE009969.ct,78,32,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009969.ct,SRPdb_SRP_237,--
+--,GSP-7217.ct,300,102,198,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7217.ct,SRPdb_SRP_238,--
+--,AE003940.ct,98,40,58,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE003940.ct,SRPdb_SRP_239,--
+--,SDB-9616.ct,299,97,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-9616.ct,SRPdb_SRP_240,--
+Tropheryma whipplei,AE016852.ct,105,49,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016852.ct,SRPdb_SRP_241,--
+--,M22560.ct,306,108,198,No,0,SRP,0,((()())(()())),((()())((((((((((((((()))(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM22560.ct,SRPdb_SRP_242,--
+--,GSP-7159.ct,301,99,202,No,0,SRP,0,(()())(()()),(()())((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7159.ct,SRPdb_SRP_243,--
+--,AJ550802.ct,525,181,344,No,0,SRP,0,()((()(()())(()(()()())()))()()),()(((((((()))((()()))(((((((())))((((((((((()))))(())((()))))))))((()))))))))()()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ550802.ct,SRPdb_SRP_244,--
+Pseudomonas aeruginosa,M31829.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM31829.ct,SRPdb_SRP_245,--
+Bdellovibrio bacteriovorus,BX842656.ct,56,42,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX842656.ct,SRPdb_SRP_246,--
+--,SDB-381124-2.ct,306,104,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()((((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-2.ct,SRPdb_SRP_247,--
+--,EE412262.ct,308,114,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE412262.ct,SRPdb_SRP_248,--
+--,AE004437.ct,305,117,188,No,0,SRP,0,((()())(()())),((()())(((((((((((((((((((()))))((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004437.ct,SRPdb_SRP_249,--
+--,SDB-102211.ct,93,67,26,No,0,SRP,0,(()()),(()()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-102211.ct,SRPdb_SRP_250,--
+Ralstonia solanacearum,AL646052.ct,101,37,64,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL646052.ct,SRPdb_SRP_251,--
+--,D11412.ct,271,101,170,No,0,SRP,0,((()())()),((((()))(()))(((((((((((((((((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11412.ct,SRPdb_SRP_252,--
+Streptococcus mutans,AE014133.ct,73,25,48,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014133.ct,SRPdb_SRP_253,--
+--,AE017129.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017129.ct,SRPdb_SRP_254,--
+--,AY948608.ct,299,97,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY948608.ct,SRPdb_SRP_255,--
+Leifsonia xyli,AE016822.ct,88,66,22,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016822.ct,SRPdb_SRP_256,--
+Streptococcus agalactiae,AE014209.ct,77,31,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014209.ct,SRPdb_SRP_257,--
+--,BA000004.ct,273,99,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000004.ct,SRPdb_SRP_258,--
+--,CP000382.ct,231,103,128,No,0,SRP,0,(()())(),((())())((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000382.ct,SRPdb_SRP_259,--
+--,X13958.ct,302,96,206,No,0,SRP,0,(()())(()()()),((()()))((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX13958.ct,SRPdb_SRP_260,--
+--,AY722731.ct,130,106,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722731.ct,SRPdb_SRP_261,--
+--,AY948607.ct,300,102,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY948607.ct,SRPdb_SRP_262,--
+Streptococcus pneumoniae,AE005672.ct,77,35,42,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE005672.ct,SRPdb_SRP_263,--
+Pseudomonas aeruginosa,CP000744.ct,100,36,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000744.ct,SRPdb_SRP_264,--
+Borrelia burgdorferi,AE000783.ct,100,56,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000783.ct,SRPdb_SRP_265,--
+--,CV620298.ct,158,94,64,No,0,SRP,0,(()()()),((((((((()))))()((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCV620298.ct,SRPdb_SRP_266,--
+--,AP009351.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP009351.ct,SRPdb_SRP_267,--
+Chlamydophila pneumoniae,AE002161.ct,110,54,56,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002161.ct,SRPdb_SRP_268,--
+--,X71484.ct,290,102,188,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX71484.ct,SRPdb_SRP_269,--
+Rhodopseudomonas palustris,BX572594.ct,105,45,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX572594.ct,SRPdb_SRP_270,--
+Xylella fastidiosa,AE003849.ct,117,47,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE003849.ct,SRPdb_SRP_271,--
+--,D11413.ct,266,98,168,No,0,SRP,0,((()())()),((((()))(()))(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11413.ct,SRPdb_SRP_272,--
+--,M20910.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM20910.ct,SRPdb_SRP_273,--
+--,U18917.ct,493,167,326,No,0,SRP,0,((()(()())(()(()()())()))()()),(((((()))((()()))(((((((())))(((((((((((()))))(())((())))))))))((()))))))))()()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU18917.ct,SRPdb_SRP_274,--
+--,SDB-87235.ct,279,105,174,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-87235.ct,SRPdb_SRP_275,--
+--,CP000393.ct,94,28,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000393.ct,SRPdb_SRP_276,--
+--,AE017261.ct,309,117,192,No,0,SRP,0,((()())(()())),(((()()))((((((((((((((()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017261.ct,SRPdb_SRP_277,--
+--,X65986.ct,303,125,178,No,0,SRP,0,()()(()()()),(())()(((((((((((((((((((((((()))))()((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65986.ct,SRPdb_SRP_278,--
+--,EH652573.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEH652573.ct,SRPdb_SRP_279,--
+Anabaena variabilis,CP000117.ct,101,41,60,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000117.ct,SRPdb_SRP_280,--
+--,AE009852.ct,322,118,204,No,0,SRP,0,((()())(()())),((((())(()))(((((((((((((((((()))((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009852.ct,SRPdb_SRP_281,--
+--,CD747410.ct,295,95,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCD747410.ct,SRPdb_SRP_282,--
+Porphyra purpurea,U38804.ct,92,42,50,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU38804.ct,SRPdb_SRP_283,--
+--,CR382138.ct,263,127,136,No,0,SRP,0,()(()()()),()((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR382138.ct,SRPdb_SRP_284,--
+--,BE083383.ct,298,96,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBE083383.ct,SRPdb_SRP_285,--
+--,S56681.ct,276,76,200,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((())))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlS56681.ct,SRPdb_SRP_286,--
+Azoarcus species,AM406670.ct,95,33,62,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM406670.ct,SRPdb_SRP_287,--
+--,GSP-170000-1.ct,308,104,204,No,0,SRP,0,(()())(()(()()())),(((()))())(((((((((()((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-170000-1.ct,SRPdb_SRP_288,--
+--,AY722715.ct,137,107,30,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722715.ct,SRPdb_SRP_289,--
+--,CN240152.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN240152.ct,SRPdb_SRP_290,--
+Escherichia coli,CP000468.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000468.ct,SRPdb_SRP_291,--
+--,CP000253.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000253.ct,SRPdb_SRP_292,--
+--,BA000017.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000017.ct,SRPdb_SRP_293,--
+--,NW_001091934.ct,275,93,182,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlNW_001091934.ct,SRPdb_SRP_294,--
+Lactobacillus brevis,CP000416.ct,55,35,20,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000416.ct,SRPdb_SRP_295,--
+Pseudomonas fluorescens,CP000094.ct,117,37,80,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000094.ct,SRPdb_SRP_296,--
+--,AP007169.ct,281,113,168,No,0,SRP,0,()(()(()()())),(())((((((((((()))((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP007169.ct,SRPdb_SRP_297,--
+--,SDB-41568.ct,89,89,0,No,0,SRP,0,,,,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-41568.ct,SRPdb_SRP_298,--
+--,AE014297.ct,299,97,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014297.ct,SRPdb_SRP_299,--
+--,GSP-9785.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9785.ct,SRPdb_SRP_300,--
+--,S76009.ct,79,31,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlS76009.ct,SRPdb_SRP_301,--
+--,AY781798.ct,58,58,0,No,0,SRP,0,,,,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781798.ct,SRPdb_SRP_302,--
+--,CN239248.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN239248.ct,SRPdb_SRP_303,--
+--,AE007951.ct,103,47,56,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE007951.ct,SRPdb_SRP_304,--
+--,AF269814.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF269814.ct,SRPdb_SRP_305,--
+Xanthomonas oryzae,AP008229.ct,117,45,72,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008229.ct,SRPdb_SRP_306,--
+--,BA000043.ct,103,37,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000043.ct,SRPdb_SRP_307,--
+Cyanidioschyzon merolae,AB002583.ct,86,36,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB002583.ct,SRPdb_SRP_308,--
+--,GSP-31234.ct,299,103,196,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-31234.ct,SRPdb_SRP_309,--
+Treponema pallidum,AE000520.ct,96,52,44,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000520.ct,SRPdb_SRP_310,--
+Mycoplasma pulmonis,AL445565.ct,99,45,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL445565.ct,SRPdb_SRP_311,--
+--,CR954246.ct,98,42,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR954246.ct,SRPdb_SRP_312,--
+--,SDB-5692.ct,279,89,190,No,0,SRP,0,(()())(()()),(()())((((((((((((((((()))(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-5692.ct,SRPdb_SRP_313,--
+--,AE000759.ct,91,45,46,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000759.ct,SRPdb_SRP_314,--
+--,SDB-381124-8.ct,266,126,140,No,0,SRP,0,(()())(()()()),((())())((((((((((((((())))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-8.ct,SRPdb_SRP_315,--
+Sphingopyxis alaskensis,CP000356.ct,92,30,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000356.ct,SRPdb_SRP_316,--
+Vibrio fischeri,CP000020.ct,111,39,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000020.ct,SRPdb_SRP_317,--
+--,AL646063.ct,106,40,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL646063.ct,SRPdb_SRP_318,--
+--,AC005275.ct,305,111,194,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((()))))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC005275.ct,SRPdb_SRP_319,--
+--,AE015936.ct,103,37,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015936.ct,SRPdb_SRP_320,--
+--,CP000504.ct,244,142,102,No,0,SRP,0,(()())(()()),((())())((((()))((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000504.ct,SRPdb_SRP_321,--
+--,GSP-332952.ct,283,115,168,No,0,SRP,0,()(()(()()())),(())((((((((((()))((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-332952.ct,SRPdb_SRP_322,--
+Lactobacillus salivarius,CP000233.ct,31,17,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000233.ct,SRPdb_SRP_323,--
+Lactobacillus plantarum,AL935253.ct,84,32,52,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL935253.ct,SRPdb_SRP_324,--
+--,CP000312.ct,268,88,180,No,0,SRP,0,((()())()),(((())())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000312.ct,SRPdb_SRP_325,--
+--,SDB-381124-3.ct,308,98,210,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-3.ct,SRPdb_SRP_326,--
+--,BW520975.ct,293,121,172,No,0,SRP,0,()(()()()),()((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW520975.ct,SRPdb_SRP_327,--
+Porphyra yezoensis,AP006715.ct,108,48,60,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006715.ct,SRPdb_SRP_328,--
+Geobacter sulfurreducens,AE017180.ct,91,39,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017180.ct,SRPdb_SRP_329,--
+--,AL139099.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL139099.ct,SRPdb_SRP_330,--
+Escherichia coli,CP000247.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000247.ct,SRPdb_SRP_331,--
+--,U41993.ct,293,109,184,No,0,SRP,0,(()())(()()()),(()())((((((((((((((())))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU41993.ct,SRPdb_SRP_332,--
+--,GSP-353151.ct,300,110,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((())()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-353151.ct,SRPdb_SRP_333,--
+--,X65984.ct,307,93,214,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65984.ct,SRPdb_SRP_334,--
+--,AE016995.ct,102,48,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016995.ct,SRPdb_SRP_335,--
+--,AP006123.ct,304,132,172,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006123.ct,SRPdb_SRP_336,--
+Shewanella loihica,CP000606.ct,98,44,54,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000606.ct,SRPdb_SRP_337,--
+--,GSP-341663.ct,283,115,168,No,0,SRP,0,()(()(()()())),(())((((((((((()))((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-341663.ct,SRPdb_SRP_338,--
+--,M20837.ct,270,100,170,No,0,SRP,0,()(()(()()())),()(((((())(((((((((((()))))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM20837.ct,SRPdb_SRP_339,--
+--,AE010126.ct,319,99,220,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE010126.ct,SRPdb_SRP_340,--
+--,BF727619.ct,293,111,182,No,0,SRP,0,()()(()()()),()()(((((((((((((((((((((())))()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF727619.ct,SRPdb_SRP_341,--
+--,BA000016.ct,268,88,180,No,0,SRP,0,((()())()),(((())())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000016.ct,SRPdb_SRP_342,--
+--,AY781794.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781794.ct,SRPdb_SRP_343,--
+Haemophilus influenzae,CP000672.ct,98,40,58,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000672.ct,SRPdb_SRP_344,--
+Pseudomonas putida,AE015451.ct,100,36,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015451.ct,SRPdb_SRP_345,--
+Caulobacter crescentus,AE005673.ct,93,51,42,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE005673.ct,SRPdb_SRP_346,--
+Helicobacter hepaticus,AE017125.ct,108,32,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017125.ct,SRPdb_SRP_347,--
+--,EE416381.ct,308,112,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE416381.ct,SRPdb_SRP_348,--
+--,AE001624.ct,104,50,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001624.ct,SRPdb_SRP_349,--
+--,BW549042.ct,274,118,156,No,0,SRP,0,()(()()()),()(((((((((((((((())))()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW549042.ct,SRPdb_SRP_350,--
+Nephroselmis olivacea,AF137379.ct,101,35,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF137379.ct,SRPdb_SRP_351,--
+--,Z46746.ct,303,99,204,No,0,SRP,0,(()())(()()()),((()()))(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ46746.ct,SRPdb_SRP_352,--
+--,AE017194.ct,269,95,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017194.ct,SRPdb_SRP_353,--
+--,X65985.ct,303,93,210,No,0,SRP,0,()()(()()()),(())()(((((((((((((((((())()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65985.ct,SRPdb_SRP_354,--
+--,BA000018.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000018.ct,SRPdb_SRP_355,--
+--,AF368293.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF368293.ct,SRPdb_SRP_356,--
+--,GSP-6500.ct,303,111,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6500.ct,SRPdb_SRP_357,--
+--,BX649540.ct,299,97,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((())))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX649540.ct,SRPdb_SRP_358,--
+--,AL669999.ct,282,120,162,No,0,SRP,0,()(()(()()())),()((((((((()(((((((((((())))))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL669999.ct,SRPdb_SRP_359,--
+Chlamydophila pneumoniae,AE001363.ct,116,56,60,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001363.ct,SRPdb_SRP_360,--
+--,CP000485.ct,269,95,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000485.ct,SRPdb_SRP_361,--
+--,CP000771.ct,35,21,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000771.ct,SRPdb_SRP_362,--
+--,CP000248.ct,41,21,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000248.ct,SRPdb_SRP_363,--
+Mesorhizobium loti,BA000012.ct,104,40,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000012.ct,SRPdb_SRP_364,--
+--,BN000170.ct,243,145,98,No,0,SRP,0,()()(()())(),()(())(((()((())))))(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBN000170.ct,SRPdb_SRP_365,--
+Streptococcus pyogenes,AM295007.ct,57,37,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM295007.ct,SRPdb_SRP_366,--
+--,GSP-5866.ct,280,100,180,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5866.ct,SRPdb_SRP_367,--
+Rhodopseudomonas palustris,CP000250.ct,100,38,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000250.ct,SRPdb_SRP_368,--
+--,AF395888.ct,306,120,186,No,0,SRP,0,((()())(()())),((()())(((((((((((((((((())))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF395888.ct,SRPdb_SRP_369,--
+--,GSP-396776.ct,326,128,198,No,0,SRP,0,()(()(()()()())),()((((((()((((((((()))((((()))))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-396776.ct,SRPdb_SRP_370,--
+--,M21085.ct,304,98,206,No,0,SRP,0,((()())(()())),(((()(()))((((((((((((((())))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM21085.ct,SRPdb_SRP_371,--
+Streptococcus dysgalactiae,AJ489606.ct,89,37,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ489606.ct,SRPdb_SRP_372,--
+--,CU179657.ct,282,106,176,No,0,SRP,0,(()())(()()()),((())())((((((((((((()))()((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCU179657.ct,SRPdb_SRP_373,--
+Prochlorococcus species,AJ011025.ct,81,33,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ011025.ct,SRPdb_SRP_374,--
+--,Z29106.ct,302,100,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29106.ct,SRPdb_SRP_375,--
+--,Z29110.ct,274,88,186,No,0,SRP,0,()(()()()),()(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29110.ct,SRPdb_SRP_376,--
+--,GSP-227321.ct,269,81,188,No,0,SRP,0,()(()(()()())),()((((((()(((((((((())))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-227321.ct,SRPdb_SRP_377,--
+--,CP000302.ct,114,58,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000302.ct,SRPdb_SRP_378,--
+Parachlamydia-related symbiont,BX908798.ct,102,40,62,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX908798.ct,SRPdb_SRP_379,--
+Micrococcus lysodeikticus,M31831.ct,88,66,22,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM31831.ct,SRPdb_SRP_380,--
+Mycoplasma hyopneumoniae,AE017243.ct,101,41,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017243.ct,SRPdb_SRP_381,--
+--,AM180355.ct,238,106,132,No,0,SRP,0,(()())(),(((()))())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM180355.ct,SRPdb_SRP_382,--
+--,GSP-45351.ct,302,106,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-45351.ct,SRPdb_SRP_383,--
+Escherichia coli,AE005174.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE005174.ct,SRPdb_SRP_384,--
+Campylobacter curvus,CP000767.ct,110,40,70,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000767.ct,SRPdb_SRP_385,--
+Lactococcus lactis,CP000425.ct,36,20,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000425.ct,SRPdb_SRP_386,--
+Chromohalobacter salexigens,CP000285.ct,103,49,54,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000285.ct,SRPdb_SRP_387,--
+--,X65990.ct,301,95,206,No,0,SRP,0,()()(()()()),()()((((((((((((((((((())()((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65990.ct,SRPdb_SRP_388,--
+Yersinia pestis,AE017042.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017042.ct,SRPdb_SRP_389,--
+Francisella tularensis,CP000439.ct,103,31,72,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000439.ct,SRPdb_SRP_390,--
+--,AE017311.ct,82,30,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017311.ct,SRPdb_SRP_391,--
+--,CP000736.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000736.ct,SRPdb_SRP_392,--
+Pediococcus pentosaceus,CP000422.ct,59,37,22,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000422.ct,SRPdb_SRP_393,--
+Shewanella species,CP000446.ct,114,58,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000446.ct,SRPdb_SRP_394,--
+--,GSP-413949.ct,281,91,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-413949.ct,SRPdb_SRP_395,--
+--,Z29104.ct,304,100,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29104.ct,SRPdb_SRP_396,--
+Streptococcus sanguinis,CP000387.ct,73,29,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000387.ct,SRPdb_SRP_397,--
+--,AE017154.ct,113,31,82,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017154.ct,SRPdb_SRP_398,--
+Yersinia pestis,AE009952.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009952.ct,SRPdb_SRP_399,--
+--,CD897082.ct,259,113,146,No,0,SRP,0,()(()()()),()((((((((((((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCD897082.ct,SRPdb_SRP_400,--
+--,AE017259.ct,101,49,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017259.ct,SRPdb_SRP_401,--
+--,S49762.ct,154,122,32,No,0,SRP,0,(()()),(()(())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlS49762.ct,SRPdb_SRP_402,--
+Pseudomonas aeruginosa,AE004091.ct,116,42,74,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004091.ct,SRPdb_SRP_403,--
+--,GSP-31271.ct,319,105,214,No,0,SRP,0,(()())(()()()),((()((()))))((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-31271.ct,SRPdb_SRP_404,--
+Vibrio cholerae,CP000627.ct,111,39,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000627.ct,SRPdb_SRP_405,--
+--,AE016790.ct,100,36,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016790.ct,SRPdb_SRP_406,--
+--,X13915.ct,204,100,104,No,0,SRP,0,(()()()),((((((((()))()((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX13915.ct,SRPdb_SRP_407,--
+--,U39706.ct,83,43,40,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU39706.ct,SRPdb_SRP_408,--
+--,CP000431.ct,97,43,54,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000431.ct,SRPdb_SRP_409,--
+--,SDB-381124-7.ct,308,102,206,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-7.ct,SRPdb_SRP_410,--
+--,AE001572.ct,299,97,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001572.ct,SRPdb_SRP_411,--
+--,SDB-381124-6.ct,305,95,210,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-6.ct,SRPdb_SRP_412,--
+Vibrio parahaemolyticus,BA000031.ct,98,38,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000031.ct,SRPdb_SRP_413,--
+Neisseria meningitidis,AL157959.ct,92,30,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL157959.ct,SRPdb_SRP_414,--
+--,AL583925.ct,92,42,50,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL583925.ct,SRPdb_SRP_415,--
+--,GSP-7220.ct,300,98,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7220.ct,SRPdb_SRP_416,--
+--,CD666347.ct,269,95,174,No,0,SRP,0,()(()()()),()(((((((((((((((())))()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCD666347.ct,SRPdb_SRP_417,--
+--,AC136507-1.ct,263,127,136,No,0,SRP,0,()()(()()()),()()((((((((((()))()((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC136507-1.ct,SRPdb_SRP_418,--
+--,SDB-347515.ct,275,95,180,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))))()((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-347515.ct,SRPdb_SRP_419,--
+--,AU088164.ct,307,101,206,No,0,SRP,0,(()())(()()()),((())(()))((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAU088164.ct,SRPdb_SRP_420,--
+--,AC095014.ct,299,97,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC095014.ct,SRPdb_SRP_421,--
+--,GSP-81824.ct,311,97,214,No,0,SRP,0,(()())(()()()),(((())()))(((((((((((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-81824.ct,SRPdb_SRP_422,--
+--,AE017262.ct,215,79,136,No,0,SRP,0,(),((((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017262.ct,SRPdb_SRP_423,--
+Bifidobacterium adolescentis,AP009256.ct,98,44,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP009256.ct,SRPdb_SRP_424,--
+--,AE008680.ct,87,29,58,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008680.ct,SRPdb_SRP_425,--
+--,AE006489.ct,98,46,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE006489.ct,SRPdb_SRP_426,--
+--,BU866844.ct,299,113,186,No,0,SRP,0,()()(()()()),()()(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBU866844.ct,SRPdb_SRP_427,--
+Corynebacterium glutamicum,BA000036.ct,52,38,14,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000036.ct,SRPdb_SRP_428,--
+Rhodopseudomonas palustris,CP000283.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000283.ct,SRPdb_SRP_429,--
+--,X57047.ct,273,75,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX57047.ct,SRPdb_SRP_430,--
+--,AE007319.ct,82,36,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE007319.ct,SRPdb_SRP_431,--
+--,BU566619.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBU566619.ct,SRPdb_SRP_432,--
+--,Z46745.ct,303,95,208,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ46745.ct,SRPdb_SRP_433,--
+--,CP000724.ct,175,131,44,No,0,SRP,0,(()())(),(((()))())((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000724.ct,SRPdb_SRP_434,--
+--,AE014879.ct,101,49,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014879.ct,SRPdb_SRP_435,--
+--,E36052.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlE36052.ct,SRPdb_SRP_436,--
+--,CP000454.ct,88,38,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000454.ct,SRPdb_SRP_437,--
+Mesoplasma florum,AE017263.ct,105,35,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017263.ct,SRPdb_SRP_438,--
+--,AL161495.ct,306,104,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL161495.ct,SRPdb_SRP_439,--
+Tropheryma whipplei,BX251412.ct,89,35,54,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX251412.ct,SRPdb_SRP_440,--
+--,CP000511.ct,92,44,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000511.ct,SRPdb_SRP_441,--
+--,GSP-110771.ct,271,89,182,No,0,SRP,0,(()())(()()()),((())(()))((((((((((((((())()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-110771.ct,SRPdb_SRP_442,--
+--,AB021174.ct,299,97,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB021174.ct,SRPdb_SRP_443,--
+--,AM412317.ct,244,102,142,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM412317.ct,SRPdb_SRP_444,--
+--,GSP-7244.ct,297,97,200,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7244.ct,SRPdb_SRP_445,--
+Streptomyces lividans,AY081854.ct,90,38,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY081854.ct,SRPdb_SRP_446,--
+--,X14796.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX14796.ct,SRPdb_SRP_447,--
+--,GSP-9258.ct,302,94,208,No,0,SRP,0,(()())(()()()),(()())((((((((((((())()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9258.ct,SRPdb_SRP_448,--
+Campylobacter jejuni,AL111168.ct,107,35,72,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL111168.ct,SRPdb_SRP_449,--
+--,AE017331.ct,103,39,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017331.ct,SRPdb_SRP_450,--
+Methylococcus capsulatus,AE017282.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017282.ct,SRPdb_SRP_451,--
+--,CP000438.ct,104,48,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000438.ct,SRPdb_SRP_452,--
+--,BA000001.ct,319,101,218,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000001.ct,SRPdb_SRP_453,--
+--,CP000002.ct,271,97,174,No,0,SRP,0,((()())()),((((()))(()))(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000002.ct,SRPdb_SRP_454,--
+--,AY781793.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781793.ct,SRPdb_SRP_455,--
+--,GSP-5854.ct,312,110,202,No,0,SRP,0,(()())(()()()),((())(()))((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5854.ct,SRPdb_SRP_456,--
+--,X13914.ct,302,112,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((())))()((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX13914.ct,SRPdb_SRP_457,--
+--,BX571857.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX571857.ct,SRPdb_SRP_458,--
+--,CP000030.ct,101,43,58,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000030.ct,SRPdb_SRP_459,--
+--,GSP-99928.ct,304,110,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-99928.ct,SRPdb_SRP_460,--
+Salinispora tropica,CP000667.ct,91,41,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000667.ct,SRPdb_SRP_461,--
+--,DN489028.ct,297,113,184,No,0,SRP,0,()()(()()()),()()(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDN489028.ct,SRPdb_SRP_462,--
+--,X17237.ct,310,98,212,No,0,SRP,0,((()())(()())),((()())((((((((((((((((())))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX17237.ct,SRPdb_SRP_463,--
+--,GSP-31276.ct,287,137,150,No,0,SRP,0,(()())(()()()),((())(()))((((((((((((((((((((()))()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-31276.ct,SRPdb_SRP_464,--
+--,AA532232.ct,278,110,168,No,0,SRP,0,()(()()()),()((((((((((((((())()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAA532232.ct,SRPdb_SRP_465,--
+--,CJ969290.ct,284,104,180,No,0,SRP,0,()(()()()),()((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCJ969290.ct,SRPdb_SRP_466,--
+Vibrio cholerae,AE003852.ct,113,43,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE003852.ct,SRPdb_SRP_467,--
+Yersinia pestis,CP000308.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000308.ct,SRPdb_SRP_468,--
+--,CR382126.ct,499,261,238,No,0,SRP,0,()(()(()())()(()()())()),()((((((((((())))((((((()))((()))))))()((((((((())))((()))((())))))))(())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR382126.ct,SRPdb_SRP_469,--
+Brucella melitensis,AM040264.ct,106,42,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM040264.ct,SRPdb_SRP_470,--
+--,AL591782.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL591782.ct,SRPdb_SRP_471,--
+--,BJ360333.ct,278,112,166,No,0,SRP,0,(()())(()()()),((())(((()))))(((((((((((((()))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBJ360333.ct,SRPdb_SRP_472,--
+Kineococcus radiotolerans,CP000750.ct,53,37,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000750.ct,SRPdb_SRP_473,--
+Burkholderia mallei,CP000548.ct,105,37,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000548.ct,SRPdb_SRP_474,--
+Lactobacillus delbrueckii,AF496545.ct,88,48,40,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF496545.ct,SRPdb_SRP_475,--
+--,X65983.ct,306,88,218,No,0,SRP,0,(()())(()()()),((()()))(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65983.ct,SRPdb_SRP_476,--
+--,GSP-54126.ct,299,109,190,No,0,SRP,0,(()())(()()),(()())(((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-54126.ct,SRPdb_SRP_477,--
+--,GSP-294747.ct,266,112,154,No,0,SRP,0,()(()()()),()((((((((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-294747.ct,SRPdb_SRP_478,--
+--,AP003333.ct,318,136,182,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((((((((((()))))()(((()))))))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP003333.ct,SRPdb_SRP_479,--
+--,AC084446.ct,299,101,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((()))()((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC084446.ct,SRPdb_SRP_480,--
+--,AF047723.ct,273,75,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF047723.ct,SRPdb_SRP_481,--
+--,AE000512.ct,117,61,56,No,0,SRP,0,(),(((((((((((()))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000512.ct,SRPdb_SRP_482,--
+--,CA694528.ct,259,109,150,No,0,SRP,0,(()()()),((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCA694528.ct,SRPdb_SRP_483,--
+--,AE012978.ct,267,89,178,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE012978.ct,SRPdb_SRP_484,--
+--,BX572096.ct,97,35,62,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX572096.ct,SRPdb_SRP_485,--
+--,GSP-333146.ct,316,118,198,No,0,SRP,0,((()())(()())),(((()())(((((((((((((((((((()))))((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-333146.ct,SRPdb_SRP_486,--
+--,GSP-51971-1.ct,290,98,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-51971-1.ct,SRPdb_SRP_487,--
+Burkholderia cenocepacia,CP000458.ct,96,28,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000458.ct,SRPdb_SRP_488,--
+--,X01056.ct,295,95,200,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX01056.ct,SRPdb_SRP_489,--
+--,CK235759.ct,270,108,162,No,0,SRP,0,()()(()()()),()()((((((((((((()))()((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCK235759.ct,SRPdb_SRP_490,--
+--,Z29112.ct,303,99,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29112.ct,SRPdb_SRP_491,--
+Shigella flexneri,AE014073.ct,108,34,74,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014073.ct,SRPdb_SRP_492,--
+--,AE000666.ct,310,94,216,No,0,SRP,0,((()())(()())),((()(()))(((((((((((((((()))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000666.ct,SRPdb_SRP_493,--
+Thermus thermophilus,AP008226.ct,105,35,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008226.ct,SRPdb_SRP_494,--
+--,AE017264.ct,103,37,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017264.ct,SRPdb_SRP_495,--
+--,GSP-37010.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-37010.ct,SRPdb_SRP_496,--
+--,X15220.ct,256,94,162,No,0,SRP,0,()(()()()),()((((((((((((((((((()))))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX15220.ct,SRPdb_SRP_497,--
+--,AY722723.ct,134,110,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722723.ct,SRPdb_SRP_498,--
+--,AE010387.ct,313,101,212,No,0,SRP,0,((()())(()())),((()(()))(((((((((((((((((())))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE010387.ct,SRPdb_SRP_499,--
+Streptococcus pyogenes,AE004092.ct,73,33,40,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004092.ct,SRPdb_SRP_500,--
+--,X51658.ct,270,106,164,No,0,SRP,0,()(()(()()())),()(((((())(((((((((((()))))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX51658.ct,SRPdb_SRP_501,--
+Borrelia afzelii,CP000395.ct,81,33,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000395.ct,SRPdb_SRP_502,--
+--,AC005311.ct,305,97,208,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((((())()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC005311.ct,SRPdb_SRP_503,--
+Corynebacterium diphtheriae,BX248354.ct,89,37,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX248354.ct,SRPdb_SRP_504,--
+--,EE659686.ct,64,50,14,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE659686.ct,SRPdb_SRP_505,--
+Mycoplasma hyopneumoniae,AE017244.ct,81,39,42,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017244.ct,SRPdb_SRP_506,--
+Bradyrhizobium japonicum,BA000040.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000040.ct,SRPdb_SRP_507,--
+--,AE016853.ct,95,35,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016853.ct,SRPdb_SRP_508,--
+Frankia species,CP000249.ct,88,66,22,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000249.ct,SRPdb_SRP_509,--
+--,AX145149.ct,270,88,182,No,0,SRP,0,((()())()),(((())(()))(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAX145149.ct,SRPdb_SRP_510,--
+--,BD193435.ct,93,43,50,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBD193435.ct,SRPdb_SRP_511,--
+--,EE411027.ct,308,112,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE411027.ct,SRPdb_SRP_512,--
+Mycoplasma synoviae,AE017245.ct,105,33,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017245.ct,SRPdb_SRP_513,--
+--,CP000557.ct,266,92,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000557.ct,SRPdb_SRP_514,--
+--,GSP-336963.ct,299,115,184,No,0,SRP,0,()(()(()()()())),()(((((()((((((()(((())))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-336963.ct,SRPdb_SRP_515,--
+--,SDB-189209.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())())((((((((((((((())()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-189209.ct,SRPdb_SRP_516,--
+--,M28116.ct,519,175,344,No,0,SRP,0,()((()(()())(()(()()())()))()()),()((((((()))(((())()))(((((((())))(((((((((((()))))(())((())))))))))((()))))))))()())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM28116.ct,SRPdb_SRP_517,--
+Photobacterium profundum,CR378666.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR378666.ct,SRPdb_SRP_518,--
+--,XM_626716.ct,300,108,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlXM_626716.ct,SRPdb_SRP_519,--
+--,AP006364.ct,307,117,190,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((((((()))))()((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006364.ct,SRPdb_SRP_520,--
+Burkholderia cenocepacia,CP000380.ct,96,28,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000380.ct,SRPdb_SRP_521,--
+--,AE017306.ct,102,34,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017306.ct,SRPdb_SRP_522,--
+Brucella suis,AE014291.ct,99,37,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014291.ct,SRPdb_SRP_523,--
+Actinobacillus succinogenes,CP000746.ct,104,32,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000746.ct,SRPdb_SRP_524,--
+Shigella flexneri,CP000266.ct,28,14,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000266.ct,SRPdb_SRP_525,--
+Streptococcus agalactiae,CP000114.ct,77,33,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000114.ct,SRPdb_SRP_526,--
+--,DW714815.ct,302,98,204,No,0,SRP,0,(()())(()()),((())())((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDW714815.ct,SRPdb_SRP_527,--
+--,AC002512.ct,299,97,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC002512.ct,SRPdb_SRP_528,--
+--,Z29109.ct,250,92,158,No,0,SRP,0,(()()()),(((((((((((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29109.ct,SRPdb_SRP_529,--
+--,CP000001.ct,103,37,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000001.ct,SRPdb_SRP_530,--
+--,AY596297.ct,316,118,198,No,0,SRP,0,((()())(()())),((()())((((((((((((((((((()))((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY596297.ct,SRPdb_SRP_531,--
+--,AE012197.ct,98,40,58,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE012197.ct,SRPdb_SRP_532,--
+Haemophilus influenzae,CP000057.ct,115,37,78,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000057.ct,SRPdb_SRP_533,--
+Wolbachia endosymbiont,AE017196.ct,100,44,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017196.ct,SRPdb_SRP_534,--
+Pseudomonas fluorescens,CP000076.ct,100,34,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000076.ct,SRPdb_SRP_535,--
+--,GSP-225164.ct,305,113,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((())))()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-225164.ct,SRPdb_SRP_536,--
+--,EE537348.ct,308,112,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE537348.ct,SRPdb_SRP_537,--
+Nitrobacter hamburgensis,CP000319.ct,101,41,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000319.ct,SRPdb_SRP_538,--
+Mycoplasma penetrans,BA000026.ct,77,27,50,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000026.ct,SRPdb_SRP_539,--
+--,GSP-9447.ct,302,126,176,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((((()))))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-9447.ct,SRPdb_SRP_540,--
+Thalassiosira pseudonana,EF067921.ct,90,46,44,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEF067921.ct,SRPdb_SRP_541,--
+--,CD526459.ct,308,116,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((((((())))()((())))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCD526459.ct,SRPdb_SRP_542,--
+Chlorella vulgaris,AB001684.ct,67,29,38,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB001684.ct,SRPdb_SRP_543,--
+--,CP000745.ct,218,144,74,No,0,SRP,0,(()())()(),(()())((()))((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000745.ct,SRPdb_SRP_544,--
+Synechococcus species,CP000097.ct,98,32,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000097.ct,SRPdb_SRP_545,--
+--,BA000011.ct,299,109,190,No,0,SRP,0,((()())(()())),(((()()))((((((((((((((((())((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000011.ct,SRPdb_SRP_546,--
+Blochmannia floridanus,BX248583.ct,118,40,78,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX248583.ct,SRPdb_SRP_547,--
+Chlamydophila pneumoniae,BA000008.ct,116,64,52,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000008.ct,SRPdb_SRP_548,--
+Synechococcus species,BX569693.ct,97,31,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX569693.ct,SRPdb_SRP_549,--
+--,Z29111.ct,302,100,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29111.ct,SRPdb_SRP_550,--
+--,AE008384.ct,315,117,198,No,0,SRP,0,((()())(()())),((()())((((((((((((((((()))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008384.ct,SRPdb_SRP_551,--
+Nitrosomonas europaea,AL954747.ct,102,38,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL954747.ct,SRPdb_SRP_552,--
+--,GSP-278162.ct,317,129,188,No,0,SRP,0,()(()(()()()())),()((((((())((((((((()))((((()))))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-278162.ct,SRPdb_SRP_553,--
+Neisseria meningitidis,AM421808.ct,102,34,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM421808.ct,SRPdb_SRP_554,--
+Streptococcus pyogenes,CP000003.ct,98,46,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000003.ct,SRPdb_SRP_555,--
+--,GSP-71109.ct,302,118,184,No,0,SRP,0,()(()(()()())),()((((((((()(((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-71109.ct,SRPdb_SRP_556,--
+--,Z29101.ct,304,100,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29101.ct,SRPdb_SRP_557,--
+Burkholderia mallei,CP000526.ct,105,37,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000526.ct,SRPdb_SRP_558,--
+Buchnera aphidicola,AE013218.ct,99,39,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE013218.ct,SRPdb_SRP_559,--
+Silicibacter species,CP000377.ct,62,40,22,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000377.ct,SRPdb_SRP_560,--
+--,SDB-5909.ct,282,112,170,No,0,SRP,0,(()())(()()()),(()(()))(((((((((((((((((()))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-5909.ct,SRPdb_SRP_561,--
+--,AJ846712.ct,205,107,98,No,0,SRP,0,(()()()),((((((()))()(((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ846712.ct,SRPdb_SRP_562,--
+--,CP000577.ct,42,22,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000577.ct,SRPdb_SRP_563,--
+--,NR_002715.ct,301,99,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlNR_002715.ct,SRPdb_SRP_564,--
+Streptomyces coelicolor,AL939118.ct,64,52,12,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL939118.ct,SRPdb_SRP_565,--
+--,GSP-5722-1.ct,307,109,198,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((()))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5722-1.ct,SRPdb_SRP_566,--
+--,AJ236706.ct,299,95,204,No,0,SRP,0,()()(()()()),()()(((((((((((((((((())()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ236706.ct,SRPdb_SRP_567,--
+Arthrobacter aurescens,CP000474.ct,92,42,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000474.ct,SRPdb_SRP_568,--
+--,AE014819.ct,307,93,214,No,0,SRP,0,(()())(()()()),((())(()))(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014819.ct,SRPdb_SRP_569,--
+--,CP000552.ct,81,33,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000552.ct,SRPdb_SRP_570,--
+Frankia alni,CT573213.ct,91,69,22,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCT573213.ct,SRPdb_SRP_571,--
+Lactobacillus delbrueckii,CP000412.ct,91,53,38,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000412.ct,SRPdb_SRP_572,--
+Mycoplasma capricolum,S67588.ct,81,31,50,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlS67588.ct,SRPdb_SRP_573,--
+--,D12926.ct,103,37,66,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD12926.ct,SRPdb_SRP_574,--
+--,X06803.ct,53,25,28,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX06803.ct,SRPdb_SRP_575,--
+Mycoplasma capricolum,D00560.ct,77,33,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD00560.ct,SRPdb_SRP_576,--
+--,DN498769.ct,299,113,186,No,0,SRP,0,()()(()()()),()()(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDN498769.ct,SRPdb_SRP_577,--
+--,BD426631.ct,113,31,82,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBD426631.ct,SRPdb_SRP_578,--
+--,CR925739.ct,282,106,176,No,0,SRP,0,(()())(()()()),((())())((((((((((((()))()(((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR925739.ct,SRPdb_SRP_579,--
+--,AE015625.ct,114,58,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015625.ct,SRPdb_SRP_580,--
+--,BK005670.ct,271,89,182,No,0,SRP,0,(()())(()()()),((())(()))((((((((((((((())()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBK005670.ct,SRPdb_SRP_581,--
+Escherichia coli,U00096.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU00096.ct,SRPdb_SRP_582,--
+--,X04249.ct,299,97,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX04249.ct,SRPdb_SRP_583,--
+--,X15364.ct,310,96,214,No,0,SRP,0,((()())(()())),((()())((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX15364.ct,SRPdb_SRP_584,--
+--,SDB-381124-5.ct,309,101,208,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()((((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-5.ct,SRPdb_SRP_585,--
+--,AJ828095.ct,64,46,18,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ828095.ct,SRPdb_SRP_586,--
+--,X56981.ct,283,113,170,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX56981.ct,SRPdb_SRP_587,--
+--,AP008207.ct,318,144,174,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((((((())))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008207.ct,SRPdb_SRP_588,--
+--,CP000728.ct,244,102,142,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000728.ct,SRPdb_SRP_589,--
+--,AE016751.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016751.ct,SRPdb_SRP_590,--
+--,GSP-42374.ct,263,89,174,No,0,SRP,0,()(()()()),()(((((((((((((((((()))))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-42374.ct,SRPdb_SRP_591,--
+--,AL590449.ct,162,66,96,No,0,SRP,0,(()()()),(((((((((()))()(((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL590449.ct,SRPdb_SRP_592,--
+--,BX470258.ct,282,104,178,No,0,SRP,0,(()())(()()()),((())())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX470258.ct,SRPdb_SRP_593,--
+--,AE017334.ct,205,127,78,No,0,SRP,0,((()())()),(((()(()))(((((((((((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017334.ct,SRPdb_SRP_594,--
+--,Z29260.ct,300,100,200,No,0,SRP,0,()()(()()()),()()((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29260.ct,SRPdb_SRP_595,--
+--,CB179518.ct,307,103,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCB179518.ct,SRPdb_SRP_596,--
+Francisella tularensis,CP000608.ct,99,31,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000608.ct,SRPdb_SRP_597,--
+--,AI249203.ct,286,110,176,No,0,SRP,0,()(()()()),()(((((((((((((((((((((())))()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAI249203.ct,SRPdb_SRP_598,--
+--,AC079888.ct,311,115,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((((()))()(((()))))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC079888.ct,SRPdb_SRP_599,--
+Mycobacterium species,CP000580.ct,104,52,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000580.ct,SRPdb_SRP_600,--
+--,AP003253.ct,318,136,182,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((((((((((()))))()(((()))))))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP003253.ct,SRPdb_SRP_601,--
+--,BW598799.ct,281,115,166,No,0,SRP,0,()(()()()),()(((((((((((((((((((((())))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW598799.ct,SRPdb_SRP_602,--
+--,X01698.ct,304,118,186,No,0,SRP,0,((()())(()())),((()())((((((((((((((((((()))))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX01698.ct,SRPdb_SRP_603,--
+--,Z29100.ct,213,105,108,No,0,SRP,0,(()()()),(((((((()))()((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29100.ct,SRPdb_SRP_604,--
+Pseudomonas entomophila,CT573326.ct,91,37,54,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCT573326.ct,SRPdb_SRP_605,--
+Campylobacter jejuni,CP000538.ct,106,40,66,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000538.ct,SRPdb_SRP_606,--
+Saccharopolyspora erythraea,AM420293.ct,53,37,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM420293.ct,SRPdb_SRP_607,--
+Shewanella baltica,CP000753.ct,93,55,38,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000753.ct,SRPdb_SRP_608,--
+--,AP006627.ct,103,41,62,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006627.ct,SRPdb_SRP_609,--
+--,AU010514.ct,95,95,0,No,0,SRP,0,,,,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAU010514.ct,SRPdb_SRP_610,--
+--,CP000703.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000703.ct,SRPdb_SRP_611,--
+--,CP000561.ct,240,144,96,No,0,SRP,0,(()())(()()),((())(()))(((((())))((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000561.ct,SRPdb_SRP_612,--
+Bartonella quintana,BX897700.ct,105,63,42,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX897700.ct,SRPdb_SRP_613,--
+--,CP000300.ct,320,114,206,No,0,SRP,0,((()())(()())),((()(()))((((((((((((())((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000300.ct,SRPdb_SRP_614,--
+--,CO743022.ct,66,42,24,No,0,SRP,0,(()()),((())()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCO743022.ct,SRPdb_SRP_615,--
+Hahella chejuensis,CP000155.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000155.ct,SRPdb_SRP_616,--
+--,CF974802.ct,307,103,204,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((())))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCF974802.ct,SRPdb_SRP_617,--
+--,AC157822.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC157822.ct,SRPdb_SRP_618,--
+--,AY722735.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722735.ct,SRPdb_SRP_619,--
+Streptococcus pyogenes,BA000034.ct,99,47,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000034.ct,SRPdb_SRP_620,--
+--,AF487684.ct,210,84,126,No,0,SRP,0,(()()),((((((((((((((()))(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF487684.ct,SRPdb_SRP_621,--
+--,CV045835.ct,67,51,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCV045835.ct,SRPdb_SRP_622,--
+Caulobacter crescentus,U49738.ct,87,27,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU49738.ct,SRPdb_SRP_623,--
+--,D11418.ct,271,91,180,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11418.ct,SRPdb_SRP_624,--
+--,AE004188.ct,100,38,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE004188.ct,SRPdb_SRP_625,--
+--,CP000673.ct,234,108,126,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000673.ct,SRPdb_SRP_626,--
+Burkholderia mallei,CP000546.ct,79,35,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000546.ct,SRPdb_SRP_627,--
+--,AE015929.ct,270,88,182,No,0,SRP,0,((()())()),(((())(()))(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015929.ct,SRPdb_SRP_628,--
+Desulfovibrio vulgaris,AE017285.ct,82,34,48,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017285.ct,SRPdb_SRP_629,--
+--,X13913.ct,298,108,190,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX13913.ct,SRPdb_SRP_630,--
+--,BX248585.ct,114,48,66,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX248585.ct,SRPdb_SRP_631,--
+--,AE011739.ct,118,46,72,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE011739.ct,SRPdb_SRP_632,--
+--,AE016819.ct,381,141,240,No,0,SRP,0,()(()()((()()())())),()(((((((())))(())((((((((((())))(())((()))))))()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016819.ct,SRPdb_SRP_633,--
+--,CP000099.ct,320,120,200,No,0,SRP,0,((()())(()())),(((()(()))(((((((((((((((())((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000099.ct,SRPdb_SRP_634,--
+Mesostigma viride,AF166114.ct,103,49,54,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF166114.ct,SRPdb_SRP_635,--
+--,SDB-377271.ct,303,103,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-377271.ct,SRPdb_SRP_636,--
+--,AY722727.ct,137,113,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722727.ct,SRPdb_SRP_637,--
+--,AY781789.ct,134,110,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781789.ct,SRPdb_SRP_638,--
+Prochlorococcus marinus,CP000576.ct,81,33,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000576.ct,SRPdb_SRP_639,--
+--,U40756.ct,298,98,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU40756.ct,SRPdb_SRP_640,--
+--,CR382127.ct,270,100,170,No,0,SRP,0,()(()(()()())),()(((((())(((((((((((()))))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR382127.ct,SRPdb_SRP_641,--
+Vibrio vulnificus,AE016795.ct,114,38,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016795.ct,SRPdb_SRP_642,--
+--,AY722725.ct,139,115,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722725.ct,SRPdb_SRP_643,--
+--,CK327537.ct,280,102,178,No,0,SRP,0,()(()()()),()((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCK327537.ct,SRPdb_SRP_644,--
+Pseudomonas aeruginosa,X14404.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX14404.ct,SRPdb_SRP_645,--
+--,AE016968.ct,82,36,46,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016968.ct,SRPdb_SRP_646,--
+--,AE001151.ct,98,54,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001151.ct,SRPdb_SRP_647,--
+Bifidobacterium longum,AE014295.ct,89,37,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014295.ct,SRPdb_SRP_648,--
+--,AB061847.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB061847.ct,SRPdb_SRP_649,--
+--,AE017333.ct,271,97,174,No,0,SRP,0,((()())()),((((()))(()))(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017333.ct,SRPdb_SRP_650,--
+Azoarcus species,CR555306.ct,111,45,66,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR555306.ct,SRPdb_SRP_651,--
+Pseudomonas mendocina,CP000680.ct,117,37,80,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000680.ct,SRPdb_SRP_652,--
+Pseudomonas syringae,CP000058.ct,90,38,52,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000058.ct,SRPdb_SRP_653,--
+Yersinia pseudotuberculosis,CP000720.ct,97,39,58,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000720.ct,SRPdb_SRP_654,--
+Streptococcus pneumoniae,CP000410.ct,77,35,42,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000410.ct,SRPdb_SRP_655,--
+Gluconobacter oxydans,CP000009.ct,81,35,46,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000009.ct,SRPdb_SRP_656,--
+--,GSP-7719.ct,298,98,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7719.ct,SRPdb_SRP_657,--
+--,DC015625.ct,277,115,162,No,0,SRP,0,()(()()()),()(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDC015625.ct,SRPdb_SRP_658,--
+Campylobacter jejuni,CP000768.ct,103,43,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000768.ct,SRPdb_SRP_659,--
+--,SDB-5671.ct,279,101,178,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-5671.ct,SRPdb_SRP_660,--
+--,X12642.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX12642.ct,SRPdb_SRP_661,--
+Methylobacillus flagellatus,CP000284.ct,96,28,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000284.ct,SRPdb_SRP_662,--
+Caulobacter crescentus,U22036.ct,103,57,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU22036.ct,SRPdb_SRP_663,--
+Streptococcus agalactiae,AL766845.ct,77,31,46,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL766845.ct,SRPdb_SRP_664,--
+--,AM260479.ct,111,45,66,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM260479.ct,SRPdb_SRP_665,--
+--,AL591984.ct,103,39,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL591984.ct,SRPdb_SRP_666,--
+--,GSP-294746.ct,255,141,114,No,0,SRP,0,()(()()()),()((((((((((((((((((((((())))()(((())))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-294746.ct,SRPdb_SRP_667,--
+--,AE016918.ct,97,31,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016918.ct,SRPdb_SRP_668,--
+Bradyrhizobium species,CP000494.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000494.ct,SRPdb_SRP_669,--
+--,D11417.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11417.ct,SRPdb_SRP_670,--
+--,AY722734.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722734.ct,SRPdb_SRP_671,--
+Neisseria gonorrhoeae,AF482014.ct,94,30,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF482014.ct,SRPdb_SRP_672,--
+--,EE400505.ct,308,116,192,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((()))()((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE400505.ct,SRPdb_SRP_673,--
+--,BN000250.ct,524,178,346,No,0,SRP,0,()((()(()())(()(()()())()))()()),()(((((((()))(()())(((((((())))((((((((((()))))(())((()))))))))((()))))))))()()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBN000250.ct,SRPdb_SRP_674,--
+--,CP000769.ct,88,36,52,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000769.ct,SRPdb_SRP_675,--
+--,AE017149.ct,99,39,60,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017149.ct,SRPdb_SRP_676,--
+--,GSP-403673.ct,308,106,202,No,0,SRP,0,(()())(()(()()())),(()())(((((((((()((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-403673.ct,SRPdb_SRP_677,--
+--,AA559987.ct,288,104,184,No,0,SRP,0,()()(()()()),()()(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAA559987.ct,SRPdb_SRP_678,--
+--,GSP-222929.ct,326,130,196,No,0,SRP,0,()(()(()()()())),()((((((()((((((((()))((((()))))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-222929.ct,SRPdb_SRP_679,--
+--,CR382130.ct,266,104,162,No,0,SRP,0,()(()(()()())),()(((((())(((((((((((()))))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR382130.ct,SRPdb_SRP_680,--
+Shewanella putrefaciens,CP000681.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000681.ct,SRPdb_SRP_681,--
+Burkholderia pseudomallei,CP000572.ct,79,35,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000572.ct,SRPdb_SRP_682,--
+--,EH487580.ct,296,98,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEH487580.ct,SRPdb_SRP_683,--
+--,AP006878.ct,318,106,212,No,0,SRP,0,((()())(()())),((()(()))((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006878.ct,SRPdb_SRP_684,--
+--,CP000568.ct,175,131,44,No,0,SRP,0,(()())(),(((()))())((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000568.ct,SRPdb_SRP_685,--
+--,DQ256493.ct,98,40,58,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDQ256493.ct,SRPdb_SRP_686,--
+--,BA000002.ct,304,102,202,No,0,SRP,0,(()(()())),((((()))((((((((((((((((())))((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000002.ct,SRPdb_SRP_687,--
+--,CN240538.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN240538.ct,SRPdb_SRP_688,--
+--,CP000440.ct,96,28,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000440.ct,SRPdb_SRP_689,--
+Idiomarina loihiensis,AE017340.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017340.ct,SRPdb_SRP_690,--
+Streptococcus pyogenes,CP000262.ct,84,42,42,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000262.ct,SRPdb_SRP_691,--
+--,BX842642.ct,96,40,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX842642.ct,SRPdb_SRP_692,--
+Psychrobacter sp.,CP000713.ct,90,42,48,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000713.ct,SRPdb_SRP_693,--
+--,479647571.ct,416,156,260,No,0,SRP,0,()((()()((()()())()))()),(())(((((((()))((()))(((((((((((((()))))((()))((())))))))))())))())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.html479647571.ct,SRPdb_SRP_694,--
+--,GSP-41668.ct,273,101,172,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-41668.ct,SRPdb_SRP_695,--
+--,GSP-5823.ct,320,104,216,No,0,SRP,0,(()())(()()()),(()((())))((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5823.ct,SRPdb_SRP_696,--
+--,CP000478.ct,110,40,70,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000478.ct,SRPdb_SRP_697,--
+--,D49784.ct,268,88,180,No,0,SRP,0,((()())()),(((())())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD49784.ct,SRPdb_SRP_698,--
+--,BW088710.ct,269,111,158,No,0,SRP,0,()(()()()),()(((((((((((((()))()(((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW088710.ct,SRPdb_SRP_699,--
+--,GSP-170000-2.ct,308,106,202,No,0,SRP,0,(()())(()(()()())),(()())((((((((((()((((((()))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-170000-2.ct,SRPdb_SRP_700,--
+--,X17308.ct,522,172,350,No,0,SRP,0,()((()(()())(()(()()())()))()()),()((((((()))((()()))(((((((())))(((((((((((()))))(())((())))))))))((()))))))))()())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX17308.ct,SRPdb_SRP_701,--
+Legionella pneumophila,M31830.ct,114,38,76,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM31830.ct,SRPdb_SRP_702,--
+Thermus thermophilus,X12643.ct,105,33,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX12643.ct,SRPdb_SRP_703,--
+--,AE017201.ct,101,67,34,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017201.ct,SRPdb_SRP_704,--
+--,SDB-3055.ct,290,106,184,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-3055.ct,SRPdb_SRP_705,--
+Mycoplasma mycoides,X53678.ct,82,34,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX53678.ct,SRPdb_SRP_706,--
+Escherichia coli,U82664.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU82664.ct,SRPdb_SRP_707,--
+Rhodopirellula baltica,BX294144.ct,93,47,46,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX294144.ct,SRPdb_SRP_708,--
+Prochlorococcus marinus,CP000111.ct,74,44,30,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000111.ct,SRPdb_SRP_709,--
+--,GSP-7739.ct,300,102,198,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((())))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7739.ct,SRPdb_SRP_710,--
+Thiobacillus denitrificans,CP000116.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000116.ct,SRPdb_SRP_711,--
+--,AY722722.ct,134,110,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722722.ct,SRPdb_SRP_712,--
+--,CP000255.ct,270,94,176,No,0,SRP,0,((()())()),(((())(()))((((((((((((((((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000255.ct,SRPdb_SRP_713,--
+--,BN000171.ct,524,178,346,No,0,SRP,0,()((()(()())(()(()()())()))()()),()(((((((()))(()())(((((((())))((((((((((()))))(())((()))))))))((()))))))))()()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBN000171.ct,SRPdb_SRP_714,--
+--,GSP-398031.ct,288,118,170,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-398031.ct,SRPdb_SRP_715,--
+--,Z46744.ct,303,95,208,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ46744.ct,SRPdb_SRP_716,--
+Rhodopseudomonas palustris,CP000301.ct,105,45,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000301.ct,SRPdb_SRP_717,--
+Brucella abortus,AE017223.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017223.ct,SRPdb_SRP_718,--
+--,AE017024.ct,103,37,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017024.ct,SRPdb_SRP_719,--
+--,AJ414155.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ414155.ct,SRPdb_SRP_720,--
+Thermus thermophilus,AE017221.ct,105,35,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017221.ct,SRPdb_SRP_721,--
+Lactobacillus delbrueckii,CR954253.ct,91,53,38,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR954253.ct,SRPdb_SRP_722,--
+--,CP000448.ct,65,37,28,No,0,SRP,0,(()()),(((()))()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000448.ct,SRPdb_SRP_723,--
+--,Z34533.ct,290,102,188,No,0,SRP,0,()()(()()()),()()(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ34533.ct,SRPdb_SRP_724,--
+--,CN241137.ct,128,86,42,No,0,SRP,0,()()(),(((())))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN241137.ct,SRPdb_SRP_725,--
+Zymomonas mobilis,AF203881.ct,99,55,44,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF203881.ct,SRPdb_SRP_726,--
+Saccharophagus degradans,CP000282.ct,98,42,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000282.ct,SRPdb_SRP_727,--
+--,AE007525.ct,103,37,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE007525.ct,SRPdb_SRP_728,--
+Halorhodospira halophila,CP000544.ct,101,41,60,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000544.ct,SRPdb_SRP_729,--
+--,GSP-67593.ct,315,117,198,No,0,SRP,0,(()())(()()()),(()(()))(((((((((((((((((()))))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-67593.ct,SRPdb_SRP_730,--
+--,GSP-379508.ct,299,125,174,No,0,SRP,0,()(()(()()())),()((((((((((())((((((((((())))))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-379508.ct,SRPdb_SRP_731,--
+Zymomonas mobilis,AE008692.ct,103,47,56,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008692.ct,SRPdb_SRP_732,--
+--,AE005700.ct,102,58,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE005700.ct,SRPdb_SRP_733,--
+--,DC223490.ct,293,111,182,No,0,SRP,0,()(()()()),((()))((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDC223490.ct,SRPdb_SRP_734,--
+--,CP000029.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000029.ct,SRPdb_SRP_735,--
+Geobacter uraniumreducens,CP000698.ct,33,21,12,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000698.ct,SRPdb_SRP_736,--
+Francisella tularensis,AM233362.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM233362.ct,SRPdb_SRP_737,--
+--,AE002112.ct,102,34,68,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002112.ct,SRPdb_SRP_738,--
+Prochlorococcus marinus,CP000551.ct,97,41,56,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000551.ct,SRPdb_SRP_739,--
+--,GSP-5849.ct,310,110,200,No,0,SRP,0,(()())(()()()),((())((((())))))(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5849.ct,SRPdb_SRP_740,--
+Bordetella avium,AM167904.ct,103,39,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM167904.ct,SRPdb_SRP_741,--
+--,AY722714.ct,137,107,30,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722714.ct,SRPdb_SRP_742,--
+Odontella sinensis,Z67753.ct,97,39,58,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ67753.ct,SRPdb_SRP_743,--
+Pseudomonas aeruginosa,X12644.ct,98,36,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX12644.ct,SRPdb_SRP_744,--
+--,GSP-296543.ct,96,60,36,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-296543.ct,SRPdb_SRP_745,--
+Marinobacter aquaeolei,CP000514.ct,100,50,50,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000514.ct,SRPdb_SRP_746,--
+Haemophilus influenzae,CP000671.ct,87,33,54,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000671.ct,SRPdb_SRP_747,--
+--,DR037646.ct,251,89,162,No,0,SRP,0,(()()()),(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDR037646.ct,SRPdb_SRP_748,--
+--,CP000764.ct,269,95,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000764.ct,SRPdb_SRP_749,--
+--,AX926712.ct,76,32,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAX926712.ct,SRPdb_SRP_750,--
+Mannheimia succiniciproducens,AE016827.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016827.ct,SRPdb_SRP_751,--
+Nitrobacter winogradskyi,CP000115.ct,39,21,18,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000115.ct,SRPdb_SRP_752,--
+--,AE001441.ct,103,43,60,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001441.ct,SRPdb_SRP_753,--
+--,CF662133.ct,297,95,202,No,0,SRP,0,(()())(()()()),(()())((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCF662133.ct,SRPdb_SRP_754,--
+Gloeobacter violaceus,BA000045.ct,99,39,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000045.ct,SRPdb_SRP_755,--
+--,AJ550805.ct,448,178,270,No,0,SRP,0,()((()()()(()()()))()),()(((((())(())()((((((((((())))((()))((())))))))))))((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ550805.ct,SRPdb_SRP_756,--
+--,BX957223.ct,314,108,206,No,0,SRP,0,((()())(()())),((()())(((((((((((((((()))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX957223.ct,SRPdb_SRP_757,--
+--,CB819242.ct,67,51,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCB819242.ct,SRPdb_SRP_758,--
+Mycoplasma pulmonis,U06833.ct,77,31,46,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU06833.ct,SRPdb_SRP_759,--
+--,BW551179.ct,293,115,178,No,0,SRP,0,()(()()()),()((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW551179.ct,SRPdb_SRP_760,--
+Xanthomonas oryzae,AE013598.ct,119,47,72,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE013598.ct,SRPdb_SRP_761,--
+--,CV919934.ct,255,123,132,No,0,SRP,0,()(()()()),(())((((((((((((())))()(((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCV919934.ct,SRPdb_SRP_762,--
+--,CP000742.ct,36,20,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000742.ct,SRPdb_SRP_763,--
+--,Y08257.ct,312,94,218,No,0,SRP,0,((()())(()())),((()())((((((((((((())(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlY08257.ct,SRPdb_SRP_764,--
+Xanthomonas campestris,AM039952.ct,118,46,72,No,0,SRP,0,(),(((((((((((()))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM039952.ct,SRPdb_SRP_765,--
+--,AY781797.ct,58,58,0,No,0,SRP,0,,,,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY781797.ct,SRPdb_SRP_766,--
+--,BJ387276.ct,277,115,162,No,0,SRP,0,(()())(()()()),((())(((()))))((((((((((((((((()))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBJ387276.ct,SRPdb_SRP_767,--
+--,CP000246.ct,268,88,180,No,0,SRP,0,((()())()),(((())())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000246.ct,SRPdb_SRP_768,--
+--,GSP-51971-2.ct,290,96,194,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-51971-2.ct,SRPdb_SRP_769,--
+Bartonella henselae,BX897699.ct,101,43,58,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX897699.ct,SRPdb_SRP_770,--
+--,D26185.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD26185.ct,SRPdb_SRP_771,--
+--,GSP-5722-2.ct,306,110,196,No,0,SRP,0,(()())(()()()),((())())((((((((((((((((((()))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5722-2.ct,SRPdb_SRP_772,--
+Yersinia pestis,CP000668.ct,114,36,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000668.ct,SRPdb_SRP_773,--
+--,GSP-321614.ct,264,86,178,No,0,SRP,0,()(()()()),()(((((((((((((())))()(((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-321614.ct,SRPdb_SRP_774,--
+Thermosynechococcus elongatus,BA000039.ct,102,36,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000039.ct,SRPdb_SRP_775,--
+Corynebacterium glutamicum,BX927148.ct,89,41,48,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX927148.ct,SRPdb_SRP_776,--
+--,GSP-169999.ct,308,106,202,No,0,SRP,0,(()())(()(()()())),(()())(((((((((()((((((()))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-169999.ct,SRPdb_SRP_777,--
+--,CP000046.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000046.ct,SRPdb_SRP_778,--
+--,AE006092.ct,108,38,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE006092.ct,SRPdb_SRP_779,--
+Buchnera aphidicola,AE016826.ct,118,48,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016826.ct,SRPdb_SRP_780,--
+Lactococcus lactis,AM406671.ct,36,20,16,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM406671.ct,SRPdb_SRP_781,--
+Rickettsia prowazekii,AJ235273.ct,99,29,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ235273.ct,SRPdb_SRP_782,--
+--,CK004881.ct,301,97,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCK004881.ct,SRPdb_SRP_783,--
+Agrobacterium tumefaciens,AE007869.ct,90,38,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE007869.ct,SRPdb_SRP_784,--
+Shewanella baltica,CP000563.ct,114,58,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000563.ct,SRPdb_SRP_785,--
+--,GSP-13616.ct,302,100,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-13616.ct,SRPdb_SRP_786,--
+--,AE002321.ct,102,50,52,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002321.ct,SRPdb_SRP_787,--
+--,X17239.ct,309,93,216,No,0,SRP,0,((()())(()())),(((()())(((((((((((((()))(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX17239.ct,SRPdb_SRP_788,--
+--,SDB-5699.ct,290,96,194,No,0,SRP,0,(()())(()()),(()())((((((((((((((((())))(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-5699.ct,SRPdb_SRP_789,--
+--,CR848038.ct,102,56,46,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR848038.ct,SRPdb_SRP_790,--
+--,X72229.ct,306,102,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX72229.ct,SRPdb_SRP_791,--
+--,AC136507.ct,295,117,178,No,0,SRP,0,()()(()()()),(())()((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC136507.ct,SRPdb_SRP_792,--
+--,DD110233.ct,92,30,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDD110233.ct,SRPdb_SRP_793,--
+--,Z99104.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ99104.ct,SRPdb_SRP_794,--
+--,CP000449.ct,105,45,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000449.ct,SRPdb_SRP_795,--
+--,D11421.ct,272,90,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11421.ct,SRPdb_SRP_796,--
+--,BW230361.ct,286,106,180,No,0,SRP,0,()(()()()),()((((((((((((((()))()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBW230361.ct,SRPdb_SRP_797,--
+Alcanivorax borkumensis,AM286690.ct,104,32,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM286690.ct,SRPdb_SRP_798,--
+--,AB073218.ct,299,99,200,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB073218.ct,SRPdb_SRP_799,--
+--,AY440721.ct,301,101,200,No,0,SRP,0,(()())(()()),(()())(((((((((((((((()))((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY440721.ct,SRPdb_SRP_800,--
+--,AE014139.ct,99,47,52,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014139.ct,SRPdb_SRP_801,--
+--,AE016877.ct,269,95,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016877.ct,SRPdb_SRP_802,--
+--,CV911012.ct,91,71,20,No,0,SRP,0,(),(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCV911012.ct,SRPdb_SRP_803,--
+Escherichia coli,CP000243.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000243.ct,SRPdb_SRP_804,--
+Rhizobium etli,CP000133.ct,103,39,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000133.ct,SRPdb_SRP_805,--
+--,BA000028.ct,270,98,172,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000028.ct,SRPdb_SRP_806,--
+Burkholderia mallei,CP000010.ct,79,35,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000010.ct,SRPdb_SRP_807,--
+--,BU566906.ct,302,98,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBU566906.ct,SRPdb_SRP_808,--
+--,AL161496.ct,305,109,196,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((()))))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL161496.ct,SRPdb_SRP_809,--
+--,M20836.ct,256,94,162,No,0,SRP,0,()(()()()),()((((((((((((((((((()))))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlM20836.ct,SRPdb_SRP_810,--
+--,GSP-392613.ct,259,105,154,No,0,SRP,0,()(()(()()())),()((((((())(((((((((())))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-392613.ct,SRPdb_SRP_811,--
+--,GSP-99883.ct,299,95,204,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-99883.ct,SRPdb_SRP_812,--
+Coxiella burnetii,CP000733.ct,108,38,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000733.ct,SRPdb_SRP_813,--
+Neisseria meningitidis,AE002098.ct,102,32,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002098.ct,SRPdb_SRP_814,--
+Aquifex aeolicus,AE000657.ct,77,27,50,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000657.ct,SRPdb_SRP_815,--
+--,SDB-381124-4.ct,308,102,206,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()((((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-4.ct,SRPdb_SRP_816,--
+Streptomyces avermitilis,BA000030.ct,90,40,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000030.ct,SRPdb_SRP_817,--
+--,CP000230.ct,105,45,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000230.ct,SRPdb_SRP_818,--
+Haemophilus ducreyi,AE017143.ct,100,32,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017143.ct,SRPdb_SRP_819,--
+Bradyrhizobium species,CU234118.ct,106,42,64,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCU234118.ct,SRPdb_SRP_820,--
+--,AJ550803.ct,523,179,344,No,0,SRP,0,()((()(()())(()(()()())()))()()),()((((((()))((()()))(((((((())))(((((((((((()))))((()))((())))))))))(((())))))))))()())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ550803.ct,SRPdb_SRP_821,--
+--,GSP-7245.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-7245.ct,SRPdb_SRP_822,--
+--,BF908767.ct,280,108,172,No,0,SRP,0,()()(()()()),()()((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF908767.ct,SRPdb_SRP_823,--
+--,BF909425.ct,284,100,184,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF909425.ct,SRPdb_SRP_824,--
+--,GSP-229533.ct,298,138,160,No,0,SRP,0,()(()(()()())),()(((((((())(((((((((()))))(())((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-229533.ct,SRPdb_SRP_825,--
+--,CF919998.ct,303,109,194,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()(((()))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCF919998.ct,SRPdb_SRP_826,--
+--,X69901.ct,306,104,202,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX69901.ct,SRPdb_SRP_827,--
+Sodalis glossinidius,AP008232.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP008232.ct,SRPdb_SRP_828,--
+--,AY722730.ct,58,58,0,No,0,SRP,0,,,,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722730.ct,SRPdb_SRP_829,--
+--,EE411352.ct,309,113,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE411352.ct,SRPdb_SRP_830,--
+Lactobacillus johnsonii,AE017198.ct,89,51,38,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017198.ct,SRPdb_SRP_831,--
+--,EH655308.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEH655308.ct,SRPdb_SRP_832,--
+--,AF095839.ct,318,102,216,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF095839.ct,SRPdb_SRP_833,--
+--,AE000782.ct,310,98,212,No,0,SRP,0,((()())(()())),((()())((((((((((((((((())))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000782.ct,SRPdb_SRP_834,--
+--,CX540689.ct,286,128,158,No,0,SRP,0,()(()()()),()((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCX540689.ct,SRPdb_SRP_835,--
+--,EF690554.ct,228,104,124,No,0,SRP,0,()(()()()),(())(((((((()))()((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEF690554.ct,SRPdb_SRP_836,--
+--,BF909438.ct,284,100,184,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF909438.ct,SRPdb_SRP_837,--
+--,CP000699.ct,105,43,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000699.ct,SRPdb_SRP_838,--
+--,AM494942.ct,279,105,174,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM494942.ct,SRPdb_SRP_839,--
+Nocardia farcinica,AP006618.ct,98,62,36,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP006618.ct,SRPdb_SRP_840,--
+Mycoplasma hyopneumoniae,AE017332.ct,101,45,56,No,0,SRP,0,(),(((((((((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017332.ct,SRPdb_SRP_841,--
+--,GSP-352914.ct,304,86,218,No,0,SRP,0,(()())(()()()),(()((())))(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-352914.ct,SRPdb_SRP_842,--
+Mycoplasma pneumoniae,U00089.ct,77,33,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlU00089.ct,SRPdb_SRP_843,--
+--,AE016979.ct,54,36,18,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016979.ct,SRPdb_SRP_844,--
+--,AE014613.ct,116,60,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE014613.ct,SRPdb_SRP_845,--
+Shewanella species,CP000503.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000503.ct,SRPdb_SRP_846,--
+--,AE008984.ct,98,44,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008984.ct,SRPdb_SRP_847,--
+--,D11416.ct,271,89,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11416.ct,SRPdb_SRP_848,--
+--,GSP-5851.ct,302,100,202,No,0,SRP,0,(()())(()()()),((())((())))((((((((((((((()))()(((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-5851.ct,SRPdb_SRP_849,--
+Escherichia coli,X01074.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX01074.ct,SRPdb_SRP_850,--
+--,CP000026.ct,118,42,76,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000026.ct,SRPdb_SRP_851,--
+--,Z29099.ct,304,94,210,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29099.ct,SRPdb_SRP_852,--
+--,GSP-334819.ct,298,140,158,No,0,SRP,0,()(()(()()())),()(((((((())(((((((((()))))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-334819.ct,SRPdb_SRP_853,--
+--,CT485797.ct,301,123,178,No,0,SRP,0,()()(()()()),(())()(((((((((((((((((()))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCT485797.ct,SRPdb_SRP_854,--
+Thermobifida fusca,CP000088.ct,98,62,36,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000088.ct,SRPdb_SRP_855,--
+--,GSP-334564-2.ct,298,162,136,No,0,SRP,0,()(()(()()())),()(((((((((()(((((((((((()))))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-334564-2.ct,SRPdb_SRP_856,--
+Pseudomonas putida,CP000712.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000712.ct,SRPdb_SRP_857,--
+Streptococcus suis,CP000407.ct,78,36,42,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000407.ct,SRPdb_SRP_858,--
+Rhizobium leguminosarum,AM236080.ct,41,21,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAM236080.ct,SRPdb_SRP_859,--
+--,GSP-121759.ct,338,146,192,No,0,SRP,0,()(()(()()()()))(),()((((())(((((((((())))((((()))))()(((()))))))))))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-121759.ct,SRPdb_SRP_860,--
+Guillardia theta,AF041468.ct,97,41,56,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF041468.ct,SRPdb_SRP_861,--
+Streptococcus pyogenes,CP000260.ct,73,33,40,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000260.ct,SRPdb_SRP_862,--
+--,CP000493.ct,274,126,148,No,0,SRP,0,(()())(()()),(()(()))(((((((((((()))))(((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000493.ct,SRPdb_SRP_863,--
+--,AE016998.ct,103,37,66,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016998.ct,SRPdb_SRP_864,--
+--,X65992.ct,162,118,44,No,0,SRP,0,()()(),(())()((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65992.ct,SRPdb_SRP_865,--
+--,X65991.ct,303,97,206,No,0,SRP,0,()()(()()()),()()(((((((((((((((((((())()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65991.ct,SRPdb_SRP_866,--
+Ehrlichia canis,CP000107.ct,82,34,48,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000107.ct,SRPdb_SRP_867,--
+Rickettsia felis,CP000053.ct,103,33,70,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000053.ct,SRPdb_SRP_868,--
+--,AY722733.ct,138,110,28,No,0,SRP,0,()(),(((())))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722733.ct,SRPdb_SRP_869,--
+--,AE017355.ct,269,95,174,No,0,SRP,0,((()())()),((((()))())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017355.ct,SRPdb_SRP_870,--
+--,AE016756.ct,98,38,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016756.ct,SRPdb_SRP_871,--
+--,AC136507-2.ct,263,123,140,No,0,SRP,0,()()(()()()),(())()(((((((((((()))()((()))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC136507-2.ct,SRPdb_SRP_872,--
+--,AJ564197.ct,533,195,338,No,0,SRP,0,()((()(()())(()(()()())))()()),()((((((())(((()(()))))((((())(((((((((())))(())((())))))))))))))()(((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ564197.ct,SRPdb_SRP_873,--
+Chlamydia trachomatis,CP000051.ct,106,44,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000051.ct,SRPdb_SRP_874,--
+--,CA626434.ct,269,113,156,No,0,SRP,0,()(()()()),()((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCA626434.ct,SRPdb_SRP_875,--
+Pseudomonas syringae,CP000075.ct,117,37,80,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000075.ct,SRPdb_SRP_876,--
+Buchnera aphidicola,BA000003.ct,118,48,70,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000003.ct,SRPdb_SRP_877,--
+--,AE015927.ct,267,87,180,No,0,SRP,0,((()())()),(((())())(((((((((((((((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE015927.ct,SRPdb_SRP_878,--
+Sinorhizobium medicae,CP000738.ct,33,19,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000738.ct,SRPdb_SRP_879,--
+--,X00952.ct,298,96,202,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((())()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX00952.ct,SRPdb_SRP_880,--
+--,DW714792.ct,302,104,198,No,0,SRP,0,(()())(()()),((()()))((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDW714792.ct,SRPdb_SRP_881,--
+Deinococcus geothermalis,CP000359.ct,32,18,14,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000359.ct,SRPdb_SRP_882,--
+--,GSP-331117.ct,277,117,160,No,0,SRP,0,()(()(()()())),(())(((((((((((())((((((((((((()))))()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-331117.ct,SRPdb_SRP_883,--
+--,CN181543.ct,78,52,26,No,0,SRP,0,()(),()((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN181543.ct,SRPdb_SRP_884,--
+Synechocystis species,BA000022.ct,101,39,62,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000022.ct,SRPdb_SRP_885,--
+--,CP000031.ct,99,37,62,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000031.ct,SRPdb_SRP_886,--
+Prochlorococcus marinus,AJ237851.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ237851.ct,SRPdb_SRP_887,--
+Ochrobactrum anthropi,CP000758.ct,98,36,62,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000758.ct,SRPdb_SRP_888,--
+--,AY108846.ct,287,105,182,No,0,SRP,0,()(()()()),()((((((((((((((((((()))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY108846.ct,SRPdb_SRP_889,--
+Borrelia garinii,CP000013.ct,107,61,46,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000013.ct,SRPdb_SRP_890,--
+--,GSP-41122.ct,278,106,172,No,0,SRP,0,()(()(()()())),(())((((((((((()((((((((())))()((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-41122.ct,SRPdb_SRP_891,--
+--,BX571662.ct,107,35,72,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX571662.ct,SRPdb_SRP_892,--
+--,AF006750.ct,280,94,186,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAF006750.ct,SRPdb_SRP_893,--
+Coxiella burnetii,AE016828.ct,64,52,12,No,0,SRP,0,(),(()),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016828.ct,SRPdb_SRP_894,--
+Nitrosomonas eutropha,CP000450.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000450.ct,SRPdb_SRP_895,--
+--,X65993.ct,168,120,48,No,0,SRP,0,(()())(),((())(()))((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX65993.ct,SRPdb_SRP_896,--
+--,X06802.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX06802.ct,SRPdb_SRP_897,--
+--,BF875598.ct,288,98,190,No,0,SRP,0,(()())(()()()),(()())(((((((((((((()))()((()))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF875598.ct,SRPdb_SRP_898,--
+--,EH513970.ct,297,97,200,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEH513970.ct,SRPdb_SRP_899,--
+--,AL596173.ct,277,97,180,No,0,SRP,0,((()())()),((((()))())((((((((((((((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAL596173.ct,SRPdb_SRP_900,--
+--,EE416873.ct,309,113,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE416873.ct,SRPdb_SRP_901,--
+--,AC005662.ct,304,100,204,No,0,SRP,0,(()())(()()()),((())())(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC005662.ct,SRPdb_SRP_902,--
+Helicobacter pylori,CP000241.ct,99,33,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000241.ct,SRPdb_SRP_903,--
+--,GSP-46245.ct,299,101,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-46245.ct,SRPdb_SRP_904,--
+Wolbachia endosymbiont,AB080664.ct,83,33,50,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAB080664.ct,SRPdb_SRP_905,--
+Acinetobacter species,CR543861.ct,47,25,22,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCR543861.ct,SRPdb_SRP_906,--
+Acinetobacter baumannii,CP000521.ct,104,32,72,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000521.ct,SRPdb_SRP_907,--
+Streptococcus suis,CP000408.ct,78,36,42,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000408.ct,SRPdb_SRP_908,--
+--,GSP-334564-1.ct,293,161,132,No,0,SRP,0,()(()(()()())),()(((((((((()(((((((((((()))))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-334564-1.ct,SRPdb_SRP_909,--
+--,AJ248283.ct,297,121,176,No,0,SRP,0,()(()()),(())((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAJ248283.ct,SRPdb_SRP_910,--
+--,L77117.ct,330,102,228,No,0,SRP,0,((()())(()())),((()(()))(((((((((((((((()))((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlL77117.ct,SRPdb_SRP_911,--
+--,AY722726.ct,139,115,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722726.ct,SRPdb_SRP_912,--
+--,AC159431.ct,273,75,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((())))()(((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAC159431.ct,SRPdb_SRP_913,--
+--,AY722724.ct,139,115,24,No,0,SRP,0,()(),((((()))))(),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY722724.ct,SRPdb_SRP_914,--
+Cyanidioschyzon merolae,AY286123.ct,85,35,50,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAY286123.ct,SRPdb_SRP_915,--
+--,AE016953.ct,105,51,54,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE016953.ct,SRPdb_SRP_916,--
+Helicobacter pylori,AE000511.ct,103,31,72,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE000511.ct,SRPdb_SRP_917,--
+--,AADM01000319.ct,411,153,258,No,0,SRP,0,()((()()((()()())()))()),(())((((((())((()))(((((((((((((()))))((()))((())))))))))())))())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAADM01000319.ct,SRPdb_SRP_918,--
+Wolbachia endosymbiont,AE017321.ct,103,47,56,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017321.ct,SRPdb_SRP_919,--
+--,BX571856.ct,101,35,66,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX571856.ct,SRPdb_SRP_920,--
+Fusobacterium nucleatum,AE009951.ct,99,45,54,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE009951.ct,SRPdb_SRP_921,--
+--,GSP-6183.ct,298,102,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((()))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-6183.ct,SRPdb_SRP_922,--
+--,CP000103.ct,113,35,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000103.ct,SRPdb_SRP_923,--
+--,CP000661.ct,41,21,20,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000661.ct,SRPdb_SRP_924,--
+--,CP000502.ct,98,70,28,No,0,SRP,0,()(),()((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000502.ct,SRPdb_SRP_925,--
+--,GSP-130081.ct,299,109,190,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-130081.ct,SRPdb_SRP_926,--
+Psychrobacter arcticus,CP000082.ct,116,64,52,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000082.ct,SRPdb_SRP_927,--
+--,BF909560.ct,280,108,172,No,0,SRP,0,()()(()()()),()()((((((((((((((()))()((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBF909560.ct,SRPdb_SRP_928,--
+Lactobacillus gasseri,CP000413.ct,89,53,36,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000413.ct,SRPdb_SRP_929,--
+--,AE008386.ct,77,35,42,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE008386.ct,SRPdb_SRP_930,--
+Bordetella parapertussis,BX640426.ct,96,28,68,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX640426.ct,SRPdb_SRP_931,--
+Psychrobacter cryohalolentis,CP000323.ct,111,57,54,No,0,SRP,0,(),(((((((((((()))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000323.ct,SRPdb_SRP_932,--
+--,AE001437.ct,262,84,178,No,0,SRP,0,((()())()),(((())())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE001437.ct,SRPdb_SRP_933,--
+Escherichia coli,AP009048.ct,117,39,78,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAP009048.ct,SRPdb_SRP_934,--
+--,DW714780.ct,298,126,172,No,0,SRP,0,()()(()()),(())()((((((((((((((((((((()))((())))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlDW714780.ct,SRPdb_SRP_935,--
+--,X14661.ct,308,110,198,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((((()))()((((())))))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlX14661.ct,SRPdb_SRP_936,--
+--,D11415.ct,270,90,180,No,0,SRP,0,((()())()),((((()))(()))(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11415.ct,SRPdb_SRP_937,--
+--,BX469912.ct,282,110,172,No,0,SRP,0,(()())(()()),((())())((((((((((((((()))((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBX469912.ct,SRPdb_SRP_938,--
+Legionella pneumophila,AE017354.ct,114,38,76,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017354.ct,SRPdb_SRP_939,--
+Mycobacterium avium,CP000479.ct,88,64,24,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000479.ct,SRPdb_SRP_940,--
+--,Z29105.ct,304,104,200,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((((())))()(((()))))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlZ29105.ct,SRPdb_SRP_941,--
+--,AE002198.ct,104,48,56,No,0,SRP,0,(),((((((((())))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE002198.ct,SRPdb_SRP_942,--
+--,D13041.ct,270,88,182,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD13041.ct,SRPdb_SRP_943,--
+Burkholderia pseudomallei,CP000124.ct,79,35,44,No,0,SRP,0,(),(((((()))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000124.ct,SRPdb_SRP_944,--
+--,CP000727.ct,244,102,142,No,0,SRP,0,(()())(),((())())((((((((((((())))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000727.ct,SRPdb_SRP_945,--
+--,SDB-381124-1.ct,309,95,214,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((()))()(((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlSDB-381124-1.ct,SRPdb_SRP_946,--
+--,GSP-278021.ct,155,61,94,No,0,SRP,0,(()()()),(((((((((()))()((()))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-278021.ct,SRPdb_SRP_947,--
+Chlorobium tepidum,AE006470.ct,106,46,60,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE006470.ct,SRPdb_SRP_948,--
+--,CN238860.ct,127,85,42,No,0,SRP,0,()()(),((()))()(((()))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCN238860.ct,SRPdb_SRP_949,--
+--,BP459377.ct,284,100,184,No,0,SRP,0,()(()()()),()(((((((((((((((()))()((()))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBP459377.ct,SRPdb_SRP_950,--
+--,GSP-73824.ct,303,107,196,No,0,SRP,0,(()())(()()()),(()())(((((((((((((((((())))()((())))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlGSP-73824.ct,SRPdb_SRP_951,--
+--,AE017246.ct,103,59,44,No,0,SRP,0,(),((((((())))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE017246.ct,SRPdb_SRP_952,--
+Shigella flexneri,AE005674.ct,74,52,22,No,0,SRP,0,(),((())),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlAE005674.ct,SRPdb_SRP_953,--
+Corynebacterium efficiens,BA000035.ct,100,50,50,No,0,SRP,0,(),(((((((()))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlBA000035.ct,SRPdb_SRP_954,--
+--,CP000077.ct,309,93,216,No,0,SRP,0,((()())(()())),(((()())((((((((((((((()))(((()))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000077.ct,SRPdb_SRP_955,--
+Mycobacterium smegmatis,CP000480.ct,88,42,46,No,0,SRP,0,(),((((())))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000480.ct,SRPdb_SRP_956,--
+Shewanella species,CP000444.ct,116,60,56,No,0,SRP,0,(),((((((((((())))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlCP000444.ct,SRPdb_SRP_957,--
+--,EE410150.ct,308,112,196,No,0,SRP,0,(()())(()()()),(()())((((((((((((((((((()))()((())))))))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlEE410150.ct,SRPdb_SRP_958,--
+--,D11419.ct,272,96,176,No,0,SRP,0,((()())()),((((()))())(((((((((((((())))))))))))))),,NO,SRPdb,http://rnp.uthct.edu/rnp/tmRDB/tmRDB.htmlD11419.ct,SRPdb_SRP_959,--

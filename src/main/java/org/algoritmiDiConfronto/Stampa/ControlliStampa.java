@@ -1,5 +1,6 @@
 package org.algoritmiDiConfronto.Stampa;
 
+import org.algoritmiDiConfronto.Bond.BondLocalComparison;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 import org.algoritmiDiConfronto.algoritmi.AlgoritmoBaseGenerics;
 import org.algoritmiDiConfronto.algoritmi.EditDistance;
@@ -24,6 +25,8 @@ public class ControlliStampa {
 
             case LOCALCOMPARISON ->
                     algo = new LocalComparison();
+            case BONDLOCALCOMPARISON ->
+                algo = new BondLocalComparison();
 
             default -> throw new IllegalArgumentException("Algoritmo non gestito");
         }

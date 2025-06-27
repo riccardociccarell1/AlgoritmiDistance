@@ -9,7 +9,7 @@ import static org.algoritmiDiConfronto.Bond.Bond.similaritaBond;
 public class BondLocalComparison extends AlgoritmoBaseGenerics {
     @Override
     public String stampaTesto() {
-        return "LOCAL COMPARISON  ";
+        return "BOND LOCAL COMPARISON  ";
     }
 
     @Override

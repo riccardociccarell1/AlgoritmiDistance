@@ -13,8 +13,8 @@ public class TestGreedyLineare {
         GreedyLineare gl = new GreedyLineare();
 
 
-        String FASTA1YMO = ("ABCD");
-        String FASTA2K95 = ("ABD");
+        String FASTA1YMO = ("(((((()))))(()))");
+        String FASTA2K95 = ("((())())");
 
         List<Character> prima = stringaToListaCaratteri(FASTA1YMO);
         List<Character> seconda = stringaToListaCaratteri(FASTA2K95);

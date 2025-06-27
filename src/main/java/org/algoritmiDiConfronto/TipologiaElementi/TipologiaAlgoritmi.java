@@ -4,4 +4,5 @@ public enum TipologiaAlgoritmi {
     EDITDISTANCE,
     GLOBALCOMPARISON,
     LOCALCOMPARISON,
+    BONDLOCALCOMPARISON,
 }

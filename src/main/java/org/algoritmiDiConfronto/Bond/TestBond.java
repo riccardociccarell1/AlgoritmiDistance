@@ -48,7 +48,7 @@ public class TestBond {
         //LOCALCOMPARISON=31
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //2. DB1YMO - DB2M8K
         //EDITDISTANCE=19
@@ -241,7 +241,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //26.MALAT1completionof4PLX   - PAN1
         //EDITDISTANCE=33
@@ -266,6 +266,10 @@ public class TestBond {
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+
+
+
+
 
 
         stampaAlgoritmo.eseguiAlgoritmoSuBond(Tetrahymenathermophila, b,  TipologiaAlgoritmi.LOCALCOMPARISON);
