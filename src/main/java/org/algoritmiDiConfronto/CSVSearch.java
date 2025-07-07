@@ -10,8 +10,8 @@ import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformati
 public class CSVSearch {
     public static void main(String[] args) {
         GreedyLineare gl = new GreedyLineare();
-        String inputFile = "src/main/resources/MolecolePerRicerca/phyloRNA_SRP_SRPdb.csv";
-        String outputFile = "phyloRNA_SRP_SRPdb_OUTPUT_CORE_PLUS.csv";
+        String inputFile = "src/main/resources/MolecolePerRicerca/PhyloRNA_GIII_CRW2.csv";
+        String outputFile = "PhyloRNA_GIII_CRW2.csv";
 
         try (
                 BufferedReader reader = new BufferedReader(new FileReader(inputFile));
@@ -29,8 +29,8 @@ public class CSVSearch {
                     continue;
                 }
 
-                    String lengthStr = columns[10].trim();
-                    List<Character> core = stringaToListaCaratteri("((((((())(())((((((((())))((()))))))))))((((())((((())))))))))()((((()))))");
+                    String lengthStr = columns[9].trim();
+                    List<Character> core = stringaToListaCaratteri("((())())");
                     List<Character> corefile = stringaToListaCaratteri(lengthStr);
                     if (gl.Sottosequenza(corefile,core)) {
                         writer.println(line);

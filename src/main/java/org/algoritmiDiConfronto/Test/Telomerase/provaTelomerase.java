@@ -11,10 +11,10 @@ public class provaTelomerase {
 
         StampaAlgoritmo stampaAlgoritmo = new StampaAlgoritmo();
 
-        String t7lma = ("(((()))([[)]])((((()))))");
-        String t7lmb = ("((())([[)]])(((())))");
+        String t7lma = ("([)]");
+        String t7lmb = ("()");
 
-        stampaAlgoritmo.eseguiAlgoritmoSuListe(t7lma, t7lmb, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuListe(t7lma, t7lmb, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
     }
 

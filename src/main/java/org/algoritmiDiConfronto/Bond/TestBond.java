@@ -36,10 +36,11 @@ public class TestBond {
 
         List<Bond> PAN2 = parseBond("GGGUUUUUUCCUUCGAAAGAAGGUUUUUAUCCCUGCCUUCGGGCAAAAAAAA",
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
-
-        List<Bond>   Tetrahymenathermophila = parseBondParentesi("(((())))");
-        List<Bond>   b = parseBondParentesi("(((())(())))");
-
+//
+//       List<Bond>   a = parseBondParentesi("((())())");
+//        List<Bond>   b = parseBondParentesi(" ([)(((()((()()())()())()())())()()(([)]))(([(()(()()))(){[()[)]]])()](((()(()((()())(()()))))(()()))())()()}");
+//
+//     stampaAlgoritmo.eseguiAlgoritmoSuBond(a,b,TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
 
         //1. DB1YMO - DB2K95
@@ -241,7 +242,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //26.MALAT1completionof4PLX   - PAN1
         //EDITDISTANCE=33
@@ -272,7 +273,7 @@ public class TestBond {
 
 
 
-        stampaAlgoritmo.eseguiAlgoritmoSuBond(Tetrahymenathermophila, b,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(Tetrahymenathermophila, b,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 

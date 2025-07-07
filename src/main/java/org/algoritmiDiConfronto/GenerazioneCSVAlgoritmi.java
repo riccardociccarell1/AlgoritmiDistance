@@ -1,14 +1,16 @@
-package org.algoritmiDiConfronto.Test.Telomerase;
+package org.algoritmiDiConfronto;
 
 import java.io.*;
-        import java.util.*;
+import java.util.*;
 
-import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
+import org.algoritmiDiConfronto.Bond.Bond;
+import org.algoritmiDiConfronto.algoritmi.EditDistance;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
+import static org.algoritmiDiConfronto.Bond.ParserBond.parseBondParentesi;
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaCaratteri;
 
-public class TestTelomeraseCSV {
+public class GenerazioneCSVAlgoritmi {
 
     public static void main(String[] args) throws IOException {
 
@@ -19,19 +21,25 @@ public class TestTelomeraseCSV {
         List<String> nomiCol1 = new ArrayList<>();
         List<String> sequenze = new ArrayList<>();
 
+        // Lettura del file CSV (senza librerie esterne)
         try (BufferedReader br = new BufferedReader(new FileReader(inputFile))) {
             String line;
             boolean primaRiga = true;
             while ((line = br.readLine()) != null) {
                 if (primaRiga) {
-                    primaRiga = false;
+                    primaRiga = false;  // salto header
                     continue;
                 }
-                String[] cols = line.split(",");
-                if (cols.length > 9) {
+                String[] cols = line.split(";");
+                // Controllo colonne minime
+                // Usa questa condizione per la lunghezza colonne
+                if (cols.length > 10) {  // >= 11 colonne per accedere a cols[10]
                     nomiCol0.add(cols[0].trim());
                     nomiCol1.add(cols[1].trim());
-                    sequenze.add(cols[10].trim());
+
+                    // Togli virgolette e spazi da sequenza
+                    String seq = cols[10].trim().replaceAll("\"", "");
+                    sequenze.add(seq);
                 }
             }
         }
@@ -47,18 +55,19 @@ public class TestTelomeraseCSV {
                     List<Character> seq1 = stringaToListaCaratteri(sequenze.get(i));
                     List<Character> seq2 = stringaToListaCaratteri(sequenze.get(j));
 
+
                     List<List<Integer>> matrice = algoritmo.matrix(seq1, seq2);
                     List<List<String>> allineamenti = algoritmo.calcolaAllineamento(seq1, seq2, matrice);
 
-
-                    // Trova valore massimo in matrice (local alignment)
                     int x= algoritmo.maggiorValoreindicex(matrice);
                     int y= algoritmo.maggiorValoreindicey(matrice);
                     int maxVal = matrice.get(x).get(y);
 
-                    String aligned1 = String.join("", allineamenti.get(0));
-                    String aligned2 = String.join("", allineamenti.get(1));
+                    // converto lista in stringa concatenata senza [ ] e virgole
+                    String aligned1 = "\"" + String.join(",", allineamenti.get(0)) + "\"";
+                    String aligned2 = "\"" + String.join(",", allineamenti.get(1)) + "\"";
 
+                    // escape di eventuali virgole (se ti serve)
                     pw.printf("%s,%s,%s,%s,%d,%s,%s%n",
                             nomiCol0.get(i), nomiCol1.get(i),
                             nomiCol0.get(j), nomiCol1.get(j),

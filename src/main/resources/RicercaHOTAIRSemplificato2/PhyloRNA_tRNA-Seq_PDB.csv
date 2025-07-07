@@ -1,0 +1,7 @@
+Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database, Description, Benchmark ID, Reference
+Homo sapiens, 7zjw, 90, 36, 54, Yes, 1, tRNA Seq, 1, (([)()()(])), (((([))()()(]))), (([)(])), Yes, PDB, https://www.rcsb.org/structure/7zjw, PDB_tRNA_Seq_E_1, -- 
+Escherichia coli, 5lze, 95, 29, 66, Yes, 1, tRNA Seq, 1, (([)()()(])), (([)()()(])), (([)(])), Yes, PDB, https://www.rcsb.org/structure/5lze, PDB_tRNA_Seq_B_3, -- 
+Escherichia coli, 5lzf, 95, 27, 68, Yes, 1, tRNA Seq, 1, (([)()()(])), (([)()()(])), (([)(])), Yes, PDB, https://www.rcsb.org/structure/5lzf, PDB_tRNA_Seq_B_4, -- 
+Escherichia coli, 5lzc, 95, 29, 66, Yes, 1, tRNA Seq, 1, (([)()()(])), (([)()()(])), (([)(])), Yes, PDB, https://www.rcsb.org/structure/5lzc, PDB_tRNA_Seq_B_5, -- 
+Escherichia coli, 5lzb, 95, 29, 66, Yes, 1, tRNA Seq, 1, (([)()()(])), (([)()()(])), (([)(])), Yes, PDB, https://www.rcsb.org/structure/5lzb, PDB_tRNA_Seq_B_6, -- 
+Escherichia coli, 5lzd, 95, 27, 68, Yes, 1, tRNA Seq, 1, (([)()()(])), (([)()()(])), (([)(])), Yes, PDB, https://www.rcsb.org/structure/5lzd, PDB_tRNA_Seq_B_7, -- 

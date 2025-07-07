@@ -42,12 +42,7 @@ public class Bond {
         if (bondUguali(primoBond,secondoBond)) {
            return 1 ;
         }
-        else if (isGap(primoBond,secondoBond)) {
-            return -1 ;
-        }
-        else {
-            return -100 ;
-        }
+        return -1;
     }
 
     // Metodo di utilità per riconoscere la coppia gap

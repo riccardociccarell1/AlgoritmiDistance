@@ -1,0 +1,7 @@
+Col0_Fisso,Col1_Fisso,Col0_Riga,Col1_Riga,ValoreAllineamento,Allineamento_Fisso,Allineamento_Riga
+SequenzaFissa,SequenzaFissa,Homo sapiens,7zjw,4,"(((,0) <-> (),7)),(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,0) <-> (),15)),(((,1) <-> (),14)),(((,2) <-> (),6)),(((,3) <-> (),5))"
+SequenzaFissa,SequenzaFissa,Escherichia coli,5lze,3,"(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,4) <-> (),5)),(((,6) <-> (),7)),(((,8) <-> (),10))"
+SequenzaFissa,SequenzaFissa,Escherichia coli,5lzf,3,"(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,4) <-> (),5)),(((,6) <-> (),7)),(((,8) <-> (),10))"
+SequenzaFissa,SequenzaFissa,Escherichia coli,5lzc,3,"(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,4) <-> (),5)),(((,6) <-> (),7)),(((,8) <-> (),10))"
+SequenzaFissa,SequenzaFissa,Escherichia coli,5lzb,3,"(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,4) <-> (),5)),(((,6) <-> (),7)),(((,8) <-> (),10))"
+SequenzaFissa,SequenzaFissa,Escherichia coli,5lzd,3,"(((,1) <-> (),4)),(((,2) <-> (),3)),(((,5) <-> (),6))","(((,4) <-> (),5)),(((,6) <-> (),7)),(((,8) <-> (),10))"
