@@ -1,5 +1,6 @@
 package org.algoritmiDiConfronto.Stampa;
 
+import org.algoritmiDiConfronto.Bond.BondLocalComparison;
 import org.algoritmiDiConfronto.algoritmi.AlgoritmoBaseGenerics;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
@@ -51,7 +52,7 @@ public class GestioneStampaBond implements GestioneStampa{
 
     @Override
     public void stampaUltimoElemento(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
-        if (algo instanceof LocalComparison) {
+        if (algo instanceof LocalComparison || algo instanceof BondLocalComparison) {
             int indicey = 0;
             int indicex = 0;
             int max = 0;

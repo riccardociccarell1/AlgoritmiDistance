@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.*;
 
 import org.algoritmiDiConfronto.Bond.Bond;
+import org.algoritmiDiConfronto.Bond.BondLocalComparison;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import static org.algoritmiDiConfronto.Bond.ParserBond.parseBondParentesi;
@@ -13,8 +14,8 @@ public class GenerazioneCSVdaStringaInput {
     public static void main(String[] args) throws IOException {
 
         // === File di input e output ===
-        String inputFile = "src/main/resources/RicercaHOTAIRSemplificato2/PhyloRNA_tRNA_PDB.csv";
-        String outputFile = "PhyloRNA_tRNA_PDB.csv";
+        String inputFile = "src/main/resources/RicercaHOTAIRSemplificato3/PhyloRNA_tRNA_CRW_10.csv";
+        String outputFile = "PhyloRNA_tRNA_CRW_10.csv";
 
         // === Sequenza fissa da confrontare con ogni riga ===
         String sequenzaFissa = "((())())";
@@ -44,7 +45,7 @@ public class GenerazioneCSVdaStringaInput {
         }
 
         // === Algoritmo di confronto ===
-        LocalComparison algoritmo = new LocalComparison();
+        BondLocalComparison algoritmo = new BondLocalComparison();
 
         try (PrintWriter pw = new PrintWriter(new FileWriter(outputFile))) {
             // intestazione CSV

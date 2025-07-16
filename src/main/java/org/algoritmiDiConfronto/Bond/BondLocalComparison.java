@@ -19,7 +19,7 @@ public class BondLocalComparison extends AlgoritmoBaseGenerics {
 
     @Override
     public String significatoUltimoElemento() {
-        return "LA LOCALCOMPARISON CORRISPONDE A:";
+        return "LA BONDLOCALCOMPARISON CORRISPONDE A:";
     }
 
     @Override

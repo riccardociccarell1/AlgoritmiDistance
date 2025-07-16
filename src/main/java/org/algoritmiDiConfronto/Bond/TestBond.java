@@ -36,11 +36,15 @@ public class TestBond {
 
         List<Bond> PAN2 = parseBond("GGGUUUUUUCCUUCGAAAGAAGGUUUUUAUCCCUGCCUUCGGGCAAAAAAAA",
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
-//
-//       List<Bond>   a = parseBondParentesi("((())())");
-//        List<Bond>   b = parseBondParentesi(" ([)(((()((()()())()())()())())()()(([)]))(([(()(()()))(){[()[)]]])()](((()(()((()())(()()))))(()()))())()()}");
-//
-//     stampaAlgoritmo.eseguiAlgoritmoSuBond(a,b,TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+
+
+        List<Bond> Hotair = parseBond("GGGACUCGCCUGUGCUCUGGAGCUUGAUCCGAAAGCUUCCACAGUGAGGACUGCUCCGUGGGGGUAAGAGAGCACCAGGCACUGAGGCCUGGGAGUUCCACAGACCAACACCCCUGCUCCUGGCGGCUCCCACCCGGGGCUUAGACCCUCAGGUCCCUAAUAUCCCGGAGGUGCUCUCAAUCAGAAAGGUCCUGCUCCGCUUCGCAGUGGAAUGGAACGGAUUUAGAAGCCUGCAGUAGGGGAGUGGGGAGUGGAGAGAGGGAGCCCAGAGUUACAGACGGCGGCGAGAGGAAGGAGGGGCGUCUUUAUUUUUUUAAGGCCCCAAAGAGUCUGAUGUUUACAAGACCAGAAAUGCCACGGCCGCGUCCUGGCAGAGAAAAGGCUGAAAUGGAGGACCGGCGCCUUCCUUAUAAGUAUGCACAUUGGCGAGAGAAUUAAGUGCUGCAACCUAAACCAGCAAUUACACCCAAGCUCGUUGGGGCCUAAGCCAGUACCGACCUGGUAGAAAAAGCAACCACGAAGCUAGAGAGAG",
+                "....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
+
+        List<Bond> prova = parseBond("UAGUCAAUUGUUAUUAUUCAUAUUAAUUAAUUUAAUUGUUUUUAAAUUUUAUUUUAGUUUAUUUUUUAAAUAUUGUGCAAAUUGUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUAUUUUGUUAAUGCUAAUAUAUAGGUGUGGAAAAAGUGAAAAAUGUAAAAUACAAUAAAAUAAAAAACAAAAUUAACUCAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUAAUGUUAUUUUAUCUCAAUGUUAUUUCUAAAUUCUAUAGAUUAGUCAAAAAUAAAUAUUUAAUUUUUUGUUUUUAAACACCAUCCGGUAUAUGCAAAUAAAAAAUGAAAGUAAUUAUUAAUUAUAUUAUAUUAUAUUUAUUCACAUUUUUACAUCUCCAAUAUUACGAACUUUUGACACCAUGAUAAGGAUAUUGAAUGGAAUUGAAAAUUUUAUAAUCAAAAUUAAUUAAUUAUAUUAAAUCUGCAAAAUUAGAUAAAACAAAAAAUUUAAAAGGUAUUGUUGCCCA",
+                ".............((((.((((((....................................................................................................................................................................................(((((.....(((((....................))))))))))..))))))))))..................................................................................................................................................................................(((((...(...((((......))))...)))))).(((((.(((((((.....................................)))))))))).)).........");
+
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(Hotair, prova, TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
 
         //1. DB1YMO - DB2K95
@@ -49,15 +53,15 @@ public class TestBond {
         //LOCALCOMPARISON=31
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //2. DB1YMO - DB2M8K
         //EDITDISTANCE=19
         //GLOBALCOMPARISON=-2
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2M8K,  TipologiaAlgoritmi.EDITDISTANCE);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2M8K,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2M8K,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2M8K,  TipologiaAlgoritmi.BONDGLOBALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2M8K,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //3. DB1YMO - DB4PLX
         //EDITDISTANCE=27
@@ -65,7 +69,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB4PLX,  TipologiaAlgoritmi.BONDBONDLOCALCOMPARISON);
 
         //4. DB1YMO - hTER
         //EDITDISTANCE=86
@@ -73,7 +77,7 @@ public class TestBond {
         //LOCALCOMPARISON=24
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, hTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, hTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, hTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, hTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //5. DB1YMO - MALAT1completionof4PLX
         //EDITDISTANCE=41
@@ -81,7 +85,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, MALAT1completionof4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, MALAT1completionof4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, MALAT1completionof4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, MALAT1completionof4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //6. DB1YMO - PAN1
         //EDITDISTANCE=24
@@ -89,7 +93,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //7. DB1YMO -PAN2
         //EDITDISTANCE=23
@@ -97,7 +101,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN2, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN2, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //8. DB2K95 - DB2M8K
         //EDITDISTANCE=18
@@ -105,7 +109,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB2M8K,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB2M8K,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB2M8K,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB2M8K,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //9. DB2K95 - DB4PLX
         //EDITDISTANCE=28
@@ -113,7 +117,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, DB4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //10. DB2K95 - hTER
         //EDITDISTANCE=85
@@ -121,7 +125,7 @@ public class TestBond {
         //LOCALCOMPARISON=24
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, hTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, hTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, hTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, hTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //11. DB2K95 - MALAT1completionof4PLX
         //EDITDISTANCE=42
@@ -129,7 +133,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, MALAT1completionof4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, MALAT1completionof4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, MALAT1completionof4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, MALAT1completionof4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //12. DB2K95 - PAN1
         //EDITDISTANCE=24
@@ -137,7 +141,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //13. DB2K95 - PAN2
         //EDITDISTANCE=24
@@ -145,7 +149,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //14. DB2M8K - DB4PLX
         //EDITDISTANCE=32
@@ -153,7 +157,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, DB4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, DB4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, DB4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, DB4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
 
         //15. DB2M8K - hTER
@@ -162,7 +166,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, hTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, hTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, hTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, hTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //16. DB2M8K - MALAT1completionof4PLX
         //EDITDISTANCE=43
@@ -170,7 +174,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, MALAT1completionof4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, MALAT1completionof4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, MALAT1completionof4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, MALAT1completionof4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //17. DB2M8K - PAN1
         //EDITDISTANCE=27
@@ -178,7 +182,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN1, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN1, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //18. DB2M8K - PAN2
         //EDITDISTANCE=23
@@ -186,7 +190,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2M8K, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //19. DB4PLX - hTER
         //EDITDISTANCE=80
@@ -194,7 +198,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, hTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, hTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, hTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, hTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //20. DB4PLX - MALAT1completionof4PLX
         //EDITDISTANCE=17
@@ -202,7 +206,7 @@ public class TestBond {
         //LOCALCOMPARISON=32
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, MALAT1completionof4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, MALAT1completionof4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, MALAT1completionof4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, MALAT1completionof4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //21. DB4PLX - PAN1
         //EDITDISTANCE=23
@@ -210,7 +214,7 @@ public class TestBond {
         //LOCALCOMPARISON=12
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //22. DB4PLX - PAN2
         //EDITDISTANCE=31
@@ -218,7 +222,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB4PLX, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //23. hTER  - MALAT1completionof4PLX
         //EDITDISTANCE=76
@@ -226,7 +230,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, MALAT1completionof4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, MALAT1completionof4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, MALAT1completionof4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, MALAT1completionof4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //24. hTER  - PAN1
         //EDITDISTANCE=88
@@ -234,7 +238,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //25. hTER  - PAN2
         //EDITDISTANCE=94
@@ -242,7 +246,7 @@ public class TestBond {
         //LOCALCOMPARISON=5
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(hTER, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //26.MALAT1completionof4PLX   - PAN1
         //EDITDISTANCE=33
@@ -250,7 +254,7 @@ public class TestBond {
         //LOCALCOMPARISON=10
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN1, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN1, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN1, TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN1, TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //27. MALAT1completionof4PLX   - PAN2
         //EDITDISTANCE=42
@@ -258,7 +262,7 @@ public class TestBond {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN2, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN2, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN2, TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(MALAT1completionof4PLX, PAN2, TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //28. PAN1   - PAN2
         //EDITDISTANCE=22
@@ -266,7 +270,7 @@ public class TestBond {
         //LOCALCOMPARISON=8
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(PAN1, PAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
 
 
