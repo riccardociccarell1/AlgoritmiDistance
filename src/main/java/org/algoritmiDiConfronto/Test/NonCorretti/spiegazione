@@ -1,0 +1,7 @@
+Nota: i test precedenti sono risultati non corretti. Durante una prova,
+nella classe LocalComparison era stato impostato un valore pari a 100 come punteggio
+per il mismatch (quando i caratteri confrontati erano differenti).
+
+In un secondo momento, è stato verificato che questo approccio era errato
+Il comportamento è stato quindi corretto ripristinando i pesi appropriati per match e mismatch.
+

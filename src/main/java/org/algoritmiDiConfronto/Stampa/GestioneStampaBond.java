@@ -6,6 +6,9 @@ import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.util.List;
 
+/**
+ * classe che gestisce la stampa dei Bond
+ */
 public class GestioneStampaBond implements GestioneStampa{
     @Override
     public void stampaTestata(String nomeAlgoritmo) {

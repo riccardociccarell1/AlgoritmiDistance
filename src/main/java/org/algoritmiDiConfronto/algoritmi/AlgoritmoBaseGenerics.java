@@ -4,6 +4,14 @@ package org.algoritmiDiConfronto.algoritmi;
 import java.util.List;
 import java.util.ArrayList;
 
+/**
+ * classe astratta, rappresenta l'algoritmo base che verrà poi esteso da:
+ * -EditDistance
+ * -GlobalComparioson
+ * -LocalComparison
+ *
+ */
+
 public abstract class AlgoritmoBaseGenerics {
 
 

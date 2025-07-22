@@ -7,8 +7,12 @@ import org.algoritmiDiConfronto.algoritmi.EditDistance;
 import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
+/**
+ * classe che permette di determinare l'algoritmo su stampa da terminale
+ */
 
 public class ControlliStampa {
+
 
 
 

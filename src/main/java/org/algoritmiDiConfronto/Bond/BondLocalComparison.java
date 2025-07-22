@@ -6,6 +6,15 @@ import java.util.List;
 
 import static org.algoritmiDiConfronto.Bond.Bond.similaritaBond;
 
+/**
+la BondLocalComparison:
+Non confronta necessariamente tutta la sequenza, ma si concentra sulle sottosequenze che sono più simili.
+Serve, ad esempio, per trovare segmenti condivisi o pattern comuni tra sequenze.
+
+coincide con la Localcomparison cambiano solamaente i metodi relativi
+ al peso dei caratteri e le varie descrizioni
+
+  **/
 public class BondLocalComparison extends AlgoritmoBaseGenerics {
     @Override
     public String stampaTesto() {

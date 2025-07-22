@@ -7,7 +7,9 @@ import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * classe che permette di trasformare una Stringa in una lista
+ */
 public class InputTrasformation {
 
     public static List<Character> stringaToListaCaratteri(String sequenza) {

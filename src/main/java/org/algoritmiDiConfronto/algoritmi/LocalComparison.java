@@ -4,6 +4,14 @@ package org.algoritmiDiConfronto.algoritmi;
 import java.util.List;
 
 
+/**
+ la LocalComparison:
+ Non confronta necessariamente tutta la sequenza, ma si concentra sulle sottosequenze che sono più simili.
+ Serve, ad esempio, per trovare segmenti condivisi o pattern comuni tra sequenze
+
+  **/
+
+
 public class LocalComparison extends AlgoritmoBaseGenerics {
 
 
@@ -79,11 +87,25 @@ public class LocalComparison extends AlgoritmoBaseGenerics {
         return Math.max(Math.max(Math.max(a, b), c), 0);
     }
 
+
+    /**
+     *
+     * @param X stringa
+     * @param M
+     * @return la lunghezza di y
+     */
     @Override
     public int valoreDipartenzax(List<?> X, List<List<Integer>> M) {
         return  maggiorValoreindicex(M);
     }
 
+
+    /**
+     *
+     * @param Y stringa
+     * @param M
+     * @return la lunghezza di y
+     */
     @Override
     public int valoredipartenzay(List<?> Y, List<List<Integer>> M) {
         return maggiorValoreindicey(M);

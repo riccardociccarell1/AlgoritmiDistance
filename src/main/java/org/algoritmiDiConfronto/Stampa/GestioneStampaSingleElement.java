@@ -7,6 +7,9 @@ import java.util.List;
 
 import static org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi.LOCALCOMPARISON;
 
+/**
+ * classe che gestisce la stampa dei singoli caratteri
+ */
 public class GestioneStampaSingleElement implements GestioneStampa{
     @Override
     public void stampaTestata(String nomeAlgoritmo) {

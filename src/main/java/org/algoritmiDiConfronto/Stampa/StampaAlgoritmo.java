@@ -14,7 +14,10 @@ import static org.algoritmiDiConfronto.Stampa.ControlliStampa.*;
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaCaratteri;
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaInteri;
 
-
+/**
+ * classe che gestisce la stampa degli algoritmi su terminale,
+ * la stampa è gestita in base alla tipologia della lista
+ */
 public class StampaAlgoritmo {
 
     private AlgoritmoBaseGenerics algoritmo;

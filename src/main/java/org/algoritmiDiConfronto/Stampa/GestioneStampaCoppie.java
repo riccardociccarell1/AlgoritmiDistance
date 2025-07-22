@@ -7,7 +7,9 @@ import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 import java.util.List;
 
 import static org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi.LOCALCOMPARISON;
-
+/**
+ * classe che gestisce la stampa delle coppie
+ */
 public class GestioneStampaCoppie implements GestioneStampa{
     @Override
     public void stampaTestata(String nomeAlgoritmo) {

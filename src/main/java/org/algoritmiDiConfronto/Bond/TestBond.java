@@ -5,7 +5,7 @@ import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 
 import java.util.List;
 
-import static org.algoritmiDiConfronto.Bond.ParserBond.parseBondParentesi;
+
 import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
 
 public class TestBond {
@@ -53,7 +53,7 @@ public class TestBond {
         //LOCALCOMPARISON=31
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB1YMO, DB2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
         //2. DB1YMO - DB2M8K
         //EDITDISTANCE=19

@@ -3,6 +3,17 @@ package org.algoritmiDiConfronto.algoritmi;
 
 import java.util.List;
 
+/**
+nella globalcomparison:
+
+ Ogni match (elementi uguali) ha punteggio +1.
+
+ Ogni mismatch o gap (inserimento/cancellazione) ha punteggio -1.
+
+ L'obiettivo è massimizzare il punteggio totale dell'allineamento ottimo tra le due sequenze
+ VIENE PRESSA IN CONSIDERAZIONE TUTTA LA SEQUENZA
+ **/
+
 
 public class EditDistance extends AlgoritmoBaseGenerics {
 
@@ -27,6 +38,12 @@ public class EditDistance extends AlgoritmoBaseGenerics {
         return 1;
     }
 
+    /**
+     *
+     * @param elemento2 stringa
+     * @param elemento1
+     * @return 1 se sono uguali 0 altrimenti
+     */
     @Override
     public int pesoCaratteri(Object elemento1, Object elemento2) {
         if(elemento1.equals(elemento2)){return 0;}
@@ -39,16 +56,32 @@ public class EditDistance extends AlgoritmoBaseGenerics {
         return Math.min(Math.min(a,b),c);
     }
 
+    /**
+     *condizione che permette di creare l'allineamento ottimo
+     */
     @Override
     public boolean condizione(int m, int n, List<List<Integer>> M) {
         return m>0 || n>0;
     }
 
+
+    /**
+     *
+     * @param Y stringa
+     * @param M
+     * @return la lunghezza di y
+     */
     @Override
     public int valoredipartenzay(List<?> Y,  List<List<Integer>> M) {
         return Y.size();
     }
 
+    /**
+     *
+     * @param X stringa
+     * @param M
+     * @return la lunghezza di x
+     */
     @Override
     public int valoreDipartenzax(List<?> X,  List<List<Integer>> M) {
         return X.size();

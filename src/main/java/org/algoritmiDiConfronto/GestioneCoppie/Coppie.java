@@ -1,5 +1,13 @@
 package org.algoritmiDiConfronto.GestioneCoppie;
-
+/**
+ * La classe Coppie rappresenta una coppia di oggetti generici.
+ * È utile per memorizzare e gestire due elementi associati tra loro,
+ * ad esempio per confronti a coppie,
+ *
+ * questa claasse viene utilizzata per costruire liste di coppie
+ * si confronteranno quindi liste di coppie (A,})
+ * dove il primo elemento rappresenta un nucleotide, il secono la aprentesi associata
+ **/
 
 
 public class Coppie{

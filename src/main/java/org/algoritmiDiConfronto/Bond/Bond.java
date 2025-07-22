@@ -2,6 +2,15 @@ package org.algoritmiDiConfronto.Bond;
 
 import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 
+
+/**
+ * La classe Bond rappresenta una coppia di Coppie.
+ *
+ *   Ogni {@code Bond} contiene quindi due {@code Coppie}:
+ *   - la prima rappresenta un nucleotide e la sua posizione di apertura (A,()
+ *   - la seconda rappresenta il nucleotide appaiato e la sua posizione di chiusura  (U,))
+ *
+ **/
 public class Bond {
    private Coppie primaCoppia;
    private Coppie secondaCoppia;

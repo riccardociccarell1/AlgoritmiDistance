@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+
+/**
+ * La classe {@code ParserBond} fornisce un metodo statico per analizzare
+ * una sequenza molecolare e la sua struttura secondaria.
+ *
+ * Il risultato è una lista ordinata di oggetti {@code Bond}
+ */
 public class ParserBond {
 
     public static List<Bond> parseBond(String sequenza, String struttura) {
@@ -69,7 +76,9 @@ public class ParserBond {
     }
 
 
-
+    /**
+     *metodo non corretto a livello logico
+     */
     public static List<Bond> parseBondParentesi(String struttura){
         List<Bond> bonds = new ArrayList<Bond>();
 

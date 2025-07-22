@@ -3,6 +3,16 @@ package org.algoritmiDiConfronto.algoritmi;
 import java.util.List;
 
 
+/**
+ nella globalcomparison:
+
+ Ogni match (elementi uguali) ha punteggio +1.
+
+ Ogni mismatch o gap (inserimento/cancellazione) ha punteggio -1.
+
+ L'obiettivo è massimizzare il punteggio totale dell'allineamento ottimo tra le due sequenze
+ VIENE PRESSA IN CONSIDERAZIONE TUTTA LA SEQUENZA
+ **/
 public class GlobalComparison extends AlgoritmoBaseGenerics {
 
 
@@ -26,6 +36,14 @@ public class GlobalComparison extends AlgoritmoBaseGenerics {
         return -1;
     }
 
+
+
+    /**
+     *
+     * @param elemento2 stringa
+     * @param elemento1
+     * @return 1 se sono uguali -1 altrimenti
+     */
     @Override
     public int pesoCaratteri(Object elemento1, Object elemento2) {
         if(elemento1.equals(elemento2))return 1;
@@ -38,16 +56,34 @@ public class GlobalComparison extends AlgoritmoBaseGenerics {
 
     }
 
+    /**
+     *
+     * @param X stringa
+     * @param M
+     * @return la lunghezza di y
+     */
     @Override
     public int valoreDipartenzax(List<?> X, List<List<Integer>> M) {
         return X.size();
     }
 
+
+    /**
+     *
+     * @param Y stringa
+     * @param M
+     * @return la lunghezza di y
+     */
     @Override
     public int valoredipartenzay(List<?> Y, List<List<Integer>> M) {
         return Y.size();
     }
 
+
+    /**
+     *
+     * condizione per la creazione dell'allineamento
+     */
     @Override
     public boolean condizione(int m, int n, List<List<Integer>> M) {
         return  m > 0 || n > 0;
