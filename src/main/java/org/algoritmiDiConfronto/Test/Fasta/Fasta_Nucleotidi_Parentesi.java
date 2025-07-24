@@ -10,7 +10,7 @@ import java.util.List;
 
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.CreaListaCoppie;
 public class
-FASTA_NUCLEOTIDI_PARENTESI {
+Fasta_Nucleotidi_Parentesi {
     public static void main(String[] args) {
 
 
@@ -83,13 +83,13 @@ FASTA_NUCLEOTIDI_PARENTESI {
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAMALAT1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAMALAT1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
 
-        //6. FASTADB1YMO - FASTAPAN1
+        //6. FASTA1YMO - FASTAPAN1
         //EDITDISTANCE=38
         //GLOBALCOMPARISON=-14
         //LOCALCOMPARISON=8
-        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTADB1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
-        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTADB1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTADB1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN1, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //7. FASTA1YMO -FASTAPAN2
         //EDITDISTANCE=38

@@ -2,8 +2,10 @@ package org.algoritmiDiConfronto.Test.Fasta;
 
 
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaSingoliElementi;
 
-public class FASTA_PARENTESI {
+public class Fasta_Parentesi {
     public static void main(String[] args) {
 
         StampaAlgoritmo stampaAlgoritmo = new StampaAlgoritmo();

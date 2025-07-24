@@ -2,7 +2,7 @@ package org.algoritmiDiConfronto.Test.Fasta;
 
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
 
-public class FASTA_NUCLEOTIDI {
+public class Fasta_Nucleotidi {
     public static void main(String[] args) {
 
         StampaAlgoritmo stampaAlgoritmo = new StampaAlgoritmo();

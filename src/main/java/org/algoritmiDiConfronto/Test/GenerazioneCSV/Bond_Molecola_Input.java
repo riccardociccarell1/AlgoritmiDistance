@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
 
-public class BOND_MOLECOLA_INPUT {
+public class Bond_Molecola_Input {
 
     /**
      * classe che, dato un file e un bond in input

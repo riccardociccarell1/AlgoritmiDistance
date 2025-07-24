@@ -12,7 +12,7 @@ import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
  * Classe che confronta ogni coppia di molecole contenute in una cartella
  * utilizzando l’algoritmo BondLocalComparison.
  */
-public class Bond_LocalComparison_tuttelecoppie {
+public class Bond__TutteLeCoppie {
 
     public static void main(String[] args) {
         BondLocalComparison bondLocalComparison = new BondLocalComparison();
@@ -74,7 +74,7 @@ public class Bond_LocalComparison_tuttelecoppie {
                 }
             }
 
-            System.out.println("✅ Confronti completati. File salvato in: " + csvPath);
+            System.out.println(" Confronti completati. File salvato in: " + csvPath);
 
         } catch (IOException e) {
             e.printStackTrace();
