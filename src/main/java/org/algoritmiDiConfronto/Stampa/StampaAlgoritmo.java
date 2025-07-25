@@ -30,8 +30,9 @@ public class StampaAlgoritmo {
         List<List<Integer>> M = algoritmo.matrix(X, Y);
 
         stampatore.stampaMatrice(X, Y, M);
-        stampatore.stampaSignificatoUltimoElemento(algoritmo.significatoUltimoElemento());
-        stampatore.stampaUltimoElemento(M,algoritmo);
+        stampatore.stampaSignificato(algoritmo.significatoUltimoElemento());
+        stampatore.stampaValoreAlgoritmo(M,algoritmo);
+        stampatore.stampaValorePercentuale(algoritmo.valorePercentuale(controlloValoreAlgoritmo(algoritmo,M,X,Y),X,Y));
 
         List<List<String>> allineamento = algoritmo.calcolaAllineamento(X, Y, M);
         stampatore.stampaAllineamento(allineamento.get(0), allineamento.get(1));
@@ -74,6 +75,13 @@ public class StampaAlgoritmo {
         stampatore = new GestioneStampaBond();
         this.algoritmo = controlloAlgoritmo(algoritmo);
         esegui(primaLista, secondaLista);
+    }
+
+
+    public int controlloValoreAlgoritmo(AlgoritmoBaseGenerics algoritmo, List<List<Integer>> M, List<?> X, List<?> Y ) {
+        int x = algoritmo.valoreDipartenzax(X,M);
+        int y = algoritmo.valoredipartenzay(Y,M);
+        return M.get(x).get(y);
     }
 
 

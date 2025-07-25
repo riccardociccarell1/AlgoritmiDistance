@@ -1,6 +1,8 @@
 package org.algoritmiDiConfronto.Test.Fasta;
 
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaSingoliElementi;
 
 public class Fasta_Nucleotidi {
     public static void main(String[] args) {
@@ -82,7 +84,7 @@ public class Fasta_Nucleotidi {
 //LOCALCOMPARISON=11
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
 // 9. FASTA2K95 - FASTA4PLX
 //EDITDISTANCE=40

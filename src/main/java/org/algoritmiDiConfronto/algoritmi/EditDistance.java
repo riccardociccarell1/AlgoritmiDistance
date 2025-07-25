@@ -64,6 +64,12 @@ public class EditDistance extends AlgoritmoBaseGenerics {
         return m>0 || n>0;
     }
 
+    @Override
+    public double valorePercentuale(int valore, List<?> X, List<?> Y) {
+        int maxLen = Math.max(X.size(), Y.size());
+        return (1.0 - (double) valore / maxLen) * 100;
+    }
+
 
     /**
      *

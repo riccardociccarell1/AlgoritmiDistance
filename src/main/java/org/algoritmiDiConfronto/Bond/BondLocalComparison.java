@@ -61,6 +61,23 @@ public class BondLocalComparison extends AlgoritmoBaseGenerics {
         return m > 0 && n > 0 && M.get(m).get(n) > 0;
     }
 
+    @Override
+    public double valorePercentuale(int valore, List<?> X, List<?> Y) {
+        int lunghezzay= Y.size();
+        int lunghezzax= X.size();
+        int lunghezza;
+
+        if (lunghezzay > lunghezzax) {
+            lunghezza = lunghezzay;
+        }
+        else {
+            lunghezza = lunghezzax;
+        }
+
+        return (double)valore*100/lunghezza;
+
+    }
+
     public int maggiorValoreindicex(List<List<Integer>> M) {
         int indicex=0;
         int max=0;

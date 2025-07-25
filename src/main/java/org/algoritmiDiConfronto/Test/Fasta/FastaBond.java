@@ -2,6 +2,7 @@ package org.algoritmiDiConfronto.Test.Fasta;
 
 import org.algoritmiDiConfronto.Bond.Bond;
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 
 import java.util.List;
 

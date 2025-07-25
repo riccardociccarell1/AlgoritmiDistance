@@ -4,6 +4,7 @@ package org.algoritmiDiConfronto.Test.Fasta;
 
 import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 import org.algoritmiDiConfronto.Stampa.StampaAlgoritmo;
+import org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
 
 import java.util.List;
@@ -97,7 +98,7 @@ Fasta_Nucleotidi_Parentesi {
         //LOCALCOMPARISON=6
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FATSAPAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuCoppie(FASTA1YMO, FASTAPAN2, TipologiaCoppie.COPPIE_CARATTERI, TipologiaCoppie.COPPIE_CARATTERI, TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //8. FASTA2K95 - FASTA2M8K
         //EDITDISTANCE=25

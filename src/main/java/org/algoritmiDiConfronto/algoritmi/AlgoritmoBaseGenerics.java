@@ -197,6 +197,10 @@ public abstract class AlgoritmoBaseGenerics {
     }
 
 
+    public abstract double valorePercentuale(int valore, List<?> X, List<?> Y);
+
+
+
 }
 
 

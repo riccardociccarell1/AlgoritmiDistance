@@ -5,8 +5,6 @@ import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.util.List;
 
-import static org.algoritmiDiConfronto.TipologiaElementi.TipologiaAlgoritmi.LOCALCOMPARISON;
-
 /**
  * classe che gestisce la stampa dei singoli caratteri
  */
@@ -52,12 +50,12 @@ public class GestioneStampaSingleElement implements GestioneStampa{
     }
 
     @Override
-    public void stampaSignificatoUltimoElemento(String significato) {
+    public void stampaSignificato(String significato) {
         System.out.print(significato);
     }
 
     @Override
-    public void stampaUltimoElemento(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
+    public void stampaValoreAlgoritmo(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
         if (algo instanceof LocalComparison) {
             int indicey = 0;
             int indicex = 0;
@@ -82,6 +80,11 @@ public class GestioneStampaSingleElement implements GestioneStampa{
     public void stampaAllineamento(List<String> ALX, List<String> ALY) {
         System.out.println(ALX);
         System.out.println(ALY);
+    }
+
+    @Override
+    public void stampaValorePercentuale(double percentuale) {
+        System.out.println("IN VALORE : " + percentuale);
     }
 
     @Override

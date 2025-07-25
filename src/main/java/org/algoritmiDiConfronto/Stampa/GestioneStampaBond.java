@@ -49,12 +49,12 @@ public class GestioneStampaBond implements GestioneStampa{
     }
 
     @Override
-    public void stampaSignificatoUltimoElemento(String significato) {
+    public void stampaSignificato(String significato) {
         System.out.print(significato);
     }
 
     @Override
-    public void stampaUltimoElemento(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
+    public void stampaValoreAlgoritmo(List<List<Integer>> M, AlgoritmoBaseGenerics algo) {
         if (algo instanceof LocalComparison || algo instanceof BondLocalComparison) {
             int indicey = 0;
             int indicex = 0;
@@ -89,6 +89,12 @@ public class GestioneStampaBond implements GestioneStampa{
             } else System.out.print(aly+" , ");
         }
         System.out.println();
+    }
+
+    @Override
+    public void stampaValorePercentuale(double valorePercentuale) {
+        System.out.println("IN VALORE : " + valorePercentuale);
+
     }
 
     @Override

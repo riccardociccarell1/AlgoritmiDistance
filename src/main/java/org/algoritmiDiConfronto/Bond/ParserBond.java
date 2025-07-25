@@ -78,7 +78,7 @@ public class ParserBond {
 
     /**
      *metodo non corretto a livello logico
-     */
+
     public static List<Bond> parseBondParentesi(String struttura){
         List<Bond> bonds = new ArrayList<Bond>();
 
@@ -137,4 +137,6 @@ public class ParserBond {
         return bonds;
 
     }
+
+     */
 }
