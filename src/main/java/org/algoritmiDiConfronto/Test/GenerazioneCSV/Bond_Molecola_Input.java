@@ -2,6 +2,9 @@ package org.algoritmiDiConfronto.Test.GenerazioneCSV;
 
 import org.algoritmiDiConfronto.Bond.Bond;
 import org.algoritmiDiConfronto.Bond.BondLocalComparison;
+import org.algoritmiDiConfronto.algoritmi.EditDistance;
+import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
+import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.io.*;
 import java.util.List;
@@ -23,11 +26,11 @@ public class Bond_Molecola_Input {
     public static void main(String[] args) {
         BondLocalComparison bondLocalComparison = new BondLocalComparison();
         String folderPath = "src/main/resources/more500char";
-        String csvPath = "ok.csv";
+        String csvPath = "bond_Local_500.csv";
 
         try (BufferedWriter csvWriter = new BufferedWriter(new FileWriter(csvPath))) {
             // Intestazione CSV
-            csvWriter.write("NomeMolecola, ValoreLocalComparison, AllineamentoHotair, AllineamentoMolecola");
+            csvWriter.write("Molecola1,Molecola2, GlobalDistance");
             csvWriter.newLine();
 
             File folder = new File(folderPath);
@@ -51,13 +54,17 @@ public class Bond_Molecola_Input {
                             int x = bondLocalComparison.maggiorValoreindicex(matrice);
                             int y = bondLocalComparison.maggiorValoreindicey(matrice);
                             int maxVal = matrice.get(x).get(y);
+                            //int maxVal = matrice.getLast().getLast();
+
 
 
                             String alignedFisso = "\"" + String.join(",", allineamenti.get(0)) + "\"";
                             String alignedRiga = "\"" + String.join(",", allineamenti.get(1)) + "\"";
 
+                            alignedFisso = alignedFisso.replace("\n", "").replace("\r", "");
+                            alignedRiga = alignedRiga.replace("\n", "").replace("\r", "");
                             // Scrivi nel CSV
-                            csvWriter.write(file.getName() + "," + maxVal + "," + alignedFisso + "," + alignedRiga);
+                            csvWriter.write("HOTAIR"+","+file.getName() + "," + bondLocalComparison.valorePercentuale(maxVal,HOTAIR, molecolaDaConfrontare));
                             csvWriter.newLine();
 
                         } catch (IOException e) {

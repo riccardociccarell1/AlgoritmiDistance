@@ -1,6 +1,7 @@
 package org.algoritmiDiConfronto.algoritmi;
 
 
+import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -195,6 +196,7 @@ public abstract class AlgoritmoBaseGenerics {
         }
         return List.of(ALX, ALY);
     }
+
 
 
     public abstract double valorePercentuale(int valore, List<?> X, List<?> Y);

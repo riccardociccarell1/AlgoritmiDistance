@@ -19,7 +19,13 @@ public class Fasta_Parentesi {
         String FASTAMALAT1 = ("(((((..........(((((((((((((......)))))))))))))[[[[[[[[[[[..))))).................]]]]]]]]]]]");
         String FASTAPAN1 = ("((((((.....(((((....)))))[[[[[..))))))..............]]]]]");
         String FASTAPAN2 = ("(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
+        String uno = ("....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
+        String due = (".............((((.((((((....................................................................................................................................................................................(((((.....(((((....................))))))))))..))))))))))..................................................................................................................................................................................(((((...(...((((......))))...)))))).(((((.(((((((.....................................)))))))))).)).........");
 
+
+        stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
+        //stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 // 1. FASTA1YMO - FASTA2K95
@@ -84,7 +90,7 @@ public class Fasta_Parentesi {
 //LOCALCOMPARISON=37
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA2K95, FASTA2M8K, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
 // 9. FASTA2K95 - FASTA4PLX
 //EDITDISTANCE=32

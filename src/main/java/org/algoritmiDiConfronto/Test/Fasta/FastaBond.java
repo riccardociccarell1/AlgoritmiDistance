@@ -23,7 +23,7 @@ public class FastaBond {
         List<Bond> FASTA2M8K = parseBond("GGUUUCUUUUUAGUGAUUUUUCCAAACCCCUUUGUGCAAAAAUCAUUA",
                 "(((((......[[[[[[[[[[.[))))).......].]]]]]]]]]].");
 
-        List<Bond> DFASTAPLX = parseBond("GGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUCUUAAAAAAAAAAAAAGCAAAA",
+        List<Bond> FASTA4PLX = parseBond("GGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUCUUAAAAAAAAAAAAAGCAAAA",
                 ".(((((..........(((((((((..)))))))))[[[[[[[[[[[..)))))...........]]]]]]]]]]]");
 
         List<Bond> FASTAhTER = parseBond("GGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGGGCUGUUUUUCUCGCUGACUUUCAGCCCGCGGAAAAGCCUCGGCCUGCCGCCUUCCACCGUUCAUUCUAGAGCAAACAAAAAAUGUCAGCAGCUGGCC",
@@ -37,6 +37,17 @@ public class FastaBond {
 
         List<Bond> FASTAPAN2 = parseBond("GGGUUUUUUCCUUCGAAAGAAGGUUUUUAUCCCUGCCUUCGGGCAAAAAAAA",
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
+
+
+        List<Bond> uno = parseBond("GGCUCUCAGUGAGCC",
+                "(((((.....)))))");
+
+        List<Bond> due = parseBond("GGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUGAGCAAACAAAAAAUGUCAGCUGCUGGCCCCCGAACCCCGCCUGGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCGG",
+                "(((((........................(...((.(((((....((((((.....(......(((........[[[[[[[[[)))......))))))).)..))))..))...)...........]]].]]]]]]...))))).((((...((((.....((((.((((.(((..((((((((....))))).)))...))))))).)..(((.....))).....))))))).....))))");
+
+stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due, TipologiaAlgoritmi.EDITDISTANCE);
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.GLOBALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
 
 
 

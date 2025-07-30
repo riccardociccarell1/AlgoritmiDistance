@@ -14,9 +14,9 @@ public class InputTrasformation {
 
     public static List<Character> stringaToListaCaratteri(String sequenza) {
         for (char c : sequenza.toCharArray()) {
-            if (!Character.isLetter(c) && !carattereSpeciale(c)) {
-                throw new IllegalArgumentException("Errore: la stringa contiene caratteri non alfabetici.");
-            }
+//            if (!Character.isLetter(c) && !carattereSpeciale(c)) {
+//                throw new IllegalArgumentException("Errore: la stringa contiene caratteri non alfabetici.");
+//            }
         }
         List<Character> caratteri = new ArrayList<>();
         for (char c : sequenza.toCharArray()) {
