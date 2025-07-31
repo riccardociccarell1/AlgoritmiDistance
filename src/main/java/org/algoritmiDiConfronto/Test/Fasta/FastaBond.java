@@ -44,239 +44,183 @@ public class FastaBond {
 
         List<Bond> due = parseBond("GGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUGAGCAAACAAAAAAUGUCAGCUGCUGGCCCCCGAACCCCGCCUGGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCGG",
                 "(((((........................(...((.(((((....((((((.....(......(((........[[[[[[[[[)))......))))))).)..))))..))...)...........]]].]]]]]]...))))).((((...((((.....((((.((((.(((..((((((((....))))).)))...))))))).)..(((.....))).....))))))).....))))");
-
-stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due, TipologiaAlgoritmi.EDITDISTANCE);
-        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+//
+//stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due, TipologiaAlgoritmi.EDITDISTANCE);
+//        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.GLOBALCOMPARISON);
+//        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 
 
 
         //1. FASTA1YMO - FASTA2K95
-        //EDITDISTANCE=1
-        //GLOBALCOMPARISON=31
-        //LOCALCOMPARISON=31
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2K95, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2K95,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2K95,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2K95,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //2. FASTA1YMO - FASTA2M8K
-        //EDITDISTANCE=19
-        //GLOBALCOMPARISON=-2
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2M8K,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2M8K,  TipologiaAlgoritmi.BONDGLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2M8K,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA2M8K,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //3. FASTA1YMO - FASTA4PLX
-        //EDITDISTANCE=27
-        //GLOBALCOMPARISON=-3
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA4PLX,  TipologiaAlgoritmi.BONDBONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTA4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //4. FASTA1YMO - FASTAhTER
-        //EDITDISTANCE=86
-        //GLOBALCOMPARISON=-54
-        //LOCALCOMPARISON=24
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAhTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAhTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAhTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAhTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //5. FASTA1YMO - FASTAMALAT1
-        //EDITDISTANCE=41
-        //GLOBALCOMPARISON=-16
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAMALAT1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAMALAT1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAMALAT1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAMALAT1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //6. FASTA1YMO - FASTAPAN1
-        //EDITDISTANCE=24
-        //GLOBALCOMPARISON=-4
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //7. FASAT1YMO - FASTAPAN2
-        //EDITDISTANCE=23
-        //GLOBALCOMPARISON=-7
-        //LOCALCOMPARISON=5
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN2, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA1YMO, FASTAPAN2, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTADB1YMO, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTADB1YMO, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //8. FASTA2K95 - FASTA2M8K
-        //EDITDISTANCE=18
-        //GLOBALCOMPARISON=0
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA2M8K,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA2M8K,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA2M8K,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA2M8K,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //9. FASTA2K95 - FASTA4PLX
-        //EDITDISTANCE=28
-        //GLOBALCOMPARISON=-4
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTA4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //10. FASTA2K95 - FASTAhTER
-        //EDITDISTANCE=85
-        //GLOBALCOMPARISON=-52
-        //LOCALCOMPARISON=24
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAhTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAhTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAhTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAhTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //11. FASTA2K95 - FASTAMALAT1
-        //EDITDISTANCE=42
-        //GLOBALCOMPARISON=-16
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, FASTAMALAT1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, FASTAMALAT1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, FASTAMALAT1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(DB2K95, FASTAMALAT1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //12. FASTA2K95 - FASTAPAN1
-        //EDITDISTANCE=24
-        //GLOBALCOMPARISON=-4
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //13. FASTA2K95 - FASTAPAN2
-        //EDITDISTANCE=24
-        //GLOBALCOMPARISON=-8
-        //LOCALCOMPARISON=5
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2K95, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //14. FASTA2M8K - FASTA4PLX
-        //EDITDISTANCE=32
-        //GLOBALCOMPARISON=-12
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTA4PLX,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTA4PLX,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTA4PLX,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTA4PLX,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
         //15. FASTA2M8K - FASTAhTER
-        //EDITDISTANCE=92
-        //GLOBALCOMPARISON=-66
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAhTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAhTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAhTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAhTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //16. FASTA2M8K - FASTAMALAT1
-        //EDITDISTANCE=43
-        //GLOBALCOMPARISON=-22
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAMALAT1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAMALAT1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAMALAT1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAMALAT1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //17. FASTA2M8K - FASTAPAN1
-        //EDITDISTANCE=27
-        //GLOBALCOMPARISON=-12
-        //LOCALCOMPARISON=5
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN1, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN1, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //18. FASTA2M8K - FASTAPAN2
-        //EDITDISTANCE=23
-        //GLOBALCOMPARISON=-6
-        //LOCALCOMPARISON=5
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA2M8K, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //19. FASTA4PLX - FASTAhTER
-        //EDITDISTANCE=80
-        //GLOBALCOMPARISON=-41
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAhTER,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAhTER,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAhTER,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAhTER,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //20. FASTA4PLX - FASTAMALAT1
-        //EDITDISTANCE=17
-        //GLOBALCOMPARISON=31
-        //LOCALCOMPARISON=32
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAMALAT1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAMALAT1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAMALAT1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAMALAT1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //21. FASTA4PLX - FASTAPAN1
-        //EDITDISTANCE=23
-        //GLOBALCOMPARISON=6
-        //LOCALCOMPARISON=12
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //22. FASTA4PLX - FASTAPAN2
-        //EDITDISTANCE=31
-        //GLOBALCOMPARISON=-11
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTA4PLX, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //23. FASTAhTER  - FASTAMALAT1
-        //EDITDISTANCE=76
-        //GLOBALCOMPARISON=-31
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAMALAT1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAMALAT1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAMALAT1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAMALAT1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //24. FASTAhTER  - FASTAPAN1
-        //EDITDISTANCE=88
-        //GLOBALCOMPARISON=-58
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN1,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN1,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN1,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN1,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //25. FASTAhTER  - FASTAPAN2
-        //EDITDISTANCE=94
-        //GLOBALCOMPARISON=-70
-        //LOCALCOMPARISON=5
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, PAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAhTER, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //26.FASTAMALAT1  - FASTAPAN1
-        //EDITDISTANCE=33
-        //GLOBALCOMPARISON=-2
-        //LOCALCOMPARISON=10
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN1, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN1, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN1, TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN1, TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //27. FASTAMALAT1   - FASTAPAN2
-        //EDITDISTANCE=42
-        //GLOBALCOMPARISON=-20
-        //LOCALCOMPARISON=6
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN2, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN2, TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN2, TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAMALAT1, FASTAPAN2, TipologiaAlgoritmi.LOCALCOMPARISON);
 
         //28. FASTAPAN1   - FASTAPAN2
-        //EDITDISTANCE=22
-        //GLOBALCOMPARISON=-2
-        //LOCALCOMPARISON=8
+
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAPAN1, FASTAPAN2,  TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAPAN1, FASTAPAN2,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAPAN1, FASTAPAN2,  TipologiaAlgoritmi.BONDLOCALCOMPARISON);
+        //stampaAlgoritmo.eseguiAlgoritmoSuBond(FASTAPAN1, FASTAPAN2,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 

@@ -15,9 +15,14 @@ public class Bond {
    private Coppie primaCoppia;
    private Coppie secondaCoppia;
 
-    public Bond(char lettera1, int indice1, char lettera2, int indice2) {
+   private char parentesiAperta;
+   private char parentesiChiusa;
+
+    public Bond(char lettera1, int indice1, char lettera2, int indice2, char parentesiAperta, char parentesiChiusa) {
         this.primaCoppia = new Coppie(lettera1, indice1);
         this.secondaCoppia = new Coppie(lettera2, indice2);
+        this.parentesiAperta = parentesiAperta;
+        this.parentesiChiusa = parentesiChiusa;
     }
 
     public Coppie getBase1() {
@@ -27,6 +32,9 @@ public class Bond {
     public Coppie getBase2() {
         return secondaCoppia;
     }
+
+    public char getParentesiAperta() {return parentesiAperta;}
+    public char getParentesiChiusa() {return parentesiChiusa;}
 
     @Override
     public String toString() {
@@ -39,7 +47,9 @@ public class Bond {
         if (obj == null || getClass() != obj.getClass()) return false;
         Bond other = (Bond) obj;
         return primaCoppia.getPrimoelemento().equals(other.primaCoppia.getPrimoelemento())
-                && secondaCoppia.getPrimoelemento().equals(other.secondaCoppia.getPrimoelemento());
+                && secondaCoppia.getPrimoelemento().equals(other.secondaCoppia.getPrimoelemento())
+                && parentesiAperta == other.parentesiAperta
+                && parentesiChiusa == other.parentesiChiusa;
     }
 
     @Override
@@ -54,19 +64,6 @@ public class Bond {
         return -1;
     }
 
-    // Metodo di utilità per riconoscere la coppia gap
-    private static boolean isGap(Object object1, Object object2) {
-        Bond bond1 = (Bond) object1;
-        Bond bond2 = (Bond) object2;
-        if ((Character.isLetter((char)bond1.primaCoppia.getPrimoelemento()) &&
-                (Character.isLetter((char)bond2.primaCoppia.getPrimoelemento()))) &&
-                (Character.isLetter((char)bond1.secondaCoppia.getPrimoelemento()) &&
-                        (Character.isLetter((char)bond2.secondaCoppia.getPrimoelemento()))))
-        {
-            return true;
-        }
-        return false;
-    }
 
     private static boolean bondUguali(Object object1, Object object2) {
         Bond bond1 = (Bond) object1;
@@ -78,11 +75,5 @@ public class Bond {
               return false;
             }
     }
-
-
-
-
-
-
 }
 

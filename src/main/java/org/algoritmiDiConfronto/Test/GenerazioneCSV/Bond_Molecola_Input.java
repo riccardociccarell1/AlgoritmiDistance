@@ -1,9 +1,6 @@
 package org.algoritmiDiConfronto.Test.GenerazioneCSV;
 
 import org.algoritmiDiConfronto.Bond.Bond;
-import org.algoritmiDiConfronto.Bond.BondLocalComparison;
-import org.algoritmiDiConfronto.algoritmi.EditDistance;
-import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.io.*;
@@ -24,7 +21,7 @@ public class Bond_Molecola_Input {
             "....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
 
     public static void main(String[] args) {
-        BondLocalComparison bondLocalComparison = new BondLocalComparison();
+        LocalComparison bondLocalComparison = new LocalComparison();
         String folderPath = "src/main/resources/more500char";
         String csvPath = "bond_Local_500.csv";
 

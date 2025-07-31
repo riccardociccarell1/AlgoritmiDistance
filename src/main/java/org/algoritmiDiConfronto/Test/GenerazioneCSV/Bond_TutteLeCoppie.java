@@ -1,7 +1,7 @@
 package org.algoritmiDiConfronto.Test.GenerazioneCSV;
 
 import org.algoritmiDiConfronto.Bond.Bond;
-import org.algoritmiDiConfronto.Bond.BondLocalComparison;
+import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.io.*;
 import java.util.*;
@@ -15,7 +15,7 @@ import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
 public class Bond_TutteLeCoppie {
 
     public static void main(String[] args) {
-        BondLocalComparison bondLocalComparison = new BondLocalComparison();
+        LocalComparison bondLocalComparison = new LocalComparison();
         String folderPath = "src/main/resources/Telomerase/TelomeraseBond";
         String csvPath = "confronti_molecolari_telomerase_bondlocal.csv";
 

@@ -27,7 +27,7 @@ public class ParserBond {
             switch (carattereStruttura) {
 
                 case '.' :
-                    bonds.add(new Bond(sequenza.charAt(i),i,'.',-1));
+                    bonds.add(new Bond(sequenza.charAt(i),i,'.',-1,'.','.'));
                     break;
 
                 case '(':
@@ -36,7 +36,7 @@ public class ParserBond {
                     case ')':
                         if (!parentesiRotonde.isEmpty()) {
                             int j = parentesiRotonde.pop();
-                            bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i));}
+                            bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i,'(',')'));}
                         break;
 
                             case '[':
@@ -45,7 +45,7 @@ public class ParserBond {
                             case ']':
                                 if (!parentesiquadre.isEmpty()) {
                                     int j = parentesiquadre.pop();
-                                    bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i));
+                                    bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i,'[',']'));
                                 }
                                 break;
 
@@ -55,7 +55,7 @@ public class ParserBond {
                                             case '}':
                                                 if (!parentesiGraffe.isEmpty()) {
                                                     int j = parentesiGraffe.pop();
-                                                    bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i));
+                                                    bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i,'{','}'));
                                                 }
                                                 break;
 
@@ -65,7 +65,7 @@ public class ParserBond {
                                                             case '>':
                                                             if (!parentesiMinoreMaggiore.isEmpty()) {
                                                                 int j = parentesiMinoreMaggiore.pop();
-                                                                bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i));
+                                                                bonds.add(new Bond(sequenza.charAt(j),j,sequenza.charAt(i),i,'<','>'));
                                                             }
                                                             break;
 
