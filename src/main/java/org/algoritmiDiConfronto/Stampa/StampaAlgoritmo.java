@@ -30,9 +30,9 @@ public class StampaAlgoritmo {
         List<List<Integer>> M = algoritmo.matrix(X, Y);
 
         stampatore.stampaMatrice(X, Y, M);
-        stampatore.stampaSignificato(algoritmo.significatoUltimoElemento());
+        stampatore.stampaSignificato(algoritmo.significatoElemento());
         stampatore.stampaValoreAlgoritmo(M,algoritmo);
-        stampatore.stampaValorePercentuale(algoritmo.valorePercentuale(controlloValoreAlgoritmo(algoritmo,M,X,Y),X,Y));
+        stampatore.stampaValorePercentuale(algoritmo.valoreP(controlloValoreAlgoritmo(algoritmo,M,X,Y),X,Y));
 
         List<List<String>> allineamento = algoritmo.calcolaAllineamento(X, Y, M);
         stampatore.stampaAllineamento(allineamento.get(0), allineamento.get(1));

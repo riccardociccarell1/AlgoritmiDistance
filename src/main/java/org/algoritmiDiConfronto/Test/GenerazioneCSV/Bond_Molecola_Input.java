@@ -22,12 +22,12 @@ public class Bond_Molecola_Input {
 
     public static void main(String[] args) {
         LocalComparison bondLocalComparison = new LocalComparison();
-        String folderPath = "src/main/resources/more500char";
-        String csvPath = "bond_Local_500.csv";
+        String folderPath = "src/main/resources/HOTAIR_DOT_BRACKET";
+        String csvPath = "bond_local_size_Dot_Bracket.csv";
 
         try (BufferedWriter csvWriter = new BufferedWriter(new FileWriter(csvPath))) {
             // Intestazione CSV
-            csvWriter.write("Molecola1,Molecola2, GlobalDistance");
+            csvWriter.write("Molecola1,Molecola2, LocalComparison,lHotair,lmol2");
             csvWriter.newLine();
 
             File folder = new File(folderPath);
@@ -61,7 +61,7 @@ public class Bond_Molecola_Input {
                             alignedFisso = alignedFisso.replace("\n", "").replace("\r", "");
                             alignedRiga = alignedRiga.replace("\n", "").replace("\r", "");
                             // Scrivi nel CSV
-                            csvWriter.write("HOTAIR"+","+file.getName() + "," + bondLocalComparison.valorePercentuale(maxVal,HOTAIR, molecolaDaConfrontare));
+                            csvWriter.write("HOTAIR"+","+file.getName() + "," + bondLocalComparison.valoreP(maxVal,HOTAIR, molecolaDaConfrontare) + "," + HOTAIR.size() + "," + molecolaDaConfrontare.size());
                             csvWriter.newLine();
 
                         } catch (IOException e) {

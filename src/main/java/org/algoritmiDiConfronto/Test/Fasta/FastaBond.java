@@ -39,15 +39,15 @@ public class FastaBond {
                 "(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
 
 
-        List<Bond> uno = parseBond("GGCUCUCAGUGAGCC",
-                "(((((.....)))))");
+        List<Bond> f1na2 = parseBond("GGGCUGUUUUUCUCGCUGACUUUCAGCCCC",
+                "((((((....((.....))....)))))).");
 
-        List<Bond> due = parseBond("GGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUGAGCAAACAAAAAAUGUCAGCUGCUGGCCCCCGAACCCCGCCUGGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCGG",
-                "(((((........................(...((.(((((....((((((.....(......(((........[[[[[[[[[)))......))))))).)..))))..))...)...........]]].]]]]]]...))))).((((...((((.....((((.((((.(((..((((((((....))))).)))...))))))).)..(((.....))).....))))))).....))))");
+        List<Bond> f2fey = parseBond("GAGACUAUCGACAUUUGAUACACUAUUUAUCAAUGGAUGUCUC",
+                "(((((...(..(((..((((.......)))).))))..)))))");
 //
 //stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due, TipologiaAlgoritmi.EDITDISTANCE);
 //        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.GLOBALCOMPARISON);
-//        stampaAlgoritmo.eseguiAlgoritmoSuBond(uno, due,  TipologiaAlgoritmi.LOCALCOMPARISON);
+        stampaAlgoritmo.eseguiAlgoritmoSuBond(f1na2, f2fey,  TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 

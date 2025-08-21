@@ -2,15 +2,12 @@ package org.algoritmiDiConfronto.Test.GenerazioneCSV;
 
 import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
-import org.algoritmiDiConfronto.algoritmi.EditDistance;
-import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.io.*;
 import java.util.List;
 
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.CreaListaCoppie;
-import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaCaratteri;
 
 public class Molecola_Input {
 
@@ -21,20 +18,20 @@ public class Molecola_Input {
      */
 
 
-    //static List<Character> HOTAIRNUCLEOTIDI=  stringaToListaCaratteri("GGGACUCGCCUGUGCUCUGGAGCUUGAUCCGAAAGCUUCCACAGUGAGGACUGCUCCGUGGGGGUAAGAGAGCACCAGGCACUGAGGCCUGGGAGUUCCACAGACCAACACCCCUGCUCCUGGCGGCUCCCACCCGGGGCUUAGACCCUCAGGUCCCUAAUAUCCCGGAGGUGCUCUCAAUCAGAAAGGUCCUGCUCCGCUUCGCAGUGGAAUGGAACGGAUUUAGAAGCCUGCAGUAGGGGAGUGGGGAGUGGAGAGAGGGAGCCCAGAGUUACAGACGGCGGCGAGAGGAAGGAGGGGCGUCUUUAUUUUUUUAAGGCCCCAAAGAGUCUGAUGUUUACAAGACCAGAAAUGCCACGGCCGCGUCCUGGCAGAGAAAAGGCUGAAAUGGAGGACCGGCGCCUUCCUUAUAAGUAUGCACAUUGGCGAGAGAAUUAAGUGCUGCAACCUAAACCAGCAAUUACACCCAAGCUCGUUGGGGCCUAAGCCAGUACCGACCUGGUAGAAAAAGCAACCACGAAGCUAGAGAGAG");
-    //static List<Character> HOTAIRSTRUTTURA=  stringaToListaCaratteri("....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
+    //static List<Character> HOTAIR=  stringaToListaCaratteri("GGGACUCGCCUGUGCUCUGGAGCUUGAUCCGAAAGCUUCCACAGUGAGGACUGCUCCGUGGGGGUAAGAGAGCACCAGGCACUGAGGCCUGGGAGUUCCACAGACCAACACCCCUGCUCCUGGCGGCUCCCACCCGGGGCUUAGACCCUCAGGUCCCUAAUAUCCCGGAGGUGCUCUCAAUCAGAAAGGUCCUGCUCCGCUUCGCAGUGGAAUGGAACGGAUUUAGAAGCCUGCAGUAGGGGAGUGGGGAGUGGAGAGAGGGAGCCCAGAGUUACAGACGGCGGCGAGAGGAAGGAGGGGCGUCUUUAUUUUUUUAAGGCCCCAAAGAGUCUGAUGUUUACAAGACCAGAAAUGCCACGGCCGCGUCCUGGCAGAGAAAAGGCUGAAAUGGAGGACCGGCGCCUUCCUUAUAAGUAUGCACAUUGGCGAGAGAAUUAAGUGCUGCAACCUAAACCAGCAAUUACACCCAAGCUCGUUGGGGCCUAAGCCAGUACCGACCUGGUAGAAAAAGCAACCACGAAGCUAGAGAGAG");
+    //static List<Character> HOTAIR=  stringaToListaCaratteri("....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
 
     static List<Coppie> HOTAIR = CreaListaCoppie("GGGACUCGCCUGUGCUCUGGAGCUUGAUCCGAAAGCUUCCACAGUGAGGACUGCUCCGUGGGGGUAAGAGAGCACCAGGCACUGAGGCCUGGGAGUUCCACAGACCAACACCCCUGCUCCUGGCGGCUCCCACCCGGGGCUUAGACCCUCAGGUCCCUAAUAUCCCGGAGGUGCUCUCAAUCAGAAAGGUCCUGCUCCGCUUCGCAGUGGAAUGGAACGGAUUUAGAAGCCUGCAGUAGGGGAGUGGGGAGUGGAGAGAGGGAGCCCAGAGUUACAGACGGCGGCGAGAGGAAGGAGGGGCGUCUUUAUUUUUUUAAGGCCCCAAAGAGUCUGAUGUUUACAAGACCAGAAAUGCCACGGCCGCGUCCUGGCAGAGAAAAGGCUGAAAUGGAGGACCGGCGCCUUCCUUAUAAGUAUGCACAUUGGCGAGAGAAUUAAGUGCUGCAACCUAAACCAGCAAUUACACCCAAGCUCGUUGGGGCCUAAGCCAGUACCGACCUGGUAGAAAAAGCAACCACGAAGCUAGAGAGAG",
             "....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........", TipologiaCoppie.COPPIE_CARATTERI);
 
     public static void main(String[] args) {
-        GlobalComparison localComparison = new GlobalComparison();
-        String folderPath = "src/main/resources/more500char";
-        String csvPath = "nucleotidi_parentesi_global_500.csv";
+        LocalComparison localComparison = new LocalComparison();
+        String folderPath = "src/main/resources/HOTAIR_DOT_BRACKET";
+        String csvPath = "coppie_local_Dot_Bracket.csv";
 
         try (BufferedWriter csvWriter = new BufferedWriter(new FileWriter(csvPath))) {
             // Intestazione CSV
-            csvWriter.write("Molecola1,Molecola2, GlobalComparsion");
+            csvWriter.write("Molecola1,Molecola2, LocalNormalizzato,Local");
             csvWriter.newLine();
 
             File folder = new File(folderPath);
@@ -56,17 +53,18 @@ public class Molecola_Input {
                             List<List<String>> allineamenti = localComparison.calcolaAllineamento(HOTAIR, molecolaDaConfrontare, matrice);
 
 
-                            //int x = localComparison.maggiorValoreindicex(matrice);
-                            //int y = localComparison.maggiorValoreindicey(matrice);
-                            //int maxVal = matrice.get(x).get(y);
-                            int maxVal = matrice.getLast().getLast();
+                            int x = localComparison.maggiorValoreindicex(matrice);
+                            int y = localComparison.maggiorValoreindicey(matrice);
+                            int maxVal = matrice.get(x).get(y);
+                            //int maxVal = matrice.getLast().getLast();
 
 
                             String alignedFisso = "\"" + String.join(",", allineamenti.get(0)) + "\"";
                             String alignedRiga = "\"" + String.join(",", allineamenti.get(1)) + "\"";
 
                             // Scrivi nel CSV
-                            csvWriter.write("HOTAIR"+","+file.getName() + "," + localComparison.valorePercentuale(maxVal,HOTAIR,molecolaDaConfrontare));
+                            csvWriter.write("HOTAIR"+","+file.getName() + "," +
+                                    localComparison.valoreP(maxVal,HOTAIR,molecolaDaConfrontare)+"," + maxVal);
                             csvWriter.newLine();
 
                         } catch (IOException e) {

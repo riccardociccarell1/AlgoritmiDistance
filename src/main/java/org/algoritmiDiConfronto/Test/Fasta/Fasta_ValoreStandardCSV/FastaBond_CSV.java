@@ -1,8 +1,6 @@
 package org.algoritmiDiConfronto.Test.Fasta.Fasta_ValoreStandardCSV;
 
 import org.algoritmiDiConfronto.Bond.Bond;
-import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
-import org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation;
 import org.algoritmiDiConfronto.algoritmi.AlgoritmoBaseGenerics;
 import org.algoritmiDiConfronto.algoritmi.EditDistance;
 import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
@@ -21,8 +19,8 @@ public class FastaBond_CSV {
         AlgoritmoBaseGenerics local = new LocalComparison();
 
         String[] nomi = {
-                "FASTA1YMO", "FASTA2K95", "FASTA2M8K", "FASTA4PLX", "FASTAhTER",
-                "FASTAMALAT1", "FASTAPAN1", "FASTAPAN2"
+                "1YMO", "2K95", "2M8K", "4PLX", "hTER",
+                "MALAT1", "PAN1", "PAN2"
         };
 
         String[] sequenzeNucleotide = {
@@ -61,19 +59,19 @@ public class FastaBond_CSV {
                     // Edit
                     List<List<Integer>> Medit = edit.matrix(X, Y);
                     int editRaw = Medit.getLast().getLast();
-                    double editPerc = edit.valorePercentuale(editRaw, X, Y);
+                    double editPerc = edit.valoreP(editRaw, X, Y);
 
                     // Global
                     List<List<Integer>> Mglobal = global.matrix(X, Y);
                     int globalRaw = Mglobal.getLast().getLast();
-                    double globalPerc = global.valorePercentuale(globalRaw, X, Y);
+                    double globalPerc = global.valoreP(globalRaw, X, Y);
 
                     // Local
                     List<List<Integer>> Mlocal = local.matrix(X, Y);
                     int xloc = local.valoreDipartenzax(X, Mlocal);
                     int yloc = local.valoredipartenzay(Y, Mlocal);
                     int localRaw = Mlocal.get(xloc).get(yloc);
-                    double localPerc = local.valorePercentuale(localRaw, X, Y);
+                    double localPerc = local.valoreP(localRaw, X, Y);
 
                     writer.write(nome1 + "," + nome2 + "," + editPerc + "," + globalPerc + "," + localPerc + "\n");
                 }

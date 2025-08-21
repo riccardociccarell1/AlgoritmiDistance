@@ -29,7 +29,7 @@ public class EditDistance extends AlgoritmoBaseGenerics {
     }
 
     @Override
-    public String significatoUltimoElemento() {
+    public String significatoElemento() {
         return "la edit distance corrisponde a:";
     }
 
@@ -50,20 +50,6 @@ public class EditDistance extends AlgoritmoBaseGenerics {
         else return 1;
     }*/@Override
     public int pesoCaratteri(Object elemento1, Object elemento2) {
-        // Se sono entrambi caratteri
-        if (elemento1 instanceof Character && elemento2 instanceof Character) {
-            char c1 = (Character) elemento1;
-            char c2 = (Character) elemento2;
-
-            if (c1 == c2) {
-                if (c1 == '.' && c2 == '.') {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            }
-            return 1;
-        }
         if(elemento1.equals(elemento2)) {
             return 0;
         }
@@ -84,7 +70,7 @@ public class EditDistance extends AlgoritmoBaseGenerics {
     }
 
     @Override
-    public double valorePercentuale(int valore, List<?> X, List<?> Y) {
+    public double valoreP(int valore, List<?> X, List<?> Y) {
         int maxLen = Math.max(X.size(), Y.size());
         return (1.0 - (double) valore / maxLen) * 100;
     }

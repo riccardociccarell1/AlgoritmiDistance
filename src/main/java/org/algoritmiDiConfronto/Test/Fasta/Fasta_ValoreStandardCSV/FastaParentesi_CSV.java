@@ -18,8 +18,8 @@ public class FastaParentesi_CSV {
         AlgoritmoBaseGenerics global = new GlobalComparison();
 
         String[] nomi = {
-                "FASTA1YMO", "FASTA2K95", "FASTA2M8K", "FASTA4PLX", "FASTAhTER",
-                "FASTAMALAT1", "FASTAPAN1", "FASTAPAN2"
+                "1YMO", "2K95", "2M8K", "4PLX", "hTER",
+                "MALAT1", "PAN1", "PAN2"
         };
 
         String[] sequenze = {
@@ -46,11 +46,11 @@ public class FastaParentesi_CSV {
                     List<List<Integer>> Mglobal = global.matrix(X,Y);
                     List<List<Integer>> Mlocal = local.matrix(X,Y);
 
-                    double e = edit.valorePercentuale(Medit.getLast().getLast(),X,Y);
-                    double g = global.valorePercentuale(Mglobal.getLast().getLast(),X,Y);
+                    double e = edit.valoreP(Medit.getLast().getLast(),X,Y);
+                    double g = global.valoreP(Mglobal.getLast().getLast(),X,Y);
                     int ylocal= local.valoredipartenzay(Y,Mlocal);
                     int xlocal= local.valoreDipartenzax(X,Mlocal);
-                    double l = local.valorePercentuale(Mlocal.get(xlocal).get(ylocal),X,Y);
+                    double l = local.valoreP(Mlocal.get(xlocal).get(ylocal),X,Y);
 
                     writer.write(nome1 + "," + nome2 + "," + e + "," + g + "," + l + "\n");
                 }

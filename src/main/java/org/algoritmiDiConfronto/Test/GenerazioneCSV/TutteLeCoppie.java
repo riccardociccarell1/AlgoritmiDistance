@@ -1,19 +1,14 @@
 package org.algoritmiDiConfronto.Test.GenerazioneCSV;
 
-import org.algoritmiDiConfronto.Bond.Bond;
 import org.algoritmiDiConfronto.GestioneCoppie.Coppie;
 import org.algoritmiDiConfronto.TipologiaElementi.TipologiaCoppie;
-import org.algoritmiDiConfronto.algoritmi.EditDistance;
-import org.algoritmiDiConfronto.algoritmi.GlobalComparison;
 import org.algoritmiDiConfronto.algoritmi.LocalComparison;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.algoritmiDiConfronto.Bond.ParserBond.parseBond;
 import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.CreaListaCoppie;
-import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformation.stringaToListaCaratteri;
 
 
 /**
@@ -22,12 +17,13 @@ import static org.algoritmiDiConfronto.StringInputTrasformation.InputTrasformati
 public class TutteLeCoppie {
 
     public static void main(String[] args) {
-        EditDistance editDistance = new EditDistance();
+        LocalComparison editDistance = new LocalComparison();
         String folderPath = "src/main/resources/Telomerase/TelomeraseBond";
-        String csvPath = "confronti_molecolari_telomerase_parentesiedit.csv";
+        String csvPath = "confronti_molecolari_telomerase_nucleotidi_parentesilocal.csv";
 
         List<String> nomiFile = new ArrayList<>();
-        List<List<Character>> molecole = new ArrayList<>();
+        //List<List<Character>> molecole = new ArrayList<>();
+        List<List<Coppie>> molecole = new ArrayList<>();
 
         File folder = new File(folderPath);
         File[] files = folder.listFiles();
@@ -46,7 +42,8 @@ public class TutteLeCoppie {
 
                     if (sequenza != null && struttura != null) {
                         nomiFile.add(file.getName());
-                        molecole.add(stringaToListaCaratteri(struttura));
+                        //molecole.add(stringaToListaCaratteri(sequenza));
+                        molecole.add(CreaListaCoppie(sequenza,struttura,TipologiaCoppie.COPPIE_CARATTERI));
 
                     }
                 } catch (IOException e) {
@@ -63,23 +60,27 @@ public class TutteLeCoppie {
             for (int i = 0; i < molecole.size() - 1; i++) {
                 for (int j = i + 1; j < molecole.size(); j++) {
 
-                    List<Character> mol1 = molecole.get(i);
-                    List<Character> mol2 = molecole.get(j);
+                    //List<Character> mol1 = molecole.get(i);
+                    //List<Character> mol2 = molecole.get(j);
+
+                    List<Coppie> mol1 = molecole.get(i);
+                    List<Coppie> mol2 = molecole.get(j);
+
 
                     List<List<Integer>> matrice = editDistance.matrix(mol1, mol2);
                     List<List<String>> allineamenti = editDistance.calcolaAllineamento(mol1, mol2, matrice);
 
-                    //int x = editDistance.maggiorValoreindicex(matrice);
-                    //int y = editDistance.maggiorValoreindicey(matrice);
-                    //int maxVal = matrice.get(x).get(y);
+                    int x = editDistance.maggiorValoreindicex(matrice);
+                    int y = editDistance.maggiorValoreindicey(matrice);
+                    int maxVal = matrice.get(x).get(y);
 
-                    int maxVal= matrice.getLast().getLast();
+                    //int maxVal= matrice.getLast().getLast();
 
                     String aligned1 = "\"" + String.join(",", allineamenti.get(0)) + "\"";
                     String aligned2 = "\"" + String.join(",", allineamenti.get(1)) + "\"";
 
 
-                    csvWriter.write(nomiFile.get(i) + "," + nomiFile.get(j) + "," + editDistance.valorePercentuale(maxVal,mol1,mol2) + "," + aligned1 + "," + aligned2);
+                    csvWriter.write(nomiFile.get(i) + "," + nomiFile.get(j) + "," + editDistance.valoreP(maxVal,mol1,mol2) + "," + aligned1 + "," + aligned2);
                     csvWriter.newLine();
 
                 }

@@ -19,20 +19,18 @@ public class Fasta_Parentesi {
         String FASTAMALAT1 = ("(((((..........(((((((((((((......)))))))))))))[[[[[[[[[[[..))))).................]]]]]]]]]]]");
         String FASTAPAN1 = ("((((((.....(((((....)))))[[[[[..))))))..............]]]]]");
         String FASTAPAN2 = ("(((.....(((((....)))))[[[[[..)))((((....))))...]]]]]");
-        String uno = ("....((((((.(((((((((.(((...((((...((((((((...(((.....))).)))))))).....((((((((((......))))))).)))((((..(((.((.((((((((...((((((.((...((((((....((((....)))).......)))))).)).))).............((.(((.((((((....)))))).))).))..........)))...)))))))).)))))..))))....)))))))))))))........(((((((.((((((((.(((((..(((.........)))))))).....(((((((((((..(((.((....((((((.(((...))).))))))......)))))))))))))))).....))))))))...))).))))))).)))))).........(((((..........)))))..........((((((.((((((....(((((.......))))).......)).)))))).))))........");
-        String due = (".............((((.((((((....................................................................................................................................................................................(((((.....(((((....................))))))))))..))))))))))..................................................................................................................................................................................(((((...(...((((......))))...)))))).(((((.(((((((.....................................)))))))))).)).........");
+        String uno = ("..((..))..");
+        String due = ("..((...))..");
 
 
-        stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
+        //stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(uno, due, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 
 
 // 1. FASTA1YMO - FASTA2K95
-//EDITDISTANCE=1
-//GLOBALCOMPARISON=46
-//LOCALCOMPARISON=46
-        //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA1YMO, FASTA2K95, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
+
+        stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA1YMO, FASTA2K95, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.EDITDISTANCE);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA1YMO, FASTA2K95, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.GLOBALCOMPARISON);
         //stampaAlgoritmo.eseguiAlgoritmoSuListe(FASTA1YMO, FASTA2K95, TipologiaSingoliElementi.CHARACTER, TipologiaSingoliElementi.CHARACTER, TipologiaAlgoritmi.LOCALCOMPARISON);
 

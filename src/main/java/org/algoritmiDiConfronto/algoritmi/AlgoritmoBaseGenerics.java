@@ -1,7 +1,6 @@
 package org.algoritmiDiConfronto.algoritmi;
 
 
-import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -39,7 +38,7 @@ public abstract class AlgoritmoBaseGenerics {
      * questo dipende dall'algoritmo utilizzato.
      *
      */
-    public abstract String significatoUltimoElemento();
+    public abstract String significatoElemento();
 
 
 
@@ -199,7 +198,7 @@ public abstract class AlgoritmoBaseGenerics {
 
 
 
-    public abstract double valorePercentuale(int valore, List<?> X, List<?> Y);
+    public abstract double valoreP(int valore, List<?> X, List<?> Y);
 
 
 
